@@ -155,7 +155,7 @@ Dylan is an object-functional language originally created by Apple for the Newto
 * [Official Website](https://opendylan.org): https://opendylan.org
 * [Repository](https://github.com/dylan-lang/opendylan): https://github.com/dylan-lang/opendylan
 
-### [Eixir](https://elixir-lang.org)
+### [Elixir](https://elixir-lang.org)
 Elixir is a dynamic, functional language for building scalable and maintainable applications.
 
 Elixir runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems. These capabilities and Elixir tooling allow developers to be productive in several domains, such as web development, embedded software, machine learning, data pipelines, and multimedia processing, across a wide range of industries.
