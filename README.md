@@ -81,6 +81,16 @@ C  is a general-purpose computer programming language. It was created in the 197
 * [Official Website](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html): https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 * [Repository](https://gcc.gnu.org/git/gcc.git): https://gcc.gnu.org/git/gcc.git
 
+### [Cadence](https://developers.flow.com/cadence/intro)
+Cadence is a resource-oriented programming language that introduces new features to smart contract programming that help developers ensure that their code is safe, secure, clear, and approachable.
+* Type safety and a strong static type system
+* Resource-oriented programming, a new paradigm that pairs linear types with object capabilities to create a secure and declarative model for digital ownership by ensuring that resources (and their associated assets) can only exist in one location at a time, cannot be copied, and cannot be accidentally lost or deleted
+* Built-in pre-conditions and post-conditions for functions and transactions
+* The utilization of capability-based security, which enforces access control by requiring that access to objects is restricted to only the owner and those who have a valid reference to the object
+---
+* [Official Website](https://developers.flow.com/cadence/intro): https://developers.flow.com/cadence/intro
+* [Repository](https://github.com/onflow/cadence): https://github.com/onflow/cadence
+
 ### [Chapel](https://chapel-lang.org)
 Chapel is a programming language designed for productive parallel computing at scale.
 
@@ -193,6 +203,11 @@ Elixir is a dynamic, functional language for building scalable and maintainable 
 Elixir runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems. These capabilities and Elixir tooling allow developers to be productive in several domains, such as web development, embedded software, machine learning, data pipelines, and multimedia processing, across a wide range of industries.
 * [Official Website](https://elixir-lang.org): https://elixir-lang.org
 * [Repository](https://github.com/elixir-lang/elixir): https://github.com/elixir-lang/elixir
+
+### [Ellie](https://www.ellie-lang.org)
+Ellie is a type-safe programing language that runs on embedded and sandboxed environments.
+* [Official Website](https://www.ellie-lang.org): https://www.ellie-lang.org
+* [Repository](https://github.com/behemehal/Ellie-Language): https://github.com/behemehal/Ellie-Language
 
 ### [Elm](https://elm-lang.org)
 A delightful language for reliable web applications.
@@ -348,6 +363,15 @@ Code written in Haxe can be compiled to any target Haxe supports.
 * [Official Website](https://haxe.org): https://haxe.org
 * [Repository](https://github.com/HaxeFoundation/haxe): https://github.com/HaxeFoundation/haxe
 
+### [Huff](https://huff.sh)
+Huff is a low-level programming language designed for developing highly optimized smart contracts that run on the Ethereum Virtual Machine (EVM). Huff does not hide the inner workings of the EVM. Instead, Huff exposes its programming stack to the developer for manual manipulation.
+
+Rather than having functions, Huff has macros - individual blocks of bytecode that can be rigorously tested and evaluated using the Huff runtime testing suite.
+
+Huff was originally developed by the Aztec Protocol team to write Weierstrudel. Weierstrudel is an on-chain elliptical curve arithmetic library that requires incredibly optimized code that neither Solidity nor Yul could provide.
+* [Official Website](https://huff.sh): https://huff.sh
+* [Repository](https://github.com/huff-language/huff-rs): https://github.com/huff-language/huff-rs
+
 ### [HVML](https://hvml.fmsoft.cn)
 HVML is a descriptive programming language proposed and designed by Vincent Wei, who is the author of MiniGUI, one of the earliest open-source software projects in China.
 
@@ -381,6 +405,13 @@ Imba is a Web programming language that's fast in two ways: Imba's time-saving s
 * [Official Website](https://imba.io): https://imba.io
 * [Repository](https://github.com/imba/imba): https://github.com/imba/imba
 
+### [Inko](https://inko-lang.org)
+Inko makes it easy to build concurrent software, without having to worry about unpredictable performance, unexpected runtime errors, data races, and type errors.
+
+Inko features deterministic automatic memory management, move semantics, static typing, type-safe concurrency, efficient error handling, and more.
+* [Official Website](https://inko-lang.org): https://inko-lang.org
+* [Repository](https://github.com/inko-lang/inko): https://github.com/inko-lang/inko
+
 ### [Janet](https://janet-lang.org)
 Janet is a functional and imperative programming language. It runs on Windows, Linux, macOS, BSDs, and should run on other systems with some porting. The entire language (core library, interpreter, compiler, assembler, PEG) is less than 1MB. You can also add Janet scripting to an application by embedding a single C source file and a single header.
 * [Official Website](https://janet-lang.org): https://janet-lang.org
@@ -401,6 +432,13 @@ ki is a type safe compiled language designed to be fast and easy to use. It does
 
 * [Official Website](https://ki-lang.dev): https://ki-lang.dev
 * [Repository](https://github.com/ki-lang/ki): https://github.com/ki-lang/ki
+
+### [Kipper](https://kipper-lang.org)
+Kipper is a JavaScript-like strongly and strictly typed language with Python flavour. It aims to provide straightforward, simple, secure and type-safe coding with better efficiency and developer satisfaction!
+
+It compiles to both JavaScript and TypeScript, and can be set up in your terminal, Node.js or ES6+ browser. 🦊💻
+* [Official Website](https://kipper-lang.org): https://kipper-lang.org
+* [Repository](https://github.com/Kipper-Lang/Kipper): https://github.com/Kipper-Lang/Kipper
 
 ### [Koka](https://koka-lang.github.io/koka)
 a strongly typed functional-style language with effect types and handlers.
@@ -471,6 +509,11 @@ Mun is a programming language empowering creation through iteration.
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
 * [Official Website](https://nim-lang.org): https://nim-lang.org
 * [Repository](https://github.com/nim-lang/Nim): https://github.com/nim-lang/Nim
+
+### [Nois](https://nois.ivnj.org)
+Statically typed programming language for the web.
+* [Official Website](https://nois.ivnj.org): https://nois.ivnj.org
+* [Repository](https://github.com/nois-lang/nois): https://github.com/nois-lang/nois
 
 ### [Novika](https://novika-lang.github.io)
 Novika is a moldable, concise, and expressive programming language in the spirit of Forth, Self, Red/Rebol, and Lisp.
@@ -625,6 +668,16 @@ Scala's static types help you to build safe systems by default. Smart built-in c
 * [Official Website](https://www.scala-lang.org): https://www.scala-lang.org
 * [Repository](https://github.com/lampepfl/dotty): https://github.com/lampepfl/dotty
 
+### [Solidity](https://soliditylang.org)
+A statically-typed curly-braces programming language designed for developing smart contracts that run on [Ethereum](https://ethereum.org/en/).
+* [Official Website](https://soliditylang.org): https://soliditylang.org
+* [Repository](https://github.com/ethereum/solidity): https://github.com/ethereum/solidity
+
+### [Sway](https://fuellabs.github.io/sway)
+Sway is a domain-specific language (DSL) for the Fuel Virtual Machine (FuelVM), a blockchain-optimized VM designed for the Fuel blockchain. Sway is based on Rust, and includes syntax to leverage a blockchain VM without needlessly verbose boilerplate.
+* [Official Website](https://fuellabs.github.io/sway): https://fuellabs.github.io/sway
+* [Repository](https://github.com/FuelLabs/sway): https://github.com/FuelLabs/sway
+
 ### [Swift](https://www.swift.org)
 Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.
 
@@ -704,6 +757,13 @@ Wipple is a programming language that’s natural to read, write and learn.
 An expression oriented, gradually typed and mission-critical programming language.
 * [Official Website](https://wu-lang.gitbook.io/guide): https://wu-lang.gitbook.io/guide
 * [Repository](https://github.com/wu-lang/wu): https://github.com/wu-lang/wu
+
+### [Yak](https://www.yaklang.com)
+In order to improve the development process of security products and hacking tools, we have created a new language ( Yaklang) and implemented a stack-based virtual machine (YakVM) for this language.
+
+Yaklang is a Turing-complete procedural language defined by context-free grammar. It runs on YakVM.
+* [Official Website](https://www.yaklang.com): https://www.yaklang.com
+* [Repository](https://github.com/yaklang/yaklang): https://github.com/yaklang/yaklang
 
 ### [Yaksha](https://yakshalang.github.io)
 A manual memory managed, compiled to C99.
