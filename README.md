@@ -185,7 +185,7 @@ Gosu is a pragmatic programming language for the JVM. It has been designed with 
 * [Repository](https://github.com/gosu-lang/gosu-lang): https://github.com/gosu-lang/gosu-lang
 
 ### Go+
-* For engineering, STEM education, and data science.
+For engineering, STEM education, and data science.
 * A static typed language.
 * The simplest engineering language that can be mastered by children (script-like style).
 * Performance: as fast as Go (Go+'s main backend compiles to human-readable Go).
