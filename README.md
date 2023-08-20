@@ -149,6 +149,11 @@ Crystal is a programming language with the following goals:
 * [Official Website](https://crystal-lang.org): https://crystal-lang.org
 * [Repository](https://github.com/crystal-lang/crystal): https://github.com/crystal-lang/crystal
 
+### [CSML](https://www.csml.dev)
+CSML helps chatbot development teams build truly intelligent, maintainable and scalable chatbots, integrated with your favorite apps, on any channel, with full control over your source code.
+* [Official Website](https://www.csml.dev): https://www.csml.dev
+* [Repository](https://github.com/CSML-by-Clevy/csml-engine): https://github.com/CSML-by-Clevy/csml-engine
+
 ### [C++](https://cplusplus.com)
 C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; modern C++ currently has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.
 * [Official Website](https://cplusplus.com): https://cplusplus.com
@@ -165,6 +170,11 @@ D is a general-purpose programming language with static typing, systems-level ac
 Fast code, fast.
 * [Official Website](https://dlang.org): https://dlang.org
 * [Repository](https://github.com/dlang/dmd): https://github.com/dlang/dmd
+
+### [Dark](https://darklang.com)
+a combined language, editor, and infrastructure to make it easy to build backends.
+* [Official Website](https://darklang.com): https://darklang.com
+* [Repository](https://github.com/darklang/dark): https://github.com/darklang/dark
 
 ### [Dart](https://dart.dev)
 Dart is a client-optimized language for fast apps on any platform.
@@ -257,6 +267,13 @@ Flix is inspired by OCaml and Haskell with ideas from Rust and Scala. Flix looks
 Flix compiles to JVM bytecode, runs on the Java Virtual Machine, and supports full tail call elimination. A VSCode plugin for Flix is available.
 * [Official Website](https://flix.dev): https://flix.dev
 * [Repository](https://github.com/flix/flix): https://github.com/flix/flix
+
+### [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
+GDScript is a high-level, object-oriented, imperative, and gradually typed programming language built for Godot. It uses an indentation-based syntax similar to languages like Python. Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
+
+GDScript is entirely independent from Python and is not based on it.
+* [Official Website](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html): https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html
+* [Repository](https://github.com/godotengine/godot): https://github.com/godotengine/godot
 
 ### [Go](https://go.dev)
 Build simple, secure, scalable systems with Go.
@@ -427,9 +444,20 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
 
+### [Julia](https://julialang.org)
+Julia is a high-level, high-performance dynamic language for technical computing. The main homepage for Julia can be found at julialang.org.
+* Julia was designed from the beginning for high performance. Julia programs compile to efficient native code for multiple platforms via LLVM.
+* Julia is dynamically typed, feels like a scripting language, and has good support for interactive use.
+* Reproducible environments make it possible to recreate the same Julia environment every time, across platforms, with pre-built binaries.
+* Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns. The talk on the Unreasonable Effectiveness of Multiple Dispatch explains why it works so well.
+* Julia provides asynchronous I/O, metaprogramming, debugging, logging, profiling, a package manager, and more. One can build entire Applications and Microservices in Julia.
+* Julia is an open source project with over 1,000 contributors. It is made available under the MIT license. The source code is available on GitHub.
+---
+* [Official Website](https://julialang.org): https://julialang.org
+* [Repository](https://github.com/JuliaLang/julia): https://github.com/JuliaLang/julia
+
 ### [Ki](https://ki-lang.dev)
 ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
-
 * [Official Website](https://ki-lang.dev): https://ki-lang.dev
 * [Repository](https://github.com/ki-lang/ki): https://github.com/ki-lang/ki
 
@@ -439,6 +467,11 @@ Kipper is a JavaScript-like strongly and strictly typed language with Python fla
 It compiles to both JavaScript and TypeScript, and can be set up in your terminal, Node.js or ES6+ browser. 🦊💻
 * [Official Website](https://kipper-lang.org): https://kipper-lang.org
 * [Repository](https://github.com/Kipper-Lang/Kipper): https://github.com/Kipper-Lang/Kipper
+
+### [Kobra](https://kobra.dev)
+Kobra is a visual programming language for machine learning, built by data scientists and engineers to make ML easy to learn and experiment with.
+* [Official Website](https://kobra.dev): https://kobra.dev
+* [Repository](https://github.com/kobra-dev/Kobra): https://github.com/kobra-dev/Kobra
 
 ### [Koka](https://koka-lang.github.io/koka)
 a strongly typed functional-style language with effect types and handlers.
@@ -466,6 +499,11 @@ Lingua Franca (LF) is a polyglot coordination language for concurrent and possib
 * [Official Website](https://www.lf-lang.org): https://www.lf-lang.org
 * [Repository](https://github.com/lf-lang/lingua-franca): https://github.com/lf-lang/lingua-franca
 
+### [LMQL](https://lmql.ai)
+LMQL is a programming language for language model interaction.
+* [Official Website](https://lmql.ai): https://lmql.ai
+* [Repository](https://github.com/eth-sri/lmql): https://github.com/eth-sri/lmql
+
 ### [Logica](https://logica.dev)
 Logica is an open source declarative logic programming language for data manipulation.
 
@@ -480,6 +518,11 @@ Lua combines simple procedural syntax with powerful data description constructs 
 * [Official Website](https://www.lua.org): https://www.lua.org
 * [Repository](https://github.com/lua/lua): https://github.com/lua/lua
 
+### [MATLAB](https://www.mathworks.com/help/matlab)
+Millions of engineers and scientists worldwide use MATLAB® to analyze and design the systems and products transforming our world. The matrix-based MATLAB language is the world’s most natural way to express computational mathematics. Built-in graphics make it easy to visualize and gain insights from data. The desktop environment invites experimentation, exploration, and discovery. These MATLAB tools and capabilities are all rigorously tested and designed to work together.
+
+MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets, and scale up to clusters and clouds. MATLAB code can be integrated with other languages, enabling you to deploy algorithms and applications within web, enterprise, and production systems.
+* [Official Website](https://www.mathworks.com/help/matlab): https://www.mathworks.com/help/matlab
 
 ### [Mint](https://mint-lang.com)
 The programming language for writing single page applications.
@@ -487,6 +530,12 @@ The programming language for writing single page applications.
 Mint has all the tools you need to write error free, easily readable and maintainable applications in record time.
 * [Official Website](https://mint-lang.com): https://mint-lang.com
 * [Repository](https://github.com/mint-lang/mint): https://github.com/mint-lang/mint
+
+### [Mojo](https://www.modular.com/mojo)
+Mojo 🔥 — a new programming language for all AI developers.
+
+Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
+* [Official Website](https://www.modular.com/mojo): https://www.modular.com/mojo
 
 ### [MoonScript](https://moonscript.org)
 MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
@@ -568,6 +617,11 @@ A small strongly typed programming language with expressive types that compiles 
 Python is a programming language that lets you work quickly and integrate systems more effectively.
 * [Official Website](https://www.python.org): https://www.python.org
 * [Repository](https://github.com/python/cpython): https://github.com/python/cpython
+
+### [R](https://www.r-project.org)
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
+* [Official Website](https://www.r-project.org): https://www.r-project.org
+* [Repository](https://cran.r-project.org): https://cran.r-project.org
 
 ### [Racket](https://racket-lang.org)
 Racket is a general-purpose programming language and an ecosystem for language-oriented programming.
@@ -752,6 +806,10 @@ Wing is a new open-source programming language designed for the cloud (aka "clou
 Wipple is a programming language that’s natural to read, write and learn.
 * [Official Website](https://wipple.dev): https://wipple.dev
 * [Repository](https://github.com/wipplelang/wipple): https://github.com/wipplelang/wipple
+
+### [Wolfram](https://www.wolfram.com/language)
+The Wolfram Language is a symbolic language that has been carefully designed to have the breadth and uniformity needed to rapidly develop powerful programs. By integrating high-level formats such as Image, GeoPolygon or Molecules, and high-level hyperfunctions such as ImageIdentify or ApplyReaction, the Wolfram Language makes it possible to quickly express complex ideas in computational form.
+* [Official Website](https://www.wolfram.com/language): https://www.wolfram.com/language
 
 ### [Wu](https://wu-lang.gitbook.io/guide)
 An expression oriented, gradually typed and mission-critical programming language.
