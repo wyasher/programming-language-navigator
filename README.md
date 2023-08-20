@@ -2,6 +2,24 @@
 A repository for navigating through various programming languages, providing links to their official websites and repository addresses.
 
 ## Programming Languages
+### [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage)
+Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
+
+Agda is a proof assistant. It is an interactive system for writing and checking proofs. Agda is based on intuitionistic type theory, a foundational system for constructive mathematics developed by the Swedish logician Per Martin-Löf. It has many similarities with other proof assistants based on dependent types, such as Coq, Epigram, Matita and NuPRL.
+
+Agda is open-source and enjoys contributions from many authors. The center of the Agda development is the Programming Logic group at Chalmers and Gothenburg University. The main developers are Ulf Norell, Nils Anders Danielsson, Jesper Cockx, and Andreas Abel.
+* [Official Website](https://wiki.portal.chalmers.se/agda/Main/HomePage): https://wiki.portal.chalmers.se/agda/Main/HomePage
+* [Repository](https://github.com/agda/agda): https://github.com/agda/agda
+
+### [Amun](https://amun-lang.github.io/docs)
+A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework, the design was inspired from many programming languages with the goal to be simple and productive.
+* [Official Website](https://amun-lang.github.io/docs): https://amun-lang.github.io/docs
+* [Repository](https://github.com/amrdeveloper/amun): https://github.com/amrdeveloper/amun
+
+### [Argon](https://www.arlang.io)
+The Argon language is a work-in-progress interpreted multi-paradigm programming language. Its syntax is influenced by many modern languages and aims to be elegant, clean and simple to use.
+* [Official Website](https://www.arlang.io): https://www.arlang.io
+* [Repository](https://github.com/argonlang/argon): https://github.com/argonlang/argon
 
 ### [ArkScript](https://arkscript-lang.dev)
 ArkScript is a small, fast, functional and scripting language for C++ projects.
@@ -51,9 +69,15 @@ The Beef IDE supports productivity features such as autocomplete, fixits, reform
 * [Official Website](https://www.beeflang.org): https://www.beeflang.org
 * [Repository](https://github.com/beefytech/Beef): https://github.com/beefytech/Beef
 
+### [Blade](https://bladelang.com)
+Blade is a modern general-purpose programming language focused on enterprise Web, IoT, and secure application development. Blade offers a comprehensive set of tools and libraries out of the box leading to reduced reliance on third-party packages.
+
+Blade comes equipped with an integrated package management system, simplifying the management of both internal and external dependencies and a self-hostable repository server making it ideal for private organizational and personal use. Its intuitive syntax and gentle learning curve ensure an accessible experience for developers of all skill levels. Leveraging the best features from JavaScript, Python, Ruby, and Dart, Blade provides a familiar and robust ecosystem that enables developers to harness the strengths of these languages effortlessly.
+* [Official Website](https://bladelang.com): https://bladelang.com
+* [Repository](https://github.com/blade-lang/blade): https://github.com/blade-lang/blade
+
 ### [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 C  is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
-
 * [Official Website](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html): https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 * [Repository](https://gcc.gnu.org/git/gcc.git): https://gcc.gnu.org/git/gcc.git
 
@@ -89,6 +113,14 @@ Clojure is a dynamic, general-purpose programming language, combining the approa
 Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
 * [Official Website](https://www.clojure.org): https://www.clojure.org
 * [Repository](https://github.com/clojure/clojure): https://github.com/clojure/clojure
+
+### [Coconut](https://coconut-lang.org)
+Coconut is a functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python.
+
+Coconut aims to enhance the repertoire of Python programmers to include the tools of modern functional programming in as Pythonic a way as possible. Additionally, Coconut code runs the same on any Python version, meaning that even if you just use Coconut to write pure Python, you no longer have to worry about any core Python version differences: Coconut can backport almost all modern Python features as far back as Python 2.6.
+
+* [Official Website](https://coconut-lang.org): https://coconut-lang.org
+* [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
 
 ### [CovScript](https://covscript.org.cn)
 Covariant Script is a dynamic general-purpose programming language designed for modern applications to deliver consistent experience across different platforms.
@@ -173,6 +205,16 @@ Elvish is an expressive programming language and a versatile interactive shell, 
 * [Official Website](https://elv.sh): https://elv.sh
 * [Repository](https://github.com/elves/elvish): https://github.com/elves/elvish
 
+### [Emojicode](https://www.emojicode.org)
+Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
+* [Official Website](https://www.emojicode.org): https://www.emojicode.org
+* [Repository](https://github.com/emojicode/emojicode): https://github.com/emojicode/emojicode
+
+### [Erg](https://erg-lang.org)
+Erg has a strong type system and comfortable compiler support. For example, it has dependent types and refinement types. These types strongly encode pre-conditions, invariant conditions, etc. into the code.
+* [Official Website](https://erg-lang.org): https://erg-lang.org
+* [Repository](https://github.com/erg-lang/erg): https://github.com/erg-lang/erg
+
 ### [Erlang](https://www.erlang.org)
 Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
 * [Official Website](https://www.erlang.org): https://www.erlang.org
@@ -190,6 +232,16 @@ An open-source language that makes it easy to write succinct, robust, and perfor
 * [Official Website](https://dotnet.microsoft.com/en-us/languages/fsharp): https://dotnet.microsoft.com/en-us/languages/fsharp
 * [Repository](https://github.com/dotnet/fsharp): https://github.com/dotnet/fsharp
 
+### [Flix](https://flix.dev)
+Next-generation reliable, safe, concise, and functional-first programming language.
+
+Flix is a principled functional, imperative, and logic programming language developed at Aarhus University, at the University of Waterloo, and by a community of open source contributors.
+
+Flix is inspired by OCaml and Haskell with ideas from Rust and Scala. Flix looks like Scala, but its type system is based on Hindley-Milner. Two unique features of Flix are its polymorphic effect system and its support for first-class Datalog constraints.
+
+Flix compiles to JVM bytecode, runs on the Java Virtual Machine, and supports full tail call elimination. A VSCode plugin for Flix is available.
+* [Official Website](https://flix.dev): https://flix.dev
+* [Repository](https://github.com/flix/flix): https://github.com/flix/flix
 
 ### [Go](https://go.dev)
 Build simple, secure, scalable systems with Go.
@@ -277,6 +329,10 @@ Hack is an object-oriented programming language for building reliable websites a
 * [Official Website](https://hacklang.org): https://hacklang.org
 * [Repository](https://github.com/facebook/hhvm): https://github.com/facebook/hhvm
 
+### [Hare](https://harelang.org)
+Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
+* [Official Website](https://harelang.org): https://harelang.org
+* [Repository](https://sr.ht/~sircmpwn/hare): https://sr.ht/~sircmpwn/hare
 
 ### [Haskell](https://www.haskell.org)
 An advanced, purely functional programming language.
@@ -340,11 +396,6 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
 
-### [Hare](https://harelang.org)
-Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
-* [Official Website](https://harelang.org): https://harelang.org
-* [Repository](https://sr.ht/~sircmpwn/hare): https://sr.ht/~sircmpwn/hare
-
 ### [Ki](https://ki-lang.dev)
 ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
 
@@ -361,10 +412,28 @@ Kotlin is a modern but already mature programming language designed to make deve
 * [Official Website](https://kotlinlang.org): https://kotlinlang.org
 * [Repository](https://github.com/JetBrains/kotlin): https://github.com/JetBrains/kotlin
 
+### [Lamdu](https://www.lamdu.org)
+Lamdu is a programming language designed to be useful and delightful.
+* **Text-like user interface**: A predictable user interface with rich code completions, without the possiblity of syntax errors.
+* **Responsive layout**: Continuous, automatic code formatting without the user needing to deal with formatting.
+* **Steady Typing**: Harnessing the full power of rich static types, while making them friendly by employing type inference with a novel user interface for type errors.
+* **Live reloading**: Safe continuous execution of code by differentianting pure computations from effectful processes.
+* **Internationalization (NEW!)**: Making the natural language of the code just a display preference.
+---
+* [Official Website](https://www.lamdu.org): https://www.lamdu.org
+* [Repository](https://github.com/lamdu/lamdu): https://github.com/lamdu/lamdu
+
 ### [LinguaFranca](https://www.lf-lang.org)
 Lingua Franca (LF) is a polyglot coordination language for concurrent and possibly time-sensitive applications ranging from low-level embedded code to distributed cloud and edge applications. An LF program specifies the interactions between components called reactors. The emphasis of the framework is on ensuring deterministic interaction with explicit management of timing. The logic of each reactor is written in one of a suite of target languages (currently C, C++, Python, and TypeScript) and can integrate legacy code in those languages. A code generator synthesizes one or more programs in the target language, which are then compiled using standard toolchains. If the application has exploitable parallelism, then it executes transparently on multiple cores without compromising determinacy. A distributed application translates into multiple programs and scripts to launch those programs on distributed machines. The communication fabric connecting components is synthesized as part of the programs.
 * [Official Website](https://www.lf-lang.org): https://www.lf-lang.org
 * [Repository](https://github.com/lf-lang/lingua-franca): https://github.com/lf-lang/lingua-franca
+
+### [Logica](https://logica.dev)
+Logica is an open source declarative logic programming language for data manipulation.
+
+Logica extends syntax of logic programming for intuitive and efficient data manipulation. It compiles to SQL thus providing you access to the power of SQL engines with the convenience of logic programming syntax.
+* [Official Website](https://logica.dev): https://logica.dev
+* [Repository](https://github.com/evgskv/logica): https://github.com/evgskv/logica
 
 ### [Lua](https://www.lua.org)
 Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
@@ -442,6 +511,16 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
 * [Official Website](https://www.php.net): https://www.php.net
 * [Repository](https://github.com/php/php-src): https://github.com/php/php-src
 
+### [Pluto](https://pluto-lang.org)
+Pluto is a unique dialect of Lua, which aims to specialize for general-purpose programming.
+* [Official Website](https://pluto-lang.org): https://pluto-lang.org
+* [Repository](https://github.com/PlutoLang/Pluto): https://github.com/PlutoLang/Pluto
+
+### [PureScript](https://www.purescript.org)
+A small strongly typed programming language with expressive types that compiles to JavaScript, written in and inspired by Haskell.
+* [Official Website](https://www.purescript.org): https://www.purescript.org
+* [Repository](https://github.com/purescript/purescript): https://github.com/purescript/purescript
+
 ### [Python](https://www.python.org)
 Python is a programming language that lets you work quickly and integrate systems more effectively.
 * [Official Website](https://www.python.org): https://www.python.org
@@ -452,6 +531,10 @@ Racket is a general-purpose programming language and an ecosystem for language-o
 * [Official Website](https://racket-lang.org): https://racket-lang.org
 * [Repository](https://github.com/racket/racket): https://github.com/racket/racket
 
+### [Raj](https://rajlang.github.io)
+A simple, easy to use compiled programming language that can be compiled to multiple languages from a single syntax.
+* [Official Website](https://rajlang.github.io): https://rajlang.github.io
+* [Repository](https://github.com/rajlang/Raj-JavaScript): https://github.com/rajlang/Raj-JavaScript
 
 ### [Raku](https://raku.org)
 Raku is a language specification similar to C and C++. To actually run programs written in Raku one needs a Raku implementation. There are several implementations varying in their level of maturity and development activity.
@@ -506,6 +589,13 @@ Like Lua, Roc's automatic memory management doesn't require a virtual machine, a
 * [Official Website](https://www.roc-lang.org): https://www.roc-lang.org
 * [Repository](https://github.com/roc-lang/roc): https://github.com/roc-lang/roc
 
+### [RowScript](https://rowscript-lang.org)
+RowScript is a robustly-typed functional language that compiles to efficient and reliable JavaScript.
+
+This repository contains many components of RowScript, visit our website for more information.
+* [Official Website](https://rowscript-lang.org): https://rowscript-lang.org
+* [Repository](https://github.com/rowscript/rowscript): https://github.com/rowscript/rowscript
+
 ### [Ruby](https://www.ruby-lang.org)
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 * [Official Website](https://www.ruby-lang.org): https://www.ruby-lang.org
@@ -543,6 +633,13 @@ The goal of the Swift project is to create the best available language for uses 
 * [Official Website](https://www.swift.org): https://www.swift.org
 * [Repository](https://github.com/apple/swift): https://github.com/apple/swift
 
+### [Tokay](https://tokay.dev)
+Tokay is a programming language designed for ad-hoc parsing.
+
+Tokay is a programming language to quickly implement solutions for text processing problems. This can either be just simple data extractions, but also parsing entire structures or parts of it, and turning information into structured parse trees or abstract syntax trees for further processing.
+* [Official Website](https://tokay.dev): https://tokay.dev
+* [Repository](https://github.com/tokay-lang/tokay): https://github.com/tokay-lang/tokay
+
 ### [TypeScript](https://www.typescriptlang.org)
 TypeScript is JavaScript with syntax for types.
 
@@ -550,6 +647,16 @@ TypeScript is a strongly typed programming language that builds on JavaScript, g
 * [Official Website](https://www.typescriptlang.org): https://www.typescriptlang.org
 * [Repository](https://github.com/microsoft/TypeScript): https://github.com/microsoft/TypeScript
 
+### [Unison](https://www.unison-lang.org)
+Unison is a modern, statically-typed purely functional language with the ability to describe entire distributed systems using a single program.
+* No more writing encoders and decoders at every network boundary. Say where you want computations to run and it happens 🔮 — Dependencies are deployed on the fly.
+* Your codebase is always live and typechecks, even in the middle of a refactoring. Unison has structured refactoring sessions, not a big misleading list of type errors.
+* No more writing translation code between your values and the storage layer. Directly store values and unpersist them later without fear of dependency conflicts or version mismatches.
+* Other tools try to recover structure from text; Unison stores code in a database. This eliminates builds, provides for instant nonbreaking renames, type-based search, and lots more.
+* Many dependency conflicts arise from definitions competing for the same names. Since Unison references code by hash instead of by name, an entire class of conflicts can be eliminated.
+---
+* [Official Website](https://www.unison-lang.org): https://www.unison-lang.org
+* [Repository](https://github.com/unisonweb/unison): https://github.com/unisonweb/unison
 
 ### [V](https://vlang.io)
 Simple, fast, safe, compiled. For developing maintainable software.
@@ -572,6 +679,15 @@ Wa is a general-purpose programming language designed for developing robustness 
 * [Official Website](https://wa-lang.org): https://wa-lang.org
 * [Repository](https://github.com/wa-lang/wa): https://github.com/wa-lang/wa
 
+### [Wasp](https://wasp-lang.dev)
+Wasp (Web Application Specification) is a Rails-like framework for React, Node.js and Prisma. Build your app in a day and deploy it with a single CLI command!
+* 🚀 **Quick start**: Due to its expressiveness, you can create and deploy a production-ready web app from scratch with very few lines of concise, consistent, declarative code.
+* 😌 **No boilerplate**: By abstracting away complex full-stack features, there is less boilerplate code. That means less code to maintain and understand! It also means easier upgrades.
+* 🔓 **No lock-in**: You can deploy Wasp app anywhere you like. There is no lock-in into specific providers, you have full control over the code (and can actually check it out in .wasp/ dir if you are interested ).
+---
+* [Official Website](https://wasp-lang.dev): https://wasp-lang.dev
+* [Repository](https://github.com/wasp-lang/wasp): https://github.com/wasp-lang/wasp
+
 ### [Wing](https://www.winglang.io)
 Wing combines infrastructure and runtime code in one language, enabling developers to stay in their creative flow, and to deliver better software, faster and more securely.
 
@@ -587,7 +703,7 @@ Wipple is a programming language that’s natural to read, write and learn.
 ### [Wu](https://wu-lang.gitbook.io/guide)
 An expression oriented, gradually typed and mission-critical programming language.
 * [Official Website](https://wu-lang.gitbook.io/guide): https://wu-lang.gitbook.io/guide
-* [Repository]https://github.com/wu-lang/wu): https://github.com/wu-lang/wu
+* [Repository](https://github.com/wu-lang/wu): https://github.com/wu-lang/wu
 
 ### [Yaksha](https://yakshalang.github.io)
 A manual memory managed, compiled to C99.
