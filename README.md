@@ -310,6 +310,11 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
 
+### [Koka](https://koka-lang.github.io/koka)
+a strongly typed functional-style language with effect types and handlers.
+* [Official Website](https://koka-lang.github.io/koka): https://koka-lang.github.io/koka
+* [Repository](https://github.com/koka-lang/koka): https://github.com/koka-lang/koka
+
 ### [Kotlin](https://kotlinlang.org)
 Kotlin is a modern but already mature programming language designed to make developers happier. It's concise, safe, interoperable with Java and other languages, and provides many ways to reuse code between multiple platforms for productive programming.
 * [Official Website](https://kotlinlang.org): https://kotlinlang.org
@@ -367,6 +372,10 @@ Perl is a highly capable, feature-rich programming language with over 30 years o
 * [Official Website](https://www.perl.org): https://www.perl.org
 * [Repository](https://github.com/Perl/perl5): https://github.com/Perl/perl5
 
+### [Pharo](https://pharo.org)
+Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
+* [Official Website](https://pharo.org): https://pharo.org
+* [Repository](https://github.com/pharo-project/pharo): https://github.com/pharo-project/pharo
 
 ### [Php](https://www.php.net)
 A popular general-purpose scripting language that is especially suited to web development. 
@@ -521,6 +530,13 @@ Wipple is a programming language that’s natural to read, write and learn.
 An expression oriented, gradually typed and mission-critical programming language.
 * [Official Website](https://wu-lang.gitbook.io/guide): https://wu-lang.gitbook.io/guide
 * [Repository]https://github.com/wu-lang/wu): https://github.com/wu-lang/wu
+
+### [Yaksha](https://yakshalang.github.io)
+A manual memory managed, compiled to C99.
+
+programming language with off-side rule syntax.
+* [Official Website](https://yakshalang.github.io): https://yakshalang.github.io
+* [Repository](https://github.com/YakshaLang/Yaksha): https://github.com/YakshaLang/Yaksha
 
 ### [Zig](https://ziglang.org)
 Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
