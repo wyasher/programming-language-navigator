@@ -90,6 +90,11 @@ Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy a
 * [Official Website](https://www.clojure.org): https://www.clojure.org
 * [Repository](https://github.com/clojure/clojure): https://github.com/clojure/clojure
 
+### [CovScript](https://covscript.org.cn)
+Covariant Script is a dynamic general-purpose programming language designed for modern applications to deliver consistent experience across different platforms.
+* [Official Website](https://covscript.org.cn): https://covscript.org.cn
+* [Repository](https://github.com/covscript/covscript): https://github.com/covscript/covscript
+
 ### [Crystal](https://crystal-lang.org)
 Crystal is a programming language with the following goals:
 * Have a syntax similar to Ruby (but compatibility with it is not a goal)
@@ -133,6 +138,18 @@ Dafny is a verification-aware programming language that has native support for r
 * [Official Website](https://dafny.org): https://dafny.org
 * [Repository](https://github.com/dart-lang/sdk): https://github.com/dart-lang/sdk
 
+### [Dictu](https://dictu-lang.com)
+Dictu is a high-level dynamically typed, multi-paradigm, interpreted programming language. Dictu has a very familiar C-style syntax along with taking inspiration from the family of languages surrounding it, such as Python and JavaScript.
+
+Dictu means simplistic in Latin. This is the aim of the language: to be as simplistic, organized, and logical as humanly possible.
+* [Official Website](https://dictu-lang.com): https://dictu-lang.com
+* [Repository](https://github.com/dictu-lang/Dictu): https://github.com/dictu-lang/Dictu
+
+### [Dinfio](https://dinfio.org)
+Dinfio is a high-level, general-purpose, interpreted, minimalist, simple, and open source programming language. Dinfio supports multiple paradigms, including imperative, procedural, object-oriented, and event-driven programming.
+* [Official Website](https://dinfio.org): https://dinfio.org
+* [Repository](https://github.com/dinfio/dinfio): https://github.com/dinfio/dinfio
+
 ### [Dylan](https://opendylan.org)
 Dylan is an object-functional language originally created by Apple for the Newton. Dylan is a direct descendant of Scheme and CLOS (without the Lisp syntax) with a programming model designed to support efficient machine code generation, including fine-grained control over dynamic and static behaviors.
 * [Official Website](https://opendylan.org): https://opendylan.org
@@ -150,6 +167,11 @@ A delightful language for reliable web applications.
 
 * [Official Website](https://elm-lang.org): https://elm-lang.org
 * [Repository](https://github.com/elm/compiler): https://github.com/elm/compiler
+
+### [Elvish](https://elv.sh)
+Elvish is an expressive programming language and a versatile interactive shell, combined into one seamless package. It runs on Linux, BSDs, macOS and Windows.
+* [Official Website](https://elv.sh): https://elv.sh
+* [Repository](https://github.com/elves/elvish): https://github.com/elves/elvish
 
 ### [Erlang](https://www.erlang.org)
 Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
@@ -218,6 +240,16 @@ Grain is a new language that puts academic language features to work.
 Grain is a new programming language that compiles to WebAssembly via Binaryen.
 * [Official Website](https://grain-lang.org): https://grain-lang.org
 * [Repository](https://github.com/grain-lang/grain): https://github.com/grain-lang/grain
+
+### [Gravity](https://marcobambini.github.io/gravity)
+Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
+
+Gravity supports procedural programming, object-oriented programming, functional programming, and data-driven programming. Thanks to special built-in methods, it can also be used as a prototype-based programming language.
+
+Gravity has been developed from scratch for the Creo project in order to offer an easy way to write portable code for the iOS and Android platforms. It is written in portable C code that can be compiled on any platform using a C99 compiler. The VM code is about 4K lines long, the multipass compiler code is about 7K lines and the shared code is about 3K lines long. The compiler and virtual machine combined add less than 200KB to the executable on a 64-bit system.
+
+* [Official Website](https://marcobambini.github.io/gravity): https://marcobambini.github.io/gravity
+* [Repository](https://github.com/marcobambini/gravity): https://github.com/marcobambini/gravity
 
 ### [Gren](https://gren-lang.org)
 Gren is a functional programming language with carefully managed side-effects and a strong static type system. The language consists of a few concepts with human readable names that compose well together, so you can do more with less.
@@ -300,15 +332,24 @@ Janet is a functional and imperative programming language. It runs on Windows, L
 
 ### [Java](https://www.java.com)
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well.
-
 * [Official Website](https://www.java.com): https://www.java.com
 * [Repository](https://github.com/openjdk/jdk): https://github.com/openjdk/jdk
 
 ### [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
-
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
+
+### [Hare](https://harelang.org)
+Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
+* [Official Website](https://harelang.org): https://harelang.org
+* [Repository](https://sr.ht/~sircmpwn/hare): https://sr.ht/~sircmpwn/hare
+
+### [Ki](https://ki-lang.dev)
+ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
+
+* [Official Website](https://ki-lang.dev): https://ki-lang.dev
+* [Repository](https://github.com/ki-lang/ki): https://github.com/ki-lang/ki
 
 ### [Koka](https://koka-lang.github.io/koka)
 a strongly typed functional-style language with effect types and handlers.
@@ -345,6 +386,18 @@ MoonScript is a dynamic scripting language that compiles into Lua. It gives you 
 * [Official Website](https://moonscript.org): https://moonscript.org
 * [Repository](https://github.com/leafo/moonscript): https://github.com/leafo/moonscript
 
+### [Mun](https://mun-lang.org)
+Mun is a programming language empowering creation through iteration.
+* **Ahead of time compilation** - Mun is compiled ahead of time (AOT), as opposed to being interpreted or compiled just in time (JIT). By detecting errors in the code during AOT compilation, an entire class of runtime errors is eliminated. This allows developers to stay within the comfort of their IDE instead of having to switch between the IDE and target application to debug runtime errors.
+* **Statically typed** - Mun resolves types at compilation time instead of at runtime, resulting in immediate feedback when writing code and opening the door for powerful refactoring tools.
+* **First class hot-reloading** - Every aspect of Mun is designed with hot reloading in mind. Hot reloading is the process of changing code and resources of a live application, removing the need to start, stop and recompile an application whenever a function or value is changed.
+* **Performance** - AOT compilation combined with static typing ensure that Mun is compiled to machine code that can be natively executed on any target platform. LLVM is used for compilation and optimization, guaranteeing the best possible performance. Hot reloading does introduce a slight runtime overhead, but it can be disabled for production builds to ensure the best possible runtime performance.
+* **Cross compilation** - The Mun compiler is able to compile to all supported target platforms from any supported compiler platform.
+* **Powerful IDE integration** - The Mun language and compiler framework are designed to support source code queries, allowing for powerful IDE integrations such as code completion and refactoring tools.
+---
+* [Official Website](https://mun-lang.org): https://mun-lang.org
+* [Repository](https://github.com/mun-lang/mun): https://github.com/mun-lang/mun
+
 ### [Nim](https://nim-lang.org)
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
 * [Official Website](https://nim-lang.org): https://nim-lang.org
@@ -371,6 +424,11 @@ Odin is the C alternative for the Joy of Programming.
 Perl is a highly capable, feature-rich programming language with over 30 years of development.
 * [Official Website](https://www.perl.org): https://www.perl.org
 * [Repository](https://github.com/Perl/perl5): https://github.com/Perl/perl5
+
+### [Pen](https://pen-lang.org)
+Pen is the parallel, concurrent, and functional programming language for scalable software development, focused on software maintainability and portability.
+* [Official Website](https://pen-lang.org): https://pen-lang.org
+* [Repository](https://github.com/pen-lang/pen): https://github.com/pen-lang/pen
 
 ### [Pharo](https://pharo.org)
 Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
