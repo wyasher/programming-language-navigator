@@ -48,6 +48,11 @@ AnalScript is a joke esoteric programming language, that takes inspiration from 
 * [Official Website](https://esolangs.org/wiki/Analscript): https://esolangs.org/wiki/Analscript
 * [Repository](https://github.com/airscripts/analscript): https://github.com/airscripts/analscript
 
+### [Ante](https://antelang.org)
+Ante is a low-level functional language for exploring refinement types, lifetime inference, and other fun features.
+* [Official Website](https://antelang.org): https://antelang.org
+* [Repository](https://github.com/jfecher/ante): https://github.com/jfecher/ante
+
 ### [Argon](https://www.arlang.io)
 The Argon language is a work-in-progress interpreted multi-paradigm programming language. Its syntax is influenced by many modern languages and aims to be elegant, clean and simple to use.
 * [Official Website](https://www.arlang.io): https://www.arlang.io
@@ -76,6 +81,17 @@ ArkScript is a small, fast, functional and scripting language for C++ projects.
 ArkTS is the application development language for Harmony Ecology. On the basis of maintaining the basic syntax style of TypeScript (TS), it imposes stricter constraints on the dynamic typing characteristics of TS and introduces static typing. At the same time, it provides corresponding capabilities such as declarative UI and state management, allowing developers to develop high-performance applications in a more concise and natural way.
 * [Official Website](https://developer.harmonyos.com/cn/develop/arkts): https://developer.harmonyos.com/cn/develop/arkts
 * [Repository](https://gitee.com/openharmony/docs): https://gitee.com/openharmony/docs
+
+### [Arturo](https://arturo-lang.io)
+Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to: Logo, Rebol, Forth, Ruby, Haskell, D, Smalltalk, Tcl, and Lisp.
+
+The language has been designed following some very simple and straightforward principles:
+* Code is just a list of words, symbols and literal values
+* Words and symbols within a block are interpreted - when needed - according to the context
+* No reserved words or keywords - look for them as hard as you can; there are absolutely none
+---
+* [Official Website](https://arturo-lang.io): https://arturo-lang.io
+* [Repository](https://github.com/arturo-lang/arturo): https://github.com/arturo-lang/arturo
 
 ### [AsmX](https://langprogramming-asmx.github.io/AsmX-Documentation)
 AsmX is a modern programming language, has great flexibility for refactoring code. Has Turing completeness. Low-level.
@@ -186,10 +202,31 @@ A sweet, functional programming language that is robust, minimalistic, and expre
 Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers.
 * [Repository](https://github.com/carbon-language/carbon-lang): https://github.com/carbon-language/carbon-lang
 
+### [Carp](https://github.com/carp-lang/Carp)
+Carp is a programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
+
+The key features of Carp are the following:
+* Automatic and deterministic memory management (no garbage collector or VM)
+* Inferred static types for great speed and reliability
+* Ownership tracking enables a functional programming style while still using mutation of cache-friendly data structures under the hood
+* No hidden performance penalties – allocation and copying are explicit
+* Straightforward integration with existing C code
+* Lisp macros, compile time scripting and a helpful REPL
+---
+* [Repository](https://github.com/carp-lang/Carp): https://github.com/carp-lang/Carp
+
 ### [Catspeak](https://www.katsaii.com/catspeak-lang)
 A cross-platform, expression oriented programming language for implementing modding support into your GameMaker Studio 2.3 games.
 * [Official Website](https://www.katsaii.com/catspeak-lang): https://www.katsaii.com/catspeak-lang
 * [Repository](https://github.com/katsaii/catspeak-lang): https://github.com/katsaii/catspeak-lang
+
+### [ChaiScript](https://chaiscript.com)
+ChaiScript is one of the only embedded scripting language designed from the ground up to directly target C++ and take advantage of modern C++ development techniques, working with the developer how they would expect it to work. Being a native C++ application, it has some advantages over existing embedded scripting languages:
+* It uses a header-only approach, which makes it easy to integrate with existing projects.
+* It maintains type safety between your C++ application and the user scripts.
+* It supports a variety of C++ techniques including callbacks, overloaded functions, class methods, and stl containers.
+* [Official Website](https://chaiscript.com): https://chaiscript.com
+* [Repository](https://github.com/ChaiScript/ChaiScript): https://github.com/ChaiScript/ChaiScript
 
 ### [Chapel](https://chapel-lang.org)
 Chapel is a programming language designed for productive parallel computing at scale.
@@ -224,6 +261,11 @@ Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy a
 * [Official Website](https://www.clojure.org): https://www.clojure.org
 * [Repository](https://github.com/clojure/clojure): https://github.com/clojure/clojure
 
+### [Clio](https://clio-lang.org)
+Clio is a functional, distributed programming language that compiles to JavaScript. It runs in the browser and on the server and is made to be a suitable language for scientific programming. Clio takes advantage of multiple CPUs and multiple CPU cores (parallelism) by default, is able to use network resources, is easy to run on clusters and on the cloud.
+* [Official Website](https://clio-lang.org): https://clio-lang.org
+* [Repository](https://github.com/clio-lang/clio): https://github.com/clio-lang/clio
+
 ### [Clue](https://crates.io/crates/clue)
 Clue is a programming language that compiles blazingly fast into Lua code with a syntax similar to languages like C or Rust.
 
@@ -242,13 +284,22 @@ Cobalt is a high-level, compiled language with similar uses to C++. It aims to b
 Coconut is a functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python.
 
 Coconut aims to enhance the repertoire of Python programmers to include the tools of modern functional programming in as Pythonic a way as possible. Additionally, Coconut code runs the same on any Python version, meaning that even if you just use Coconut to write pure Python, you no longer have to worry about any core Python version differences: Coconut can backport almost all modern Python features as far back as Python 2.6.
-
 * [Official Website](https://coconut-lang.org): https://coconut-lang.org
 * [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
 
 ### [Comune](https://github.com/comune-lang/comune)
 comune is a general-purpose programming language, designed as a gradual successor to C++. it boasts many modern and powerful features, including static memory safety, an expression-based C-style syntax, type-checked generics, first-class support for sum types, a flexible pattern-matching system, and a highly parallelized compiler, while providing seamless C++ interop.
 * [Repository](https://github.com/comune-lang/comune): https://github.com/comune-lang/comune
+
+### [Cotowali](https://cotowali.org)
+A statically typed scripting language that is transpiled into shell script.
+* Outputs shell script that is fully compliant with POSIX standards.
+* Simple syntax.
+* Simple static type system.
+* Syntax for shell specific feature like pipe and redirection.
+---
+* [Official Website](https://cotowali.org): https://cotowali.org
+* [Repository](https://github.com/cotowali/cotowali): https://github.com/cotowali/cotowali
 
 ### [CovScript](https://covscript.org.cn)
 Covariant Script is a dynamic general-purpose programming language designed for modern applications to deliver consistent experience across different platforms.
@@ -280,6 +331,18 @@ CSML helps chatbot development teams build truly intelligent, maintainable and s
 ### [CSpydr](https://github.com/Spydr06/CSpydr)
 CSpydr is a low-level, static typed, free and open-source, compiled programming language inspired by Rust and C. This repository contains cspc (the CSpydr Programming Language Compiler), as well as CSpydr's Standard Library, a code-linting utility, some code examples and unit tests.
 * [Repository](https://github.com/CSML-by-Clevy/csml-engine): https://github.com/CSML-by-Clevy/csml-engine
+
+### [Curv](https://github.com/curv3d/curv)
+Curv is a programming language for creating art using mathematics. It's a 2D and 3D geometric modelling tool that supports full colour, animation and 3D printing.
+Features:
+* Curv is a simple, powerful, dynamically typed, pure functional programming language.
+* Curv is easy to use for beginners. It has a standard library of predefined geometric shapes, plus operators for transforming and combining shapes. These can be plugged together like Lego to make 2D and 3D models.
+* Coloured shapes are represented using Function Representation (F-Rep). They can be infinitely detailed, infinitely large, and any shape or colour pattern that can be described using mathematics can be represented exactly.
+* Curv exposes the full power of F-Rep programming to experts. The standard geometry library is written entirely in Curv. Many of the demos seen on shadertoy.com can be reproduced in Curv, using shorter, simpler programs. Experts can package techniques used on shadertoy as high level operations for use by beginners.
+* Rendering is GPU accelerated. Curv programs are compiled into fragment shaders which are executed on the GPU.
+* Curv can export meshes to STL, OBJ and X3D files for 3D printing. The X3D format supports full colour 3D printing (on Shapeways.com, at least). These meshes are defect free: watertight, manifold, with no self intersections, degenerate triangles, or flipped triangles.
+---
+* [Repository](https://github.com/curv3d/curv): https://github.com/curv3d/curv
 
 ### [C++](https://cplusplus.com)
 C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; modern C++ currently has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.
@@ -353,6 +416,11 @@ A research language with effect handlers and lightweight effect polymorphism.
 * [Official Website](https://effekt-lang.org): https://effekt-lang.org
 * [Repository](https://github.com/effekt-lang/effekt): https://github.com/effekt-lang/effekt
 
+### [ELENA](https://elena-lang.github.io)
+ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. It supports both strong and weak types, run-time conversions, boxing and unboxing primitive types, direct usage of external libraries. A rich set of tools is provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers. Multiple-inheritance can be simulated using mixins and type interfaces. The built-in script engine allows incorporating custom-defined scripts into your applications. Both stand-alone applications and Virtual machine clients are supported.
+* [Official Website](https://elena-lang.github.io): https://elena-lang.github.io
+* [Repository](https://github.com/ELENA-LANG/elena-lang): https://github.com/ELENA-LANG/elena-lang
+
 ### [Elixir](https://elixir-lang.org)
 Elixir is a dynamic, functional language for building scalable and maintainable applications.
 
@@ -386,6 +454,12 @@ Enso is an award-winning interactive programming language with dual visual and t
 * [Official Website](https://enso.org): https://enso.org
 * [Repository](https://github.com/enso-org/enso): https://github.com/enso-org/enso
 
+### [Enterprise](https://github.com/joaomilho/Enterprise)
+Enterprise™ is a non-deterministic-unnecessarily-statically-typed™ Turing-complete-ish™, Quantum-out-of-the-box™ programming language.
+
+Enterprise™ is designed to create computer programs that disrupt markets.
+* [Repository](https://github.com/joaomilho/Enterprise): https://github.com/joaomilho/Enterprise
+
 ### [EO](https://www.eolang.org)
 EO (stands for Elegant Objects or ISO 639-1 code of Esperanto) is an object-oriented programming language based on 𝜑-calculus. We're aware of popular semi-OOP languages and we don't think they are good enough, including: Java, Ruby, C++, Smalltalk, Python, PHP, C#.
 * [Official Website](https://www.eolang.org): https://www.eolang.org
@@ -413,17 +487,26 @@ The implementation is fully compiled for performance, while still supporting int
 * [Official Website](https://factorcode.org): https://factorcode.org
 * [Repository](https://github.com/factor/factor): https://github.com/factor/factor
 
+### [Fennel](https://fennel-lang.org)
+Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
+
+* **Full Lua compatibility**- You can use any function or library from Lua.
+* **Zero overhead** - Compiled code should be just as efficient as hand-written Lua.
+* **Compile-time macros** - Ship compiled code with no runtime dependency on Fennel.
+* **Embeddable** - Fennel is a one-file library as well as an executable. Embed it in other programs to support runtime extensibility and interactive development.
+* [Official Website](https://fennel-lang.org): https://fennel-lang.org
+* [Repository](https://github.com/bakpakin/Fennel): https://github.com/bakpakin/Fennel
+
+### [Fetlang](https://github.com/fetlang/fetlang)
+Fetlang is a statically typed, procedural, esoteric programming language and reference implementation. It is designed such that source code looks like poorly written fetish erotica.
+* [Repository](https://github.com/fetlang/fetlang): https://github.com/fetlang/fetlang
+
 ### [Finkel](https://finkel.readthedocs.io/en/latest)
 Finkel is a statically typed, purely functional, and non-strict-by-default LISP flavored programming language.
 
 Or in other words, Haskell in S-expression.
 * [Official Website](https://finkel.readthedocs.io/en/latest): https://finkel.readthedocs.io/en/latest
 * [Repository](https://github.com/finkel-lang/finkel): https://github.com/finkel-lang/finkel
-
-### [ELENA](https://elena-lang.github.io)
-ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. It supports both strong and weak types, run-time conversions, boxing and unboxing primitive types, direct usage of external libraries. A rich set of tools is provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers. Multiple-inheritance can be simulated using mixins and type interfaces. The built-in script engine allows incorporating custom-defined scripts into your applications. Both stand-alone applications and Virtual machine clients are supported.
-* [Official Website](https://elena-lang.github.io): https://elena-lang.github.io
-* [Repository](https://github.com/ELENA-LANG/elena-lang): https://github.com/ELENA-LANG/elena-lang
 
 ### [Flix](https://flix.dev)
 Next-generation reliable, safe, concise, and functional-first programming language.
@@ -447,6 +530,11 @@ FunctionalScript is a purely functional programming language and a strict subset
 ### [Fusion](https://github.com/fusionlanguage/fut)
 Fusion is a programming language which can be translated automatically to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
 * [Repository](https://github.com/fusionlanguage/fut): https://github.com/fusionlanguage/fut
+
+### [Futhark](https://futhark-lang.org)
+Futhark is a purely functional data-parallel programming language in the ML family. It can be compiled to typically very efficient parallel code, running on either a CPU or GPU. The language is developed at DIKU at the University of Copenhagen, originally as part of the HIPERFIT centre. It is quite stable and suitable for practical programming.
+* [Official Website](https://futhark-lang.org): https://futhark-lang.org
+* [Repository](https://github.com/diku-dk/futhark): https://github.com/diku-dk/futhark
 
 ### [F#](https://dotnet.microsoft.com/en-us/languages/fsharp)
 An open-source language that makes it easy to write succinct, robust, and performant code.
@@ -694,6 +782,11 @@ KCL is an open-source, constraint-based record and functional language that enha
 * [Official Website](https://kcl-lang.io): https://kcl-lang.io
 * [Repository](https://github.com/kcl-lang/kcl): https://github.com/kcl-lang/kcl
 
+### [KDL](https://kdl.dev)
+KDL is a document language with xml-like semantics that looks like you're invoking a bunch of CLI commands! It's meant to be used both as a serialization format and a configuration language, much like JSON, YAML, or XML.
+* [Official Website](https://kdl.dev): https://kdl.dev
+* [Repository](https://github.com/kdl-org/kdl): https://github.com/kdl-org/kdl
+
 ### [Ki](https://ki-lang.dev)
 ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
 * [Official Website](https://ki-lang.dev): https://ki-lang.dev
@@ -808,6 +901,11 @@ Millions of engineers and scientists worldwide use MATLAB® to analyze and desig
 MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets, and scale up to clusters and clouds. MATLAB code can be integrated with other languages, enabling you to deploy algorithms and applications within web, enterprise, and production systems.
 * [Official Website](https://www.mathworks.com/help/matlab): https://www.mathworks.com/help/matlab
 
+### [Melody](https://yoav-lavi.github.io/melody/book)
+Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
+* [Official Website](https://yoav-lavi.github.io/melody/book): https://yoav-lavi.github.io/melody/book
+* [Repository](https://github.com/yoav-lavi/melody): https://github.com/yoav-lavi/melody
+
 ### [Milone](https://github.com/vain0x/milone-lang)
 The Milone language is an F#-subset programming language.
 * [Repository](https://github.com/vain0x/milone-lang): https://github.com/vain0x/milone-lang
@@ -918,6 +1016,10 @@ P is a state machine based programming language for formally modeling and specif
 * [Official Website](https://p-org.github.io/P): https://p-org.github.io/P
 * [Repository](https://github.com/p-org/P): https://github.com/p-org/P
 
+### [Peregrine](https://github.com/peregrine-lang/Peregrine)
+Peregrine is a Compiled, Systems Programming Language, currently under development.
+* [Repository](https://github.com/peregrine-lang/Peregrine): https://github.com/peregrine-lang/Peregrine
+
 ### [Perl](https://www.perl.org)
 Perl is a highly capable, feature-rich programming language with over 30 years of development.
 * [Official Website](https://www.perl.org): https://www.perl.org
@@ -944,6 +1046,13 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
 Pluto is a unique dialect of Lua, which aims to specialize for general-purpose programming.
 * [Official Website](https://pluto-lang.org): https://pluto-lang.org
 * [Repository](https://github.com/PlutoLang/Pluto): https://github.com/PlutoLang/Pluto
+
+### [Pocketlang](https://thakeenathees.github.io/pocketlang)
+Pocketlang is a lightweight (~3000 semicolons) and fast object oriented, embeddable scripting language written in C. It has a ruby flavoured python syntax, that can be learned within 15 minutes. Including the compiler, bytecode VM and runtime, it's a standalone executable with zero external dependencies just as it's self descriptive name. The pocketlang VM can be embedded in another hosting program very easily.
+
+Wren Language and their wonderful book Crafting Interpreters were used as a reference to write this language.
+* [Official Website](https://thakeenathees.github.io/pocketlang): https://thakeenathees.github.io/pocketlang
+* [Repository](https://github.com/ThakeeNathees/pocketlang): https://github.com/ThakeeNathees/pocketlang
 
 ### [Pony](https://www.ponylang.io)
 Pony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
