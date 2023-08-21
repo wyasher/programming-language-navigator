@@ -2,6 +2,17 @@
 A repository for navigating through various programming languages, providing links to their official websites and repository addresses.
 
 ## Programming Languages
+### [Acton](https://www.acton-lang.org)
+Acton is a general purpose programming language, designed to be useful for a wide range of applications, from desktop applications to embedded and distributed systems. In a first approximation Acton can be described as a seamless addition of a powerful new construct to an existing language: Acton adds actors to Python.
+
+Acton is a compiled language, offering the speed of C but with a considerably simpler programming model. There is no explicit memory management, instead relying on garbage collection.
+
+Acton is statically typed with an expressive type language and type inference. Type inferrence means you don't have to explicitly declare types of every variable but that the compiler will infer the type and performs its checks accordingly. We can have the benefits of type safety without the extra overhead involved in declaring types.
+
+The Acton Run Time System (RTS) offers a distributed mode of operation allowing multiple computers to participate in running one logical Acton system. Actors can migrate between compute nodes for load sharing purposes and similar. The RTS offers exactly once delivery guarantees. Through checkpointing of actor states to a distributed database, the failure of individual compute nodes can be recovered by restoring actor state. Your system can run forever!
+* [Official Website](https://www.acton-lang.org): https://www.acton-lang.org
+* [Repository](https://github.com/actonlang/acton): https://github.com/actonlang/acton
+
 ### [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage)
 Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 
@@ -11,10 +22,26 @@ Agda is open-source and enjoys contributions from many authors. The center of th
 * [Official Website](https://wiki.portal.chalmers.se/agda/Main/HomePage): https://wiki.portal.chalmers.se/agda/Main/HomePage
 * [Repository](https://github.com/agda/agda): https://github.com/agda/agda
 
+### [AiScript](https://syuilo.github.io/aiscript)
+🔋 A lightweight scripting language runing on JavaScript.
+* [Official Website](https://syuilo.github.io/aiscript): https://syuilo.github.io/aiscript
+* [Repository](https://github.com/syuilo/aiscript): https://github.com/syuilo/aiscript
+
 ### [Amun](https://amun-lang.github.io/docs)
 A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework, the design was inspired from many programming languages with the goal to be simple and productive.
 * [Official Website](https://amun-lang.github.io/docs): https://amun-lang.github.io/docs
 * [Repository](https://github.com/amrdeveloper/amun): https://github.com/amrdeveloper/amun
+
+### [AnalLang](https://esolangs.org/wiki/AnalLang)
+AnalLang is a language that takes a Node.js program to translate to AnalLang by splitting each character, translating each character to its ASCII code, and repeating the "🍑🍆" emoji sequence by the ASCII code, then adding a space and taking the next letter from the string and translating to the "🍑🍆" emoji sequence, which is repeated until all letters are translated.
+
+AnalLang interprets by splitting each "🍑🍆" emoji sequence, then splitting all the spaces into an array, then looping through each entry and counting appearances of "🍑🍆", which is then turned into an ASCII code and then into its original character, then looping until all characters have been translated to their original form, then joining the characters and evaluating the final result.
+* [Official Website](https://esolangs.org/wiki/AnalLang): https://esolangs.org/wiki/AnalLang
+
+### [AnalScript](https://esolangs.org/wiki/Analscript)
+AnalScript is a joke esoteric programming language, that takes inspiration from the fallen AnalLang and serves, the purpose to be a modern approach for writing anally fast stuff.
+* [Official Website](https://esolangs.org/wiki/Analscript): https://esolangs.org/wiki/Analscript
+* [Repository](https://github.com/airscripts/analscript): https://github.com/airscripts/analscript
 
 ### [Argon](https://www.arlang.io)
 The Argon language is a work-in-progress interpreted multi-paradigm programming language. Its syntax is influenced by many modern languages and aims to be elegant, clean and simple to use.
@@ -66,6 +93,13 @@ Barn is a simple programming language written in GoLang and compiled to C. Synta
 * [Official Website](https://barn-lang.github.io/barn-docs): https://barn-lang.github.io/barn-docs
 * [Repository](https://github.com/barn-lang/barn): https://github.com/barn-lang/barn
 
+### [Bass](https://bass-lang.org)
+Bass is a scripting language for running commands and caching the shit out of them.
+
+Bass's goal is to make shipping software predictable, repeatable, and fun. The plan is to support sophisticated CI/CD flows while sticking to familiar ideas. CI/CD boils down to running commands. Bass leverages that instead of trying to replace it.
+* [Official Website](https://bass-lang.org): https://bass-lang.org
+* [Repository](https://github.com/vito/bass): https://github.com/vito/bass
+
 ### [Beef](https://www.beeflang.org)
 Beef is an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment. The syntax and many semantics are most directly derived from C#, while attempting to retain the C ideals of bare-metal explicitness and lack of runtime surprises, with some "modern" niceties inspired by languages such as Rust, Swift, and Go.
 
@@ -86,10 +120,48 @@ Blade comes equipped with an integrated package management system, simplifying t
 * [Official Website](https://bladelang.com): https://bladelang.com
 * [Repository](https://github.com/blade-lang/blade): https://github.com/blade-lang/blade
 
+### [BQN](https://mlochbaum.github.io/BQN)
+BQN: finally, an APL for your flying saucer.
+* A simple, consistent, and stable array programming language
+* A low-dependency C implementation using bytecode compilation: installation
+* System functions for math, files, and I/O (including a C FFI)
+* Documentation with examples, visuals, explanations, and rationale for features
+* Libraries with interfaces for common file formats like JSON and CSV
+---
+* [Official Website](https://mlochbaum.github.io/BQN): https://mlochbaum.github.io/BQN
+* [Repository](https://github.com/mlochbaum/BQN): https://github.com/mlochbaum/BQN
+
+### [Brainease](https://brainease.cli.rs)
+Brainease is a scripting language that has many similar concepts with brainf*ck, sharing some principal concepts, like memory and instructions. It was created to be a simple and faster language to create, but also to be a language that is easy to read and understand.
+* One instruction per line, long files but shorter width.
+* Syntax highlighting for every IDE that supports highlighting for the R language.
+* Memory management done with a simple, fast and linear memory allocation system.
+* Python-like indentation system - Just two spaces.
+---
+* [Official Website](https://brainease.cli.rs): https://brainease.cli.rs
+* [Repository](https://github.com/arthurfiorette/brainease): https://github.com/arthurfiorette/brainease
+
+### [Buzz](https://buzz-lang.dev)
+A small/lightweight statically typed scripting language written in Zig.
+* Find out bugs in your IDE rather than in production
+* Uses MIR, a fast and lightweight JIT compiler
+* No implicit behavior or unexpected type coercion
+* Does not take much space on your drive or in your mind
+* Single threaded cooperative multitasking
+---
+* [Official Website](https://buzz-lang.dev): https://buzz-lang.dev
+* [Repository](https://github.com/buzz-language/buzz): https://github.com/buzz-language/buzz
+
 ### [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 C  is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
 * [Official Website](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html): https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 * [Repository](https://gcc.gnu.org/git/gcc.git): https://gcc.gnu.org/git/gcc.git
+
+### [C3](https://github.com/c3lang/c3c)
+C3 is a programming language that builds on the syntax and semantics of the C language, with the goal of evolving it while still retaining familiarity for C programmers.
+
+It's an evolution, not a revolution: the C-like for programmers who like C.
+* [Repository](https://github.com/c3lang/c3c): https://github.com/c3lang/c3c
 
 ### [Cadence](https://developers.flow.com/cadence/intro)
 Cadence is a resource-oriented programming language that introduces new features to smart contract programming that help developers ensure that their code is safe, secure, clear, and approachable.
@@ -108,6 +180,11 @@ A sweet, functional programming language that is robust, minimalistic, and expre
 ### [Carbon](https://github.com/carbon-language/carbon-lang/blob/trunk/README.md)
 Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers.
 * [Repository](https://github.com/carbon-language/carbon-lang): https://github.com/carbon-language/carbon-lang
+
+### [Catspeak](https://www.katsaii.com/catspeak-lang)
+A cross-platform, expression oriented programming language for implementing modding support into your GameMaker Studio 2.3 games.
+* [Official Website](https://www.katsaii.com/catspeak-lang): https://www.katsaii.com/catspeak-lang
+* [Repository](https://github.com/katsaii/catspeak-lang): https://github.com/katsaii/catspeak-lang
 
 ### [Chapel](https://chapel-lang.org)
 Chapel is a programming language designed for productive parallel computing at scale.
@@ -142,6 +219,20 @@ Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy a
 * [Official Website](https://www.clojure.org): https://www.clojure.org
 * [Repository](https://github.com/clojure/clojure): https://github.com/clojure/clojure
 
+### [Clue](https://crates.io/crates/clue)
+Clue is a programming language that compiles blazingly fast into Lua code with a syntax similar to languages like C or Rust.
+
+Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code.
+
+Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
+* [Official Website](https://crates.io/crates/clue): https://crates.io/crates/clue
+* [Repository](https://github.com/ClueLang/Clue): https://github.com/ClueLang/Clue
+
+### [Cobalt](https://matt-cornell.github.io/cobalt-docs)
+Cobalt is a high-level, compiled language with similar uses to C++. It aims to be more modern than C++, but offer more freedom than Rust.
+* [Official Website](https://matt-cornell.github.io/cobalt-docs): https://matt-cornell.github.io/cobalt-docs
+* [Repository](https://github.com/matt-cornell/cobalt-lang): https://github.com/matt-cornell/cobalt-lang
+
 ### [Coconut](https://coconut-lang.org)
 Coconut is a functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python.
 
@@ -149,6 +240,10 @@ Coconut aims to enhance the repertoire of Python programmers to include the tool
 
 * [Official Website](https://coconut-lang.org): https://coconut-lang.org
 * [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
+
+### [Comune](https://github.com/comune-lang/comune)
+comune is a general-purpose programming language, designed as a gradual successor to C++. it boasts many modern and powerful features, including static memory safety, an expression-based C-style syntax, type-checked generics, first-class support for sum types, a flexible pattern-matching system, and a highly parallelized compiler, while providing seamless C++ interop.
+* [Repository](https://github.com/comune-lang/comune): https://github.com/comune-lang/comune
 
 ### [CovScript](https://covscript.org.cn)
 Covariant Script is a dynamic general-purpose programming language designed for modern applications to deliver consistent experience across different platforms.
@@ -175,6 +270,10 @@ Csq is a high level programming language which is inspired by the speed of C++ a
 ### [CSML](https://www.csml.dev)
 CSML helps chatbot development teams build truly intelligent, maintainable and scalable chatbots, integrated with your favorite apps, on any channel, with full control over your source code.
 * [Official Website](https://www.csml.dev): https://www.csml.dev
+* [Repository](https://github.com/CSML-by-Clevy/csml-engine): https://github.com/CSML-by-Clevy/csml-engine
+
+### [CSpydr](https://github.com/Spydr06/CSpydr)
+CSpydr is a low-level, static typed, free and open-source, compiled programming language inspired by Rust and C. This repository contains cspc (the CSpydr Programming Language Compiler), as well as CSpydr's Standard Library, a code-linting utility, some code examples and unit tests.
 * [Repository](https://github.com/CSML-by-Clevy/csml-engine): https://github.com/CSML-by-Clevy/csml-engine
 
 ### [C++](https://cplusplus.com)
@@ -235,6 +334,20 @@ Dylan is an object-functional language originally created by Apple for the Newto
 * [Official Website](https://opendylan.org): https://opendylan.org
 * [Repository](https://github.com/dylan-lang/opendylan): https://github.com/dylan-lang/opendylan
 
+### [Eberban](https://eberban.github.io/eberban)
+Eberban is a logical constructed language aimed to satisfy the following goals :
+* **being simple**: the Eberban grammar allows manipulating predicates with particles in a way that is close to the higher-order logic it translates into, while abstracting away the verbosity of explicitly providing variables as arguments of predicates.
+* **being regular**: valid sentences are syntactically unambiguous. Most grammar rules rely on particles which are organised into families, each starting with a unique prefix. Many additional patterns are shared between particles and predicate words to help with learning groups of related words.
+* **being expressive**: the grammar and core vocabulary focus on providing a simple framework, on top of which can be built abstractions, complex concepts and tools. Since those are built into Eberban itself, users can create their own tools and abstractions to express entirely new concepts.
+Eberban takes inspiration from Lojban and other logical languages, but tries novel approaches to satisfy the above goals.
+* [Official Website](https://eberban.github.io/eberban): https://eberban.github.io/eberban
+* [Repository](https://github.com/eberban/eberban): https://github.com/eberban/eberban
+
+### [Effekt](https://effekt-lang.org)
+A research language with effect handlers and lightweight effect polymorphism.
+* [Official Website](https://effekt-lang.org): https://effekt-lang.org
+* [Repository](https://github.com/effekt-lang/effekt): https://github.com/effekt-lang/effekt
+
 ### [Elixir](https://elixir-lang.org)
 Elixir is a dynamic, functional language for building scalable and maintainable applications.
 
@@ -263,6 +376,16 @@ Emojicode is an open source, high-level, multi-paradigm programming language con
 * [Official Website](https://www.emojicode.org): https://www.emojicode.org
 * [Repository](https://github.com/emojicode/emojicode): https://github.com/emojicode/emojicode
 
+### [Enso](https://enso.org)
+Enso is an award-winning interactive programming language with dual visual and textual representations. It is a tool that spans the entire stack, going from high-level visualization and communication to the nitty-gritty of backend services, all in a single language. Watch the following introduction video to learn what Enso is, and how it helps companies build data workflows in minutes instead of weeks.
+* [Official Website](https://enso.org): https://enso.org
+* [Repository](https://github.com/enso-org/enso): https://github.com/enso-org/enso
+
+### [EO](https://www.eolang.org)
+EO (stands for Elegant Objects or ISO 639-1 code of Esperanto) is an object-oriented programming language based on 𝜑-calculus. We're aware of popular semi-OOP languages and we don't think they are good enough, including: Java, Ruby, C++, Smalltalk, Python, PHP, C#.
+* [Official Website](https://www.eolang.org): https://www.eolang.org
+* [Repository](https://github.com/objectionary/eo): https://github.com/objectionary/eo
+
 ### [Erg](https://erg-lang.org)
 Erg has a strong type system and comfortable compiler support. For example, it has dependent types and refinement types. These types strongly encode pre-conditions, invariant conditions, etc. into the code.
 * [Official Website](https://erg-lang.org): https://erg-lang.org
@@ -279,6 +402,13 @@ The Factor programming language is a concatenative, stack-based programming lang
 The implementation is fully compiled for performance, while still supporting interactive development. Factor applications are portable between all common platforms. Factor can deploy stand-alone applications on all platforms. Full source code for the Factor project is available under a BSD license.
 * [Official Website](https://factorcode.org): https://factorcode.org
 * [Repository](https://github.com/factor/factor): https://github.com/factor/factor
+
+### [Finkel](https://finkel.readthedocs.io/en/latest)
+Finkel is a statically typed, purely functional, and non-strict-by-default LISP flavored programming language.
+
+Or in other words, Haskell in S-expression.
+* [Official Website](https://finkel.readthedocs.io/en/latest): https://finkel.readthedocs.io/en/latest
+* [Repository](https://github.com/finkel-lang/finkel): https://github.com/finkel-lang/finkel
 
 ### [ELENA](https://elena-lang.github.io)
 ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. It supports both strong and weak types, run-time conversions, boxing and unboxing primitive types, direct usage of external libraries. A rich set of tools is provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers. Multiple-inheritance can be simulated using mixins and type interfaces. The built-in script engine allows incorporating custom-defined scripts into your applications. Both stand-alone applications and Virtual machine clients are supported.
@@ -496,6 +626,20 @@ Janet is a functional and imperative programming language. It runs on Windows, L
 * [Official Website](https://janet-lang.org): https://janet-lang.org
 * [Repository](https://github.com/janet-lang/janet): https://github.com/janet-lang/janet
 
+### [Jasmin](https://github.com/jasmin-lang/jasmin)
+Jasmin is a workbench for high-assurance and high-speed cryptography. Jasmin implementations aim at being efficient, safe, correct, and secure.
+
+The Jasmin programming language smoothly combines high-level and low-level constructs, so as to support “assembly in the head” programming. Programmers can control many low-level details that are performance-critical: instruction selection and scheduling, what registers to spill and when, etc. They can also rely on high-level abstractions (variables, functions, arrays, loops, etc.) to structure their code and make it more amenable to formal verification.
+
+The semantics is formally defined to allow rigorous reasoning about program behaviors. The Coq definitions can be found in the proofs/lang/sem.v file. This semantics is executable, thus Jasmin programs can be directly interpreted.
+
+Jasmin programs can be automatically checked for safety and termination (using a trusted static analyzer).
+
+The Jasmin compiler produces predictable assembly and ensures that the use of high-level abstractions incurs no run-time penalty. It is formally verified for correctness (the precise Coq statement and the corresponding machine-checked proofs can be found in the proofs/compiler/compiler_proof.v file). This justifies that many properties can be proved on a source program and still apply to the corresponding assembly program: safety, termination, functional correctness…
+
+The Jasmin workbench leverages the EasyCrypt toolset for formal verification. Jasmin programs can be extracted to corresponding EasyCrypt programs to prove functional correctness, cryptographic security, or security against side-channel attacks (constant-time).
+* [Repository](https://github.com/jasmin-lang/jasmin): https://github.com/jasmin-lang/jasmin
+
 ### [Java](https://www.java.com)
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well.
 * [Official Website](https://www.java.com): https://www.java.com
@@ -528,6 +672,11 @@ Julia is a high-level, high-performance dynamic language for technical computing
 ---
 * [Official Website](https://julialang.org): https://julialang.org
 * [Repository](https://github.com/JuliaLang/julia): https://github.com/JuliaLang/julia
+
+### [KCL](https://kcl-lang.io)
+KCL is an open-source, constraint-based record and functional language that enhances the writing of complex configurations, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems.
+* [Official Website](https://kcl-lang.io): https://kcl-lang.io
+* [Repository](https://github.com/kcl-lang/kcl): https://github.com/kcl-lang/kcl
 
 ### [Ki](https://ki-lang.dev)
 ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
@@ -567,6 +716,11 @@ Lamdu is a programming language designed to be useful and delightful.
 * [Official Website](https://www.lamdu.org): https://www.lamdu.org
 * [Repository](https://github.com/lamdu/lamdu): https://github.com/lamdu/lamdu
 
+### [Less](https://lesscss.org)
+Less. The dynamic stylesheet language.
+* [Official Website](https://lesscss.org): https://lesscss.org
+* [Repository](https://github.com/less/less.js): https://github.com/less/less.js
+
 ### [LinguaFranca](https://www.lf-lang.org)
 Lingua Franca (LF) is a polyglot coordination language for concurrent and possibly time-sensitive applications ranging from low-level embedded code to distributed cloud and edge applications. An LF program specifies the interactions between components called reactors. The emphasis of the framework is on ensuring deterministic interaction with explicit management of timing. The logic of each reactor is written in one of a suite of target languages (currently C, C++, Python, and TypeScript) and can integrate legacy code in those languages. A code generator synthesizes one or more programs in the target language, which are then compiled using standard toolchains. If the application has exploitable parallelism, then it executes transparently on multiple cores without compromising determinacy. A distributed application translates into multiple programs and scripts to launch those programs on distributed machines. The communication fabric connecting components is synthesized as part of the programs.
 * [Official Website](https://www.lf-lang.org): https://www.lf-lang.org
@@ -583,6 +737,16 @@ Logica is an open source declarative logic programming language for data manipul
 Logica extends syntax of logic programming for intuitive and efficient data manipulation. It compiles to SQL thus providing you access to the power of SQL engines with the convenience of logic programming syntax.
 * [Official Website](https://logica.dev): https://logica.dev
 * [Repository](https://github.com/evgskv/logica): https://github.com/evgskv/logica
+
+### [Lojban](https://mw.lojban.org/papri/Lojban)
+Lojban is a carefully constructed spoken language. It has been built for over 50 years by dozens of workers and hundreds of supporters.
+
+Lojban's grammar is based on simple rules, and its linguistic features are inspired by predicate logic.
+Lojban allows the expression of nuances in emotion using words called attitudinals, which are like spoken emoticons. ue marks that you're surprised; ba'u marks that you're exaggerating.
+You can be as vague or detailed as you like when speaking lojban. For example, specifying tense (past, present or future) or number (singular or plural) is optional when they're clear from context.
+Lojban is machine parsable, so the syntactic structure and validity of a sentence is unambiguous, and can be analyzed using computer tools.
+There is a live community of speakers expanding the lojban vocabulary day by day.
+* [Official Website](https://mw.lojban.org/papri/Lojban): https://mw.lojban.org/papri/Lojban
 
 ### [Lua](https://www.lua.org)
 Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
@@ -606,11 +770,26 @@ Lux is a new programming language in the making.
 It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
 * [Repository](https://github.com/LuxLang/lux): https://github.com/LuxLang/lux
 
+### [MasterCSS](https://css.master.co)
+A markup-driven CSS language with enhanced syntax.
+
+Master CSS provides various compilation modes, allowing you to choose according to the characteristics and needs of different projects.
+* **Progressive Rendering** - Scan the requested HTML on the server side, generate CSS rules, and enable runtime-rendering compilation on the browser side
+* **Runtime Rendering** - Observe the DOM tree, manipulate CSS rules according to the changed class name, and synchronize to the running style sheet at runtime
+* **Static Extraction** - Scan source files for class names at build time, extract class names, and generate CSS files/virtual modules, then import them in the entry file
+---
+* [Official Website](https://css.master.co): https://css.master.co
+* [Repository](https://github.com/master-co/css): https://github.com/master-co/css
+
 ### [MATLAB](https://www.mathworks.com/help/matlab)
 Millions of engineers and scientists worldwide use MATLAB® to analyze and design the systems and products transforming our world. The matrix-based MATLAB language is the world’s most natural way to express computational mathematics. Built-in graphics make it easy to visualize and gain insights from data. The desktop environment invites experimentation, exploration, and discovery. These MATLAB tools and capabilities are all rigorously tested and designed to work together.
 
 MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets, and scale up to clusters and clouds. MATLAB code can be integrated with other languages, enabling you to deploy algorithms and applications within web, enterprise, and production systems.
 * [Official Website](https://www.mathworks.com/help/matlab): https://www.mathworks.com/help/matlab
+
+### [Milone](https://github.com/vain0x/milone-lang)
+The Milone language is an F#-subset programming language.
+* [Repository](https://github.com/vain0x/milone-lang): https://github.com/vain0x/milone-lang
 
 ### [Mint](https://mint-lang.com)
 The programming language for writing single page applications.
@@ -624,6 +803,14 @@ Mojo 🔥 — a new programming language for all AI developers.
 
 Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
 * [Official Website](https://www.modular.com/mojo): https://www.modular.com/mojo
+
+### [Motion](https://github.com/MotionLang/motion)
+Motion is a dynamically typed general purpose programming language designed to help developers write fast, clean, and efficient code for a modern world.
+
+Motion is created in pure ANSI C, with no dependancies.
+
+Motion is a variation of the Lox language found at www.craftinginterpreters.com and is licensed under GNU GPL v3.0.
+* [Official Website](https://github.com/MotionLang/motion): https://github.com/MotionLang/motion
 
 ### [MoonScript](https://moonscript.org)
 MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
@@ -641,6 +828,11 @@ Mun is a programming language empowering creation through iteration.
 ---
 * [Official Website](https://mun-lang.org): https://mun-lang.org
 * [Repository](https://github.com/mun-lang/mun): https://github.com/mun-lang/mun
+
+### [Natalie](https://natalie-lang.org)
+Natalie is a work-in-progress Ruby implementation, compiled to C++.
+* [Official Website](https://natalie-lang.org): https://natalie-lang.org
+* [Repository](https://github.com/natalie-lang/natalie): https://github.com/natalie-lang/natalie
 
 ### [Never](https://never-lang.readthedocs.io)
 Never is a simple functional programming language. Technically it may be classified as syntactically scoped, strongly typed, call by value, functional programming language.
@@ -678,6 +870,10 @@ Objeck is a modern object-oriented programming language with functional features
 An industrial-strength functional programming language with an emphasis on expressiveness and safety.
 * [Official Website](https://ocaml.org): https://ocaml.org
 * [Repository](https://github.com/ocaml/ocaml): https://github.com/ocaml/ocaml
+
+### [OCL](https://github.com/SteKoe/ocl.js)
+The Object Constraint Language (OCL) is a language for describing rules that apply to MOF conform modelling languages like UML. The OCL is a text based language that provides constraint and object query expressions that cannot be expressed by a meta modelling language.
+* [Repository](https://github.com/SteKoe/ocl.js): https://github.com/SteKoe/ocl.js
 
 ### [Odin](https://odin-lang.org)
 Odin is a general-purpose programming language with distinct typing built for high performance, modern systems and data-oriented programming.
@@ -718,10 +914,19 @@ Pluto is a unique dialect of Lua, which aims to specialize for general-purpose p
 * [Official Website](https://pluto-lang.org): https://pluto-lang.org
 * [Repository](https://github.com/PlutoLang/Pluto): https://github.com/PlutoLang/Pluto
 
+### [Prajna](https://github.com/prajna-lang/prajna)
+a program language for AI infrastructure.
+* [Repository](https://github.com/prajna-lang/prajna): https://github.com/prajna-lang/prajna
+
 ### [PureScript](https://www.purescript.org)
 A small strongly typed programming language with expressive types that compiles to JavaScript, written in and inspired by Haskell.
 * [Official Website](https://www.purescript.org): https://www.purescript.org
 * [Repository](https://github.com/purescript/purescript): https://github.com/purescript/purescript
+
+### [Pyret](https://pyret.org)
+Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming. It's under active design and development, and free to use or modify.
+* [Official Website](https://pyret.org): https://pyret.org
+* [Repository](https://github.com/brownplt/pyret-lang): https://github.com/brownplt/pyret-lang
 
 ### [Python](https://www.python.org)
 Python is a programming language that lets you work quickly and integrate systems more effectively.
@@ -747,6 +952,11 @@ A simple, easy to use compiled programming language that can be compiled to mult
 Raku is a language specification similar to C and C++. To actually run programs written in Raku one needs a Raku implementation. There are several implementations varying in their level of maturity and development activity.
 * [Official Website](https://raku.org): https://raku.org
 * [Repository](https://github.com/rakudo/rakudo): https://github.com/rakudo/rakudo
+
+### [Rascal](https://www.rascal-mpl.org)
+The one-stop shop for metaprogramming
+* [Official Website](https://www.rascal-mpl.org): https://www.rascal-mpl.org
+* [Repository](https://github.com/usethesource/rascal): https://github.com/usethesource/rascal
 
 ### [Reason](https://reasonml.github.io)
 Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.
@@ -787,10 +997,24 @@ ReScript is a robustly typed language that compiles to efficient and human-reada
 * [Official Website](https://rescript-lang.org): https://rescript-lang.org
 * [Repository](https://github.com/rescript-lang/rescript-compiler): https://github.com/rescript-lang/rescript-compiler
 
+### [Rhovas](https://rhovas.dev)
+Rhovas is a programming language intended for API design and enforcement. Using Rhovas, developers can better express the contracts and intention of their code to help create maintainable, correct, and performant software.
+* [Official Website](https://rhovas.dev): https://rhovas.dev
+* [Repository](https://github.com/Rhovas/Interpreter): https://github.com/Rhovas/Interpreter
+
 ### [Rickroll](https://rick-lang.github.io/programming-language-explainer)
 Rick Roll Programming Language, a language that is rickroll-based!
 * [Official Website](https://rick-lang.github.io/programming-language-explainer): https://rick-lang.github.io/programming-language-explainer
 * [Repository](https://github.com/Rick-Lang/rickroll-lang): https://github.com/Rick-Lang/rickroll-lang
+
+### [Ring](https://ring-lang.github.io)
+Simple and flexible programming language for applications development.
+
+The Ring is a practical general-purpose multi-paradigm language. The supported programming paradigms are imperative, procedural, object-oriented, declarative using nested structures, functional, meta programming and natural programming. The language is portable (MS-DOS, Windows, Linux, macOS, Android, WebAssembly, etc.) and can be used to create Console, GUI, Web, Games and Mobile applications. The language is designed to be simple, small and flexible.
+
+Ring is distributed as a Free-Open Source project under the MIT License.
+* [Official Website](https://ring-lang.github.io): https://ring-lang.github.io
+* [Repository](https://github.com/ring-lang/ring): https://github.com/ring-lang/ring
 
 ### [Rivet](https://rivet-lang.github.io)
 Rivet's goal is to be a very powerful programming language and at the same time easy to use, with a syntax that is the result of mixing Go + Zig + C# and other languages such as Python, Lua, TypeScript, D, etc.
@@ -843,6 +1067,10 @@ Rust has great documentation, a friendly compiler with useful error messages, an
 * [Official Website](https://www.rust-lang.org): https://www.rust-lang.org
 * [Repository](https://github.com/rust-lang/rust): https://github.com/rust-lang/rust
 
+### [Sass](https://sass-lang.com)
+Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+* [Official Website](https://sass-lang.com): https://sass-lang.com
+* [Repository](https://github.com/sass/sass): https://github.com/sass/sass
 
 ### [Scala](https://www.scala-lang.org)
 A programming language that scales with you: from small scripts to large multiplatform applications.
@@ -862,10 +1090,43 @@ The word 'Shen' means 'highest spirit' in Chinese and indicates our goal is to t
 * [Official Website](https://shenlanguage.org): https://shenlanguage.org
 * [Repository](https://github.com/Shen-Language/shen-sources): https://github.com/Shen-Language/shen-sources
 
+### [Shiika](https://github.com/shiika-lang/shiika)
+Shiika is a programming language that makes me most productive.
+* Easy to write like Ruby or Python
+* Static type checking (Null safety!)
+* Object-oriented but has enums and pattern-matching
+* Written in Rust, compiles to single binary via LLVM IR
+---
+* [Repository](https://github.com/shiika-lang/shiika): https://github.com/shiika-lang/shiika
+
+### [Silice](https://github.com/sylefeb/Silice)
+Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
+
+Silice is an easy-to-learn, powerful hardware description language, that allows both to prototype ideas quickly and then refine designs to be compact and efficient.
+
+Silice achieves this by offering a few, carefully designed high level design primitives atop a low level description language. In particular, Silice allows to write and combine algorithms, pipelines and per-cycle logic in a coherent, unified way. It features a powerful instantiation-time pre-processor, making it easy to describe parametric designs.
+
+Silice offers a ready-to-go design environment, supporting many FPGA boards, both open-source and proprietary. It natively supports simulation and formal verification.
+
+Silice syntax is simple, explicit and easy to read, and should feel familiar to C programmers and Verilog designers alike.
+* [Repository](https://github.com/sylefeb/Silice): https://github.com/sylefeb/Silice
+
+### [Silver](https://melt.cs.umn.edu)
+Silver is an extensible attribute grammar system that support many modern extensions to Knuth's original design. These include higher-order attributes, reference attributes, forwarding, aspects, and collections attributes. Its type system support parametric polymorphism. Silver is distributed with Copper, a parser and context-aware scanner generator.
+
+It is designed for the modular development of composable language extensions, with language features and analyses to support this.
+* [Official Website](https://melt.cs.umn.edu): https://melt.cs.umn.edu
+* [Repository](https://github.com/melt-umn/silver): https://github.com/melt-umn/silver
+
 ### [Solidity](https://soliditylang.org)
 A statically-typed curly-braces programming language designed for developing smart contracts that run on [Ethereum](https://ethereum.org/en/).
 * [Official Website](https://soliditylang.org): https://soliditylang.org
 * [Repository](https://github.com/ethereum/solidity): https://github.com/ethereum/solidity
+
+### [Som](https://sjver.github.io/Som-Lang)
+Som is functional programming made simple. It offers everything the casual functional programmer would want in a straightforward and consise manner. Because of this, it is great for both those who are newcomers to functional programming and those who feel like the big functional languages like Haskell are a bit too complex or hard-to-read.
+* [Official Website](https://sjver.github.io/Som-Lang): https://sjver.github.io/Som-Lang
+* [Repository](https://github.com/SjVer/Som-Lang): https://github.com/SjVer/Som-Lang
 
 ### [Sway](https://fuellabs.github.io/sway)
 Sway is a domain-specific language (DSL) for the Fuel Virtual Machine (FuelVM), a blockchain-optimized VM designed for the Fuel blockchain. Sway is based on Rust, and includes syntax to leverage a blockchain VM without needlessly verbose boilerplate.
@@ -933,6 +1194,11 @@ Virgil is a programming language designed for building lightweight high-performa
 Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%).
 * [Repository](https://github.com/MrSmith33/vox): https://github.com/MrSmith33/vox
 
+### [Vyper](https://docs.vyperlang.org/en/stable)
+Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
+* [Official Website](https://docs.vyperlang.org/en/stable): https://docs.vyperlang.org/en/stable
+* [Repository](https://github.com/vyperlang/vyper): https://github.com/vyperlang/vyper
+
 ### [Vyxal](https://vyxal.pythonanywhere.com)
 Vyxal is a golfing language that takes the idea that conciseness comes at the cost of practicality and throws it out the window. That's right - where other golflangs throw you into the deep-end of keyboard mashing, Vyxal eases you into the concept of elegantly crafting built-ins into a functioning program.
 * [Official Website](https://vyxal.pythonanywhere.com): https://vyxal.pythonanywhere.com
@@ -968,6 +1234,19 @@ Wipple is a programming language that’s natural to read, write and learn.
 The Wolfram Language is a symbolic language that has been carefully designed to have the breadth and uniformity needed to rapidly develop powerful programs. By integrating high-level formats such as Image, GeoPolygon or Molecules, and high-level hyperfunctions such as ImageIdentify or ApplyReaction, the Wolfram Language makes it possible to quickly express complex ideas in computational form.
 * [Official Website](https://www.wolfram.com/language): https://www.wolfram.com/language
 
+### [Wren](https://wren.io)
+The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
+
+Think Smalltalk in a Lua-sized package with a dash of Erlang and wrapped up in a familiar, modern syntax.
+* **Wren is small**. The VM implementation is under 4,000 semicolons. You can skim the whole thing in an afternoon. It’s small, but not dense. It is readable and lovingly-commented.
+* **Wren is fast**. A fast single-pass compiler to tight bytecode, and a compact object representation help Wren compete with other dynamic languages.
+* **Wren is class-based**. There are lots of scripting languages out there, but many have unusual or non-existent object models. Wren places classes front and center.
+* **Wren is concurrent**. Lightweight fibers are core to the execution model and let you organize your program into a flock of communicating coroutines.
+* **Wren is a scripting language**. Wren is intended for embedding in applications. It has no dependencies, a small standard library, and an easy-to-use C API. It compiles cleanly as C99, C++98 or anything later.
+---
+* [Official Website](https://wren.io): https://wren.io
+* [Repository](https://github.com/wren-lang/wren): https://github.com/wren-lang/wren
+
 ### [Wu](https://wu-lang.gitbook.io/guide)
 An expression oriented, gradually typed and mission-critical programming language.
 * [Official Website](https://wu-lang.gitbook.io/guide): https://wu-lang.gitbook.io/guide
@@ -987,6 +1266,13 @@ programming language with off-side rule syntax.
 * [Official Website](https://yakshalang.github.io): https://yakshalang.github.io
 * [Repository](https://github.com/YakshaLang/Yaksha): https://github.com/YakshaLang/Yaksha
 
+### [Tcl](https://www.tcl-lang.org)
+Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language, suitable for a very wide range of uses, including web and desktop applications, networking, administration, testing and many more. Open source and business-friendly, Tcl is a mature yet evolving language that is truly cross platform, easily deployed and highly extensible.
+
+Tk is a graphical user interface toolkit that takes developing desktop applications to a higher level than conventional approaches. Tk is the standard GUI not only for Tcl, but for many other dynamic languages, and can produce rich, native applications that run unchanged across Windows, Mac OS X, Linux and more.
+* [Official Website](https://www.tcl-lang.org): https://www.tcl-lang.org
+* [Repository](https://github.com/tcltk/tcl): https://github.com/tcltk/tcl
+
 ### [The](https://thelang.io)
 The Programming Language is a rapid, minimalistic, elegant, high-performance, high-level programming language.
 * **Unique**: The syntax was produced by a combination of best features of all known programming languages in the world
@@ -996,6 +1282,17 @@ The Programming Language is a rapid, minimalistic, elegant, high-performance, hi
 * **Cloud-Based**: The Programming Language runs in cloud which allows to reduce time spent on installing and compiling
 * [Official Website](https://thelang.io): https://thelang.io
 * [Repository](https://github.com/thelang-io/the): https://github.com/thelang-io/the
+
+### [Zenroom](https://dev.zenroom.org)
+Smart-contracts in human-like language.
+
+Zenroom is a secure language interpreter of both Lua and its own secure domain specific language (DSL) to execute fast cryptographic operations using elliptic curve arithmetics.
+
+The Zenroom VM is very small, has no external dependency, is fully deterministic and ready to run end-to-end encryption on any platform: desktop, embedded, mobile, cloud micro-services, web browsers. It can be embedded inside applications written in Javascript, Python3, Rust or Golang.
+
+Zencode is the name of the DSL executed by Zenroom: it is similar to human language and can process large data structures while operating cryptographic transformations and basic logical operations on them.
+* [Official Website](https://dev.zenroom.org): https://dev.zenroom.org
+* [Repository](https://github.com/dyne/Zenroom): https://github.com/dyne/Zenroom
 
 ### [Zig](https://ziglang.org)
 Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
