@@ -293,6 +293,19 @@ Fast code, fast.
 * [Official Website](https://dlang.org): https://dlang.org
 * [Repository](https://github.com/dlang/dmd): https://github.com/dlang/dmd
 
+### [DaCe](https://spcl.inf.ethz.ch/Research/DAPP)
+Decoupling domain science from performance optimization.
+
+DaCe is a fast parallel programming framework that takes code in Python/NumPy and other programming languages, and maps it to high-performance CPU, GPU, and FPGA programs, which can be optimized to achieve state-of-the-art. Internally, DaCe uses the Stateful DataFlow multiGraph (SDFG) data-centric intermediate representation: A transformable, interactive representation of code based on data movement. Since the input code and the SDFG are separate, it is possible to optimize a program without changing its source, so that it stays readable. On the other hand, transformations are customizable and user-extensible, so they can be written once and reused in many applications. With data-centric parallel programming, we enable direct knowledge transfer of performance optimization, regardless of the application or the target processor.
+
+DaCe generates high-performance programs for:
+* Multi-core CPUs (tested on Intel, IBM POWER9, and ARM with SVE)
+* NVIDIA GPUs and AMD GPUs (with HIP)
+* Xilinx and Intel FPGAs
+---
+* [Official Website](https://spcl.inf.ethz.ch/Research/DAPP): https://spcl.inf.ethz.ch/Research/DAPP
+* [Repository](https://github.com/spcl/dace): https://github.com/spcl/dace
+
 ### [Dark](https://darklang.com)
 a combined language, editor, and infrastructure to make it easy to build backends.
 * [Official Website](https://darklang.com): https://darklang.com
@@ -311,6 +324,17 @@ Dart is a client-optimized language for fast apps on any platform.
 Dafny is a verification-aware programming language that has native support for recording specifications and is equipped with a static program verifier. By blending sophisticated automated reasoning with familiar programming idioms and tools, Dafny empowers developers to write provably correct code (w.r.t. specifications). It also compiles Dafny code to familiar development environments such as C#, Java, JavaScript, Go and Python (with more to come) so Dafny can integrate with your existing workflow. Dafny makes rigorous verification an integral part of development, thus reducing costly late-stage bugs that may be missed by testing.
 * [Official Website](https://dafny.org): https://dafny.org
 * [Repository](https://github.com/dart-lang/sdk): https://github.com/dart-lang/sdk
+
+### [daScript](https://dascript.org)
+daScript is a high-level programming language that features strong static typing. It is designed to provide high performance and serves as an embeddable 'scripting' language for C++ applications that require fast and reliable performance, such as games or back end/servers. Additionally, it functions effectively as a standalone programming language.
+
+daScript is:
+* Extremely fast programming language that can rival compiled or JIT languages even in interpreter mode. It consistently outperforms dynamically interpreted scripting languages such as Lua. When used in AOT mode, daScript is often faster than naively written C++ due to its SSE-friendly POD-types, and it even surpasses some of the best JIT VMs like V8 or LuaJIT. As a result, there's no need to rewrite your daScript code in C++ to optimize your application.
+* Safe and versatile programming language that provides all the benefits of static typing. Many errors that would break an application in runtime in languages like Lua or JavaScript won't even compile in daScript. Additionally, due to its support for generics, type inference, and macros, daScript is easy and fluid to use. Safety is a fundamental pillar of daScript's design, making it safer in many cases than languages like C++ or Java.
+* Real embedded programming language that requires no external dependencies other than a C++17 compiler. Its interop capabilities are both super easy to use and safe, as is expected from any embedded scripting language that's meant to call native code.
+---
+* [Official Website](https://dascript.org): https://dascript.org
+* [Repository](https://github.com/GaijinEntertainment/daScript): https://github.com/GaijinEntertainment/daScript
 
 ### [DDP](https://ddp-projekt.github.io/Bedienungsanleitung)
 Die Deutsche Programmiersprache (DDP) ist eine (Witz-)Programmiersprache von NotLe0n und bafto, die so entworfen wurde, dass in ihr geschriebene Programme so gelesen werden können wie (annähernd) korrektes Deutsch.
@@ -543,6 +567,11 @@ It aims to be simple, small, fast, extendable and embeddable.
 Hack is an object-oriented programming language for building reliable websites at epic scale.
 * [Official Website](https://hacklang.org): https://hacklang.org
 * [Repository](https://github.com/facebook/hhvm): https://github.com/facebook/hhvm
+
+### [Harmony](https://harmony.cs.cornell.edu)
+A Python-like programming language for testing and experimenting with concurrent programs. Instead of "running" code, Harmony programs are model-checked so that all corner cases are explored.
+* [Official Website](https://harmony.cs.cornell.edu): https://harmony.cs.cornell.edu
+* [Repository](https://github.com/harmonylang/harmony): https://github.com/harmonylang/harmony
 
 ### [Hare](https://harelang.org)
 Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
@@ -812,6 +841,11 @@ Motion is created in pure ANSI C, with no dependancies.
 Motion is a variation of the Lox language found at www.craftinginterpreters.com and is licensed under GNU GPL v3.0.
 * [Official Website](https://github.com/MotionLang/motion): https://github.com/MotionLang/motion
 
+### [Motoko](https://internetcomputer.org/docs/current/motoko/main/about-this-guide)
+A safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
+* [Official Website](https://internetcomputer.org/docs/current/motoko/main/about-this-guide): https://internetcomputer.org/docs/current/motoko/main/about-this-guide
+* [Repository](https://github.com/dfinity/motoko): https://github.com/dfinity/motoko
+
 ### [MoonScript](https://moonscript.org)
 MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
 * [Official Website](https://moonscript.org): https://moonscript.org
@@ -882,6 +916,11 @@ Odin is the C alternative for the Joy of Programming.
 * [Official Website](https://odin-lang.org): https://odin-lang.org
 * [Repository](https://github.com/odin-lang/Odin): https://github.com/odin-lang/Odin
 
+### [Ol](https://github.com/yuriy-chumak/ol)
+Otus Lisp is a purely* functional dialect of small, embeddable and crossplatform Lisp.
+* [Official Website](https://yuriy-chumak.github.io/ol): https://yuriy-chumak.github.io/ol
+* [Repository](https://github.com/yuriy-chumak/ol): https://github.com/yuriy-chumak/ol
+
 ### [Orchid](https://docs.rs/orchidlang/latest/orchidlang)
 An experimental lazy, pure functional programming language designed to be embeddable in a Rust application for scripting.
 * [Official Website](https://docs.rs/orchidlang/latest/orchidlang): https://docs.rs/orchidlang/latest/orchidlang
@@ -896,6 +935,11 @@ Perl is a highly capable, feature-rich programming language with over 30 years o
 Pen is the parallel, concurrent, and functional programming language for scalable software development, focused on software maintainability and portability.
 * [Official Website](https://pen-lang.org): https://pen-lang.org
 * [Repository](https://github.com/pen-lang/pen): https://github.com/pen-lang/pen
+
+### [Penrose](https://penrose.cs.cmu.edu)
+Penrose is a platform that enables people to create beautiful diagrams just by typing notation in plain text. The goal is to make it easy for non-experts to create and explore high-quality diagrams and provide deeper insight into challenging technical concepts. We aim to democratize the process of creating visual intuition.
+* [Official Website](https://penrose.cs.cmu.edu): https://penrose.cs.cmu.edu
+* [Repository](https://github.com/penrose/penrose): https://github.com/penrose/penrose
 
 ### [Pharo](https://pharo.org)
 Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
@@ -1098,6 +1142,11 @@ Shiika is a programming language that makes me most productive.
 * Written in Rust, compiles to single binary via LLVM IR
 ---
 * [Repository](https://github.com/shiika-lang/shiika): https://github.com/shiika-lang/shiika
+
+### [Sidef](https://tio.run/#sidef)
+Sidef is a modern, high-level, general-purpose programming language, inspired by Ruby, Raku and Julia.
+* [Official Website](https://tio.run/#sidef): https://tio.run/#sidef
+* [Repository](https://github.com/trizen/sidef): https://github.com/trizen/sidef
 
 ### [Silice](https://github.com/sylefeb/Silice)
 Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
