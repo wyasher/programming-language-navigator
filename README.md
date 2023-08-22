@@ -98,6 +98,10 @@ AsmX is a modern programming language, has great flexibility for refactoring cod
 * [Official Website](https://langprogramming-asmx.github.io/AsmX-Documentation): https://langprogramming-asmx.github.io/AsmX-Documentation
 * [Repository](https://github.com/langprogramming-AsmX/AsmX): https://github.com/langprogramming-AsmX/AsmX
 
+[Asteria](https://github.com/lhmouse/asteria)
+Asteria is untyped. Variables do not have types. Only values (which can be stored in in variables) do. In this sense functions are considered opaque data.
+* [Repository](https://github.com/lhmouse/asteria): https://github.com/lhmouse/asteria
+
 ### [Ballerina](https://ballerina.io)
 Flexible, Powerful, Beautiful Integrations as Code with Ballerina
 * Open source, cloud-native programming language optimized for integration
@@ -219,6 +223,13 @@ The key features of Carp are the following:
 A cross-platform, expression oriented programming language for implementing modding support into your GameMaker Studio 2.3 games.
 * [Official Website](https://www.katsaii.com/catspeak-lang): https://www.katsaii.com/catspeak-lang
 * [Repository](https://github.com/katsaii/catspeak-lang): https://github.com/katsaii/catspeak-lang
+
+### [Celerity](https://docs.vezel.dev/celerity)
+Celerity is a programming language aiming for a good balance of productivity and scalability while being easily embeddable in host applications.
+
+Celerity is expression-oriented, multi-paradigm, and features optional type checking. Some notable features are pattern matching, first-class functions with closures, opt-in mutability, explicit yet terse error propagation, concurrency based on lightweight agents, and non-suspending garbage collection.
+* [Official Website](https://docs.vezel.dev/celerity): https://docs.vezel.dev/celerity
+* [Repository](https://github.com/vezel-dev/celerity): https://github.com/vezel-dev/celerity
 
 ### [ChaiScript](https://chaiscript.com)
 ChaiScript is one of the only embedded scripting language designed from the ground up to directly target C++ and take advantage of modern C++ development techniques, working with the developer how they would expect it to work. Being a native C++ application, it has some advantages over existing embedded scripting languages:
@@ -732,7 +743,6 @@ In Idris, types are first-class constructs in the langauge. This means types can
 * [Official Website](https://www.idris-lang.org): https://www.idris-lang.org
 * [Repository](https://github.com/idris-lang/Idris2): https://github.com/idris-lang/Idris2
 
-
 ### [Imba](https://imba.io)
 Imba is a Web programming language that's fast in two ways: Imba's time-saving syntax with built-in tags and styles results in less typing and switching files so you can build things fast. Imba's groundbreaking memoized DOM is an order of magnitude faster than virtual DOM libraries, so you can build fast things.
 * [Official Website](https://imba.io): https://imba.io
@@ -748,6 +758,12 @@ Inko features deterministic automatic memory management, move semantics, static 
 ### [Inox](https://github.com/inoxlang/inox)
 🛡️ Inox is a secure programming language for Web Application Development and scripting. It features a powerful shell with colorization & completions.
 * [Repository](https://github.com/inoxlang/inox): https://github.com/inoxlang/inox
+
+[Iridis](https://github.com/Hachem-H/Iridis)
+A Fast, Modern, Low-Level General-Purpose Programming Language
+
+Iridis is an innovative programming language designed to cater to the needs of various domains, such as computational physics, kernel development, and game development, while remaining versatile enough to be applicable in many other areas. This language is built from the ground up to offer blazing fast performance, a modern development experience, and low-level control, empowering programmers to tackle complex problems efficiently and effectively.
+* [Repository](https://github.com/Hachem-H/Iridis): https://github.com/Hachem-H/Iridis
 
 ### [Jakt](https://github.com/SerenityOS/jakt)
 Jakt is a memory-safe systems programming language.
@@ -1014,6 +1030,14 @@ Statically typed programming language for the web.
 Novika is a moldable, concise, and expressive programming language in the spirit of Forth, Self, Red/Rebol, and Lisp.
 * [Official Website](https://novika-lang.github.io): https://novika-lang.github.io
 * [Repository](https://github.com/novika-lang/novika): https://github.com/novika-lang/novika
+
+### [Oak](https://github.com/jorbDehmel/oak)
+Oak is a modern, compiled, low-level, statically-typed programming language. It uses Rust-like typing, without Rust's lifetimes system. It is analogous to C++ with stronger macro support, modern typing, compile-time syntax modification and integrated package management. It's like if C let you shape the language to your liking. It is named Oak because nature imagery is desperately needed in the mind of a programmer.
+
+Oak is, as of now, a translated language; Oak code is translated via the acorn command (see later) into C++. acorn can also compile Oak into object code, or link it to create executables.
+
+Oak has modifiable syntax (see the section on preprocessor rules), making it highly customizable and flexible in a way that no other mainstream languages are. It supports the creation of "dialects", which are Oak variants which use preprocessor rules to support independent syntactical structures. In this way, Oak provides a strong central core to many branches.
+* [Repository](https://github.com/jorbDehmel/oak): https://github.com/jorbDehmel/oak
 
 ### [Objeck](https://objeck.org)
 Objeck is a modern object-oriented programming language with functional features. It emphasizes, expression, simplicity, portability, and scalability. The programming environment consists of a compiler, virtual machine, REPL shell, and command line debugger with IDE plugins.
