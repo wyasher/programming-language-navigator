@@ -98,6 +98,16 @@ AsmX is a modern programming language, has great flexibility for refactoring cod
 * [Official Website](https://langprogramming-asmx.github.io/AsmX-Documentation): https://langprogramming-asmx.github.io/AsmX-Documentation
 * [Repository](https://github.com/langprogramming-AsmX/AsmX): https://github.com/langprogramming-AsmX/AsmX
 
+### [AssemblyScript](https://www.assemblyscript.org)
+A TypeScript-like language for WebAssembly.
+* AssemblyScript targets WebAssembly's feature set specifically, giving developers low-level control over their code.
+* Its similarity with TypeScript makes it easy to compile to WebAssembly without learning a new language.
+* Integrates with the existing Web ecosystem - no heavy toolchains to set up. Simply npm install it!
+---
+* [Official Website](https://www.assemblyscript.org): https://www.assemblyscript.org
+* [Repository](https://github.com/AssemblyScript/assemblyscript): https://github.com/AssemblyScript/assemblyscript
+
+
 [Asteria](https://github.com/lhmouse/asteria)
 Asteria is untyped. Variables do not have types. Only values (which can be stored in in variables) do. In this sense functions are considered opaque data.
 * [Repository](https://github.com/lhmouse/asteria): https://github.com/lhmouse/asteria
@@ -156,6 +166,10 @@ BQN: finally, an APL for your flying saucer.
 * [Official Website](https://mlochbaum.github.io/BQN): https://mlochbaum.github.io/BQN
 * [Repository](https://github.com/mlochbaum/BQN): https://github.com/mlochbaum/BQN
 
+### [bpftrace](https://github.com/iovisor/bpftrace)
+bpftrace is a high-level tracing language for Linux enhanced Berkeley Packet Filter (eBPF) available in recent Linux kernels (4.x). bpftrace uses LLVM as a backend to compile scripts to BPF-bytecode and makes use of BCC for interacting with the Linux BPF system, as well as existing Linux tracing capabilities: kernel dynamic tracing (kprobes), user-level dynamic tracing (uprobes), and tracepoints. The bpftrace language is inspired by awk and C, and predecessor tracers such as DTrace and SystemTap. bpftrace was created by Alastair Robertson.
+* [Repository](https://github.com/iovisor/bpftrace): https://github.com/iovisor/bpftrace
+
 ### [Brainease](https://brainease.cli.rs)
 Brainease is a scripting language that has many similar concepts with brainf*ck, sharing some principal concepts, like memory and instructions. It was created to be a simple and faster language to create, but also to be a language that is easy to read and understand.
 * One instruction per line, long files but shorter width.
@@ -178,9 +192,13 @@ A small/lightweight statically typed scripting language written in Zig.
 * [Repository](https://github.com/buzz-language/buzz): https://github.com/buzz-language/buzz
 
 ### [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-C  is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
+C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
 * [Official Website](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html): https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 * [Repository](https://gcc.gnu.org/git/gcc.git): https://gcc.gnu.org/git/gcc.git
+
+### [C](https://github.com/TodePond/C)
+C is a perfect programming language.
+* [Repository](https://github.com/TodePond/C): https://github.com/TodePond/C
 
 ### [C3](https://github.com/c3lang/c3c)
 C3 is a programming language that builds on the syntax and semantics of the C language, with the goal of evolving it while still retaining familiarity for C programmers.
@@ -197,6 +215,11 @@ Cadence is a resource-oriented programming language that introduces new features
 ---
 * [Official Website](https://developers.flow.com/cadence/intro): https://developers.flow.com/cadence/intro
 * [Repository](https://github.com/onflow/cadence): https://github.com/onflow/cadence
+
+### [CakeML](https://cakeml.org)
+CakeML is a functional programming language and an ecosystem of proofs and tools built around the language. The ecosystem includes a proven-correct compiler that can bootstrap itself.
+* [Official Website](https://cakeml.org): https://cakeml.org
+* [Repository](https://github.com/CakeML/cakeml): https://github.com/CakeML/cakeml
 
 ### [Candy](https://github.com/candy-lang/candy)
 A sweet, functional programming language that is robust, minimalistic, and expressive.
@@ -299,6 +322,12 @@ Coconut aims to enhance the repertoire of Python programmers to include the tool
 * [Official Website](https://coconut-lang.org): https://coconut-lang.org
 * [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
 
+### [Compis](https://github.com/rsms/compis)
+Compis is a contemporary systems programming language in the spirit of C.
+
+The compiler supports writing programs in mixed Compis and C; you can mix .c and .co source files. It accomplishes this by bundling some LLVM tools, like clang and lld into one executable. The LLVM dependency might go away someday.
+* [Repository](https://github.com/rsms/compis): https://github.com/rsms/compis
+
 ### [Comune](https://github.com/comune-lang/comune)
 comune is a general-purpose programming language, designed as a gradual successor to C++. it boasts many modern and powerful features, including static memory safety, an expression-based C-style syntax, type-checked generics, first-class support for sum types, a flexible pattern-matching system, and a highly parallelized compiler, while providing seamless C++ interop.
 * [Repository](https://github.com/comune-lang/comune): https://github.com/comune-lang/comune
@@ -344,6 +373,15 @@ CSML helps chatbot development teams build truly intelligent, maintainable and s
 CSpydr is a low-level, static typed, free and open-source, compiled programming language inspired by Rust and C. This repository contains cspc (the CSpydr Programming Language Compiler), as well as CSpydr's Standard Library, a code-linting utility, some code examples and unit tests.
 * [Repository](https://github.com/CSML-by-Clevy/csml-engine): https://github.com/CSML-by-Clevy/csml-engine
 
+### [CUE](https://cuelang.org)
+Configure, Unify, Execute
+
+CUE is an open source data constraint language which aims to simplify tasks involving defining and using data.
+
+It is a superset of JSON, allowing users familiar with JSON to get started quickly.
+* [Official Website](https://cuelang.org): https://cuelang.org
+* [Repository](https://github.com/cue-lang/cue): https://github.com/cue-lang/cue
+
 ### [Curv](https://github.com/curv3d/curv)
 Curv is a programming language for creating art using mathematics. It's a 2D and 3D geometric modelling tool that supports full colour, animation and 3D printing.
 Features:
@@ -355,6 +393,11 @@ Features:
 * Curv can export meshes to STL, OBJ and X3D files for 3D printing. The X3D format supports full colour 3D printing (on Shapeways.com, at least). These meshes are defect free: watertight, manifold, with no self intersections, degenerate triangles, or flipped triangles.
 ---
 * [Repository](https://github.com/curv3d/curv): https://github.com/curv3d/curv
+
+### [CVXPY](https://www.cvxpy.org)
+CVXPY is a Python-embedded modeling language for convex optimization problems. It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers.
+* [Official Website](https://www.cvxpy.org): https://www.cvxpy.org
+* [Repository](https://github.com/cvxpy/cvxpy): https://github.com/cvxpy/cvxpy
 
 ### [C++](https://cplusplus.com)
 C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; modern C++ currently has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.
@@ -372,6 +415,11 @@ D is a general-purpose programming language with static typing, systems-level ac
 Fast code, fast.
 * [Official Website](https://dlang.org): https://dlang.org
 * [Repository](https://github.com/dlang/dmd): https://github.com/dlang/dmd
+
+### [D2](https://d2lang.com)
+D2 is a modern diagram scripting language that turns text to diagrams.
+* [Official Website](https://d2lang.com): https://d2lang.com
+* [Repository](https://github.com/terrastruct/d2): https://github.com/terrastruct/d2
 
 ### [DaCe](https://spcl.inf.ethz.ch/Research/DAPP)
 Decoupling domain science from performance optimization.
@@ -592,6 +640,10 @@ GDScript is entirely independent from Python and is not based on it.
 * [Official Website](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html): https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html
 * [Repository](https://github.com/godotengine/godot): https://github.com/godotengine/godot
 
+### [Gitql](https://github.com/filhodanuvem/gitql)
+A git query language.
+* [Repository](https://github.com/filhodanuvem/gitql): https://github.com/filhodanuvem/gitql
+
 ### [Go](https://go.dev)
 Build simple, secure, scalable systems with Go.
 * An open-source programming language supported by Google
@@ -678,6 +730,14 @@ Hack is an object-oriented programming language for building reliable websites a
 * [Official Website](https://hacklang.org): https://hacklang.org
 * [Repository](https://github.com/facebook/hhvm): https://github.com/facebook/hhvm
 
+### [Halide](https://halide-lang.org)
+Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines. Halide currently targets:
+* **CPU architectures**: X86, ARM, Hexagon, PowerPC, RISC-V
+* **Operating systems**: Linux, Windows, macOS, Android, iOS, Qualcomm QuRT
+* **GPU Compute APIs**: CUDA, OpenCL, OpenGL Compute Shaders, Apple Metal, Microsoft Direct X 12, Vulkan
+* [Official Website](https://halide-lang.org): https://halide-lang.org
+* [Repository](https://github.com/halide/Halide): https://github.com/halide/Halide
+
 ### [Harmony](https://harmony.cs.cornell.edu)
 A Python-like programming language for testing and experimenting with concurrent programs. Instead of "running" code, Harmony programs are model-checked so that all corner cases are explored.
 * [Official Website](https://harmony.cs.cornell.edu): https://harmony.cs.cornell.edu
@@ -748,6 +808,11 @@ Imba is a Web programming language that's fast in two ways: Imba's time-saving s
 * [Official Website](https://imba.io): https://imba.io
 * [Repository](https://github.com/imba/imba): https://github.com/imba/imba
 
+### [Ink](https://www.inklestudios.com/ink)
+Ink is inkle's scripting language for writing interactive narrative, both for text-centric games as well as more graphical games that contain highly branching stories. It's designed to be easy to learn, but with powerful enough features to allow an advanced level of structuring.
+* [Official Website](https://www.inklestudios.com/ink): https://www.inklestudios.com/ink
+* [Repository](https://github.com/inkle/ink): https://github.com/inkle/ink
+
 ### [Inko](https://inko-lang.org)
 Inko makes it easy to build concurrent software, without having to worry about unpredictable performance, unexpected runtime errors, data races, and type errors.
 
@@ -799,6 +864,16 @@ Java is a programming language and computing platform first released by Sun Micr
 JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
+
+### [Jsonnet](https://jsonnet.org)
+A configuration language for app and tool developers
+* Generate config data
+* Side-effect free
+* Organize, simplify, unify
+* Manage sprawling config
+---
+* [Official Website](https://jsonnet.org): https://jsonnet.org
+* [Repository](https://github.com/google/jsonnet): https://github.com/google/jsonnet
 
 ### [Jule](https://jule.dev)
 Jule is the simple, efficient, statically typed and compiled system programming language.
@@ -860,6 +935,12 @@ Kotlin is a modern but already mature programming language designed to make deve
 * [Official Website](https://kotlinlang.org): https://kotlinlang.org
 * [Repository](https://github.com/JetBrains/kotlin): https://github.com/JetBrains/kotlin
 
+### [Koto](https://github.com/koto-lang/koto)
+Koto is an embeddable scripting language, written in Rust. It has been designed for ease of use and built for speed, with the goal of it being an ideal choice for adding scripting to Rust applications.
+
+Koto is versatile enough to be useful in a variety of applications, although there has been a focus during development on interactive systems, such as rapid iteration during game development, or experimentation in creative coding.
+* [Repository](https://github.com/koto-lang/koto): https://github.com/koto-lang/koto
+
 ### [Lamdu](https://www.lamdu.org)
 Lamdu is a programming language designed to be useful and delightful.
 * **Text-like user interface**: A predictable user interface with rich code completions, without the possiblity of syntax errors.
@@ -880,6 +961,13 @@ Less. The dynamic stylesheet language.
 Lingua Franca (LF) is a polyglot coordination language for concurrent and possibly time-sensitive applications ranging from low-level embedded code to distributed cloud and edge applications. An LF program specifies the interactions between components called reactors. The emphasis of the framework is on ensuring deterministic interaction with explicit management of timing. The logic of each reactor is written in one of a suite of target languages (currently C, C++, Python, and TypeScript) and can integrate legacy code in those languages. A code generator synthesizes one or more programs in the target language, which are then compiled using standard toolchains. If the application has exploitable parallelism, then it executes transparently on multiple cores without compromising determinacy. A distributed application translates into multiple programs and scripts to launch those programs on distributed machines. The communication fabric connecting components is synthesized as part of the programs.
 * [Official Website](https://www.lf-lang.org): https://www.lf-lang.org
 * [Repository](https://github.com/lf-lang/lingua-franca): https://github.com/lf-lang/lingua-franca
+
+### [Liquid](https://shopify.github.io/liquid)
+Liquid is an open-source template language created by Shopify and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts.
+
+Liquid has been in production use at Shopify since 2006 and is now used by many other hosted web applications.
+* [Official Website](https://shopify.github.io/liquid): https://shopify.github.io/liquid
+* [Repository](https://github.com/Shopify/liquid): https://github.com/Shopify/liquid
 
 ### [LMQL](https://lmql.ai)
 LMQL is a programming language for language model interaction.
@@ -930,6 +1018,11 @@ Lux is a new programming language in the making.
 It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
 * [Repository](https://github.com/LuxLang/lux): https://github.com/LuxLang/lux
 
+### [Marko](https://markojs.com)
+Marko is HTML re-imagined as a language for building dynamic and reactive user interfaces. Just about any valid HTML is valid Marko, but Marko extends the HTML language to allow building modern applications in a declarative way.
+* [Official Website](https://markojs.com): https://markojs.com
+* [Repository](https://markojs.com): https://markojs.com
+
 ### [MasterCSS](https://css.master.co)
 A markup-driven CSS language with enhanced syntax.
 
@@ -968,6 +1061,7 @@ Mojo 🔥 — a new programming language for all AI developers.
 
 Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
 * [Official Website](https://www.modular.com/mojo): https://www.modular.com/mojo
+* [Repository](https://github.com/modularml/mojo): https://github.com/modularml/mojo
 
 ### [Motion](https://github.com/MotionLang/motion)
 Motion is a dynamically typed general purpose programming language designed to help developers write fast, clean, and efficient code for a modern world.
@@ -1060,11 +1154,28 @@ Odin is the C alternative for the Joy of Programming.
 * [Official Website](https://odin-lang.org): https://odin-lang.org
 * [Repository](https://github.com/odin-lang/Odin): https://github.com/odin-lang/Odin
 
+### [Ohm](https://github.com/ohmjs/ohm)
+Ohm is a parsing toolkit consisting of a library and a domain-specific language. You can use it to parse custom file formats or quickly build parsers, interpreters, and compilers for programming languages.
+
+The Ohm language is based on parsing expression grammars (PEGs), which are a formal way of describing syntax, similar to regular expressions and context-free grammars. The Ohm library provides a JavaScript interface for creating parsers, interpreters, and more from the grammars you write.
+* Full support for left-recursive rules means that you can define left-associative operators in a natural way.
+* Object-oriented grammar extension makes it easy to extend an existing language with new syntax.
+* Modular semantic actions. Unlike many similar tools, Ohm completely separates grammars from semantic actions. This separation improves modularity and extensibility, and makes both grammars and semantic actions easier to read and understand.
+* Online editor and visualizer. The Ohm Editor provides instant feedback and an interactive visualization that makes the entire execution of the parser visible and tangible. It'll make you feel like you have superpowers. 💪
+---
+* [Repository](https://github.com/ohmjs/ohm): https://github.com/ohmjs/ohm
+
 ### [Ol](https://github.com/yuriy-chumak/ol)
 Otus Lisp is a purely* functional dialect of small, embeddable and crossplatform Lisp.
 * [Official Website](https://yuriy-chumak.github.io/ol): https://yuriy-chumak.github.io/ol
 * [Repository](https://github.com/yuriy-chumak/ol): https://github.com/yuriy-chumak/ol
 
+### [PRQL](https://prql-lang.org)
+Pipelined Relational Query Language, pronounced "Prequel".
+
+PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement. Like SQL, it's readable, explicit and declarative. Unlike SQL, it forms a logical pipeline of transformations, and supports abstractions such as variables and functions. It can be used with any database that uses SQL, since it compiles to SQL.
+* [Official Website](https://prql-lang.org): https://prql-lang.org
+* [Repository](https://github.com/PRQL/prql): https://github.com/PRQL/prql
 
 ### [Orca](https://hundredrabbits.itch.io/orca)
 Orca is an esoteric programming language designed to quickly create procedural sequencers, in which every letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
@@ -1254,6 +1365,11 @@ Like Lua, Roc's automatic memory management doesn't require a virtual machine, a
 * [Official Website](https://www.roc-lang.org): https://www.roc-lang.org
 * [Repository](https://github.com/roc-lang/roc): https://github.com/roc-lang/roc
 
+### [Rockstar](https://codewithrockstar.com)
+Rockstar is a dynamically typed computer programming language, designed for creating programs that are also song lyrics. Rockstar is heavily influenced by the lyrical conventions of 1980s hard rock and power ballads.
+* [Official Website](https://codewithrockstar.com): https://codewithrockstar.com
+* [Repository]https://github.com/RockstarLang/rockstar): https://github.com/RockstarLang/rockstar
+
 ### [RowScript](https://rowscript-lang.org)
 RowScript is a robustly-typed functional language that compiles to efficient and reliable JavaScript.
 
@@ -1281,6 +1397,11 @@ Rust’s rich type system and ownership model guarantee memory-safety and thread
 Rust has great documentation, a friendly compiler with useful error messages, and top-notch tooling — an integrated package manager and build tool, smart multi-editor support with auto-completion and type inspections, an auto-formatter, and more.
 * [Official Website](https://www.rust-lang.org): https://www.rust-lang.org
 * [Repository](https://github.com/rust-lang/rust): https://github.com/rust-lang/rust
+
+[RustPython](https://rustpython.github.io)
+RustPython is a Python interpreter written in Rust. RustPython can be embedded into Rust programs to use Python as a scripting language for your application, or it can be compiled to WebAssembly in order to run Python in the browser. RustPython is free and open-source under the MIT license.
+* [Official Website](https://rustpython.github.io): https://rustpython.github.io
+* [Repository](https://github.com/RustPython/RustPython): https://github.com/RustPython/RustPython
 
 ### [Sass](https://sass-lang.com)
 Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
@@ -1338,6 +1459,11 @@ It is designed for the modular development of composable language extensions, wi
 * [Official Website](https://melt.cs.umn.edu): https://melt.cs.umn.edu
 * [Repository](https://github.com/melt-umn/silver): https://github.com/melt-umn/silver
 
+### [Slim](https://slim-template.github.io)
+Slim is a template language whose goal is to reduce the view syntax to the essential parts without becoming cryptic. It started as an exercise to see how much could be removed from a standard html template (<, >, closing tags, etc...). As more people took an interest in Slim, the functionality grew and so did the flexibility of the syntax.
+* [Official Website](https://slim-template.github.io): https://slim-template.github.io
+* [Repository](https://github.com/slim-template/slim): https://github.com/slim-template/slim
+
 ### [Solidity](https://soliditylang.org)
 A statically-typed curly-braces programming language designed for developing smart contracts that run on [Ethereum](https://ethereum.org/en/).
 * [Official Website](https://soliditylang.org): https://soliditylang.org
@@ -1347,6 +1473,18 @@ A statically-typed curly-braces programming language designed for developing sma
 Som is functional programming made simple. It offers everything the casual functional programmer would want in a straightforward and consise manner. Because of this, it is great for both those who are newcomers to functional programming and those who feel like the big functional languages like Haskell are a bit too complex or hard-to-read.
 * [Official Website](https://sjver.github.io/Som-Lang): https://sjver.github.io/Som-Lang
 * [Repository](https://github.com/SjVer/Som-Lang): https://github.com/SjVer/Som-Lang
+
+### [Spice](https://www.spicelang.com)
+Spice is a compiled language which sets a focus on performance and practicality. It is considered as a systems language, which means it is especially useful to write cli tools or device drivers. Spice supports cross-compilation to all target platforms.
+* [Official Website](https://www.spicelang.com): https://www.spicelang.com
+* [Repository](https://github.com/spicelang/spice): https://github.com/spicelang/spice
+
+### [Stylus](https://stylus-lang.com)
+Expressive, dynamic, and robust CSS.
+
+An expressive, robust, feature-rich CSS language built for Node.js
+* [Official Website](https://stylus-lang.com): https://stylus-lang.com
+* [Repository](https://github.com/stylus/stylus): https://github.com/stylus/stylus
 
 ### [SuperCollider](https://supercollider.github.io)
 An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
@@ -1400,12 +1538,29 @@ The Programming Language is a rapid, minimalistic, elegant, high-performance, hi
 * [Official Website](https://thelang.io): https://thelang.io
 * [Repository](https://github.com/thelang-io/the): https://github.com/thelang-io/the
 
+### [Twig](https://twig.symfony.com)
+Twig is a template language for PHP.
+
+Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment.
+* [Official Website](https://twig.symfony.com)): https://twig.symfony.com)
+* [Repository](https://github.com/twigphp/Twig): https://github.com/twigphp/Twig
+
 ### [Tokay](https://tokay.dev)
 Tokay is a programming language designed for ad-hoc parsing.
 
 Tokay is a programming language to quickly implement solutions for text processing problems. This can either be just simple data extractions, but also parsing entire structures or parts of it, and turning information into structured parse trees or abstract syntax trees for further processing.
 * [Official Website](https://tokay.dev): https://tokay.dev
 * [Repository](https://github.com/tokay-lang/tokay): https://github.com/tokay-lang/tokay
+
+### [TOML](https://toml.io)
+TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics. TOML is designed to map unambiguously to a hash table. TOML should be easy to parse into data structures in a wide variety of languages.
+* [Official Website](https://toml.io): https://toml.io
+* [Repository](https://github.com/toml-lang/toml): https://github.com/toml-lang/toml
+
+### [Triton](https://triton-lang.org/main/index.html)
+a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment to write fast code at higher productivity than CUDA, but also with higher flexibility than other existing DSLs.
+* [Official Website](https://triton-lang.org/main/index.html): https://triton-lang.org/main/index.html
+* [Repository](https://github.com/openai/triton): https://github.com/openai/triton
 
 ### [TypeScript](https://www.typescriptlang.org)
 TypeScript is JavaScript with syntax for types.
