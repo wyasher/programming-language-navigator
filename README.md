@@ -1403,6 +1403,13 @@ RustPython is a Python interpreter written in Rust. RustPython can be embedded i
 * [Official Website](https://rustpython.github.io): https://rustpython.github.io
 * [Repository](https://github.com/RustPython/RustPython): https://github.com/RustPython/RustPython
 
+### [R#](http://r_lang.dev.smrucc.org)
+R# is a language and environment for GCModeller scripting and data science chart plot graphics. It is an Open source project which is similar to the R language and environment which was developed at R&D laboratory from BioNovogene corporation by Xie.Guigang. The R# language its language syntax is derived from the R language, and R# can be considered as a part of implementation of R on Microsoft .NET Framework environment. Although there are too many important differences between R# and R, but much code written for R could runs unaltered under R#.
+
+Unlike the R Project, R# language is not focus on the statistical computing, R# try to combine the numeric computing with the .NET library programming which is comes from the GCModeller on the contrary. So in this way, R# provides a wide variety of bioinformatics analysis toolkit from GCModeller and graphical techniques, and is highly extensible.
+* [Official Website](http://r_lang.dev.smrucc.org): http://r_lang.dev.smrucc.org
+* [Repository](https://github.com/rsharp-lang/R-sharp): https://github.com/rsharp-lang/R-sharp
+
 ### [Sass](https://sass-lang.com)
 Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 * [Official Website](https://sass-lang.com): https://sass-lang.com
