@@ -281,6 +281,13 @@ Chapel is a programming language designed for productive parallel computing at s
 * [Official Website](https://chapel-lang.org): https://chapel-lang.org
 * [Repository](https://github.com/chapel-lang/chapel): https://github.com/chapel-lang/chapel
 
+### [Chisel](https://www.chisel-lang.org)
+The Constructing Hardware in a Scala Embedded Language (Chisel) is an open-source hardware description language (HDL) used to describe digital electronics and circuits at the register-transfer level that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs.
+
+Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog. This generator methodology enables the creation of re-usable components and libraries, such as the FIFO queue and arbiters in the Chisel Standard Library, raising the level of abstraction in design while retaining fine-grained control.
+* [Official Website](https://www.chisel-lang.org): https://www.chisel-lang.org
+* [Repository](https://github.com/chipsalliance/chisel): https://github.com/chipsalliance/chisel
+
 ### [ChucK](https://chuck.stanford.edu)
 ChucK is a programming language for real-time sound synthesis and music creation. It is open-source and freely available on macOS, Windows, and Linux. ChucK presents a unique time-based, concurrent programming model that is precise and expressive (we call this strongly-timed), with dynamic control rates and the ability to add and modify code on-the-fly. In addition, ChucK supports MIDI, OpenSoundControl, HID devices, and multi-channel audio. It's fun and easy to learn, and offers composers, researchers, and performers a powerful programming tool for building and experimenting with complex audio synthesis/analysis programs, and real-time interactive music.
 * [Official Website](https://chuck.stanford.edu): https://chuck.stanford.edu
@@ -318,9 +325,13 @@ Cobalt is a high-level, compiled language with similar uses to C++. It aims to b
 Coconut is a functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python.
 
 Coconut aims to enhance the repertoire of Python programmers to include the tools of modern functional programming in as Pythonic a way as possible. Additionally, Coconut code runs the same on any Python version, meaning that even if you just use Coconut to write pure Python, you no longer have to worry about any core Python version differences: Coconut can backport almost all modern Python features as far back as Python 2.6.
-
 * [Official Website](https://coconut-lang.org): https://coconut-lang.org
 * [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
+
+### [Cloe](https://cloe-lang.org)
+Cloe is the timeless functional programming language which provides implicit parallelism, concurrency, and reactiveness. It aims to be simple and practical.
+* [Official Website](https://cloe-lang.org): https://cloe-lang.org
+* [Repository](https://github.com/cloe-lang/cloe): https://github.com/cloe-lang/cloe
 
 ### [Compis](https://github.com/rsms/compis)
 Compis is a contemporary systems programming language in the spirit of C.
@@ -951,6 +962,11 @@ Lamdu is a programming language designed to be useful and delightful.
 ---
 * [Official Website](https://www.lamdu.org): https://www.lamdu.org
 * [Repository](https://github.com/lamdu/lamdu): https://github.com/lamdu/lamdu
+
+### [Lean](https://leanprover.github.io)
+Lean is a functional programming language that makes it easy to write correct and maintainable code. You can also use Lean as an interactive theorem prover. Lean programming primarily involves defining types and functions. This allows your focus to remain on the problem domain and manipulating its data, rather than the details of programming.
+* [Official Website](https://leanprover.github.io): https://leanprover.github.io
+* [Repository](https://github.com/leanprover/lean4): https://github.com/leanprover/lean4
 
 ### [Less](https://lesscss.org)
 Less. The dynamic stylesheet language.
