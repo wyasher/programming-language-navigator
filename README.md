@@ -2,6 +2,12 @@
 A repository for navigating through various programming languages, providing links to their official websites and repository addresses.
 
 ## Programming Languages
+
+### [3body](https://rustq.github.io/3body-lang)
+Three Body Language written in Rust.
+* [Official Website](https://rustq.github.io/3body-lang): https://rustq.github.io/3body-lang
+* [Repository](https://github.com/rustq/3body-lang): https://github.com/rustq/3body-lang
+
 ### [Acton](https://www.acton-lang.org)
 Acton is a general purpose programming language, designed to be useful for a wide range of applications, from desktop applications to embedded and distributed systems. In a first approximation Acton can be described as a seamless addition of a powerful new construct to an existing language: Acton adds actors to Python.
 
@@ -505,6 +511,12 @@ Eberban is a logical constructed language aimed to satisfy the following goals :
 Eberban takes inspiration from Lojban and other logical languages, but tries novel approaches to satisfy the above goals.
 * [Official Website](https://eberban.github.io/eberban): https://eberban.github.io/eberban
 * [Repository](https://github.com/eberban/eberban): https://github.com/eberban/eberban
+
+### [eC](https://ec-lang.org)
+An Expressive and Intuitive, C Style Object-Oriented Programming Language.
+* [Official Website](https://ec-lang.org): https://ec-lang.org
+* [Repository](https://github.com/ecere/ecere-sdk): https://github.com/ecere/ecere-sdk
+
 
 ### [Effekt](https://effekt-lang.org)
 A research language with effect handlers and lightweight effect polymorphism.
@@ -1055,6 +1067,11 @@ Millions of engineers and scientists worldwide use MATLAB® to analyze and desig
 
 MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets, and scale up to clusters and clouds. MATLAB code can be integrated with other languages, enabling you to deploy algorithms and applications within web, enterprise, and production systems.
 * [Official Website](https://www.mathworks.com/help/matlab): https://www.mathworks.com/help/matlab
+
+### [Melang](https://melang.org)
+Melang is a script Language of preemptive scheduling coroutine in single thread or multi-thread. It is only support on UNIX/Linux.
+* [Official Website](https://melang.org): https://melang.org
+* [Repository](https://melang.org/): https://melang.org/
 
 ### [Melody](https://yoav-lavi.github.io/melody/book)
 Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
