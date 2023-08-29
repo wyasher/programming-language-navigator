@@ -667,6 +667,22 @@ GDScript is entirely independent from Python and is not based on it.
 A git query language.
 * [Repository](https://github.com/filhodanuvem/gitql): https://github.com/filhodanuvem/gitql
 
+
+
+### [Gleam](https://gleam.run)
+Gleam is a friendly language for building type-safe systems that scale!
+
+It compiles to Erlang (or JavaScript) and has straightforward interop with other BEAM languages such as Erlang, Elixir, and LFE.
+
+The power of a type system, the expressiveness of functional programming, and the reliability of the highly concurrent, fault tolerant Erlang runtime, with a familiar and modern syntax.
+* [Official Website](https://gleam.run): https://gleam.run
+* [Repository](https://github.com/gleam-lang/gleam): https://github.com/gleam-lang/gleam
+
+### [Gluon](https://gluon-lang.org)
+Gluon is a static, type inferred and embeddabble language written in Rust.
+* [Official Website](https://gluon-lang.org): https://gluon-lang.org
+* [Repository](https://github.com/gluon-lang/gluon): https://github.com/gluon-lang/gluon
+
 ### [Go](https://go.dev)
 Build simple, secure, scalable systems with Go.
 * An open-source programming language supported by Google
@@ -696,20 +712,6 @@ For engineering, STEM education, and data science.
 * [Official Website](https://goplus.org): https://goplus.org
 * [Repository](https://github.com/goplus/gop): https://github.com/goplus/gop
 
-### [Gleam](https://gleam.run)
-Gleam is a friendly language for building type-safe systems that scale!
-
-It compiles to Erlang (or JavaScript) and has straightforward interop with other BEAM languages such as Erlang, Elixir, and LFE.
-
-The power of a type system, the expressiveness of functional programming, and the reliability of the highly concurrent, fault tolerant Erlang runtime, with a familiar and modern syntax.
-* [Official Website](https://gleam.run): https://gleam.run
-* [Repository](https://github.com/gleam-lang/gleam): https://github.com/gleam-lang/gleam
-
-### [Gluon](https://gluon-lang.org)
-Gluon is a static, type inferred and embeddabble language written in Rust.
-* [Official Website](https://gluon-lang.org): https://gluon-lang.org
-* [Repository](https://github.com/gluon-lang/gluon): https://github.com/gluon-lang/gluon
-
 ### [Grain](https://grain-lang.org)
 Grain is a new language that puts academic language features to work.
 
@@ -738,6 +740,16 @@ Programs written in Gren are simple, have few or no runtime exceptions and are f
 Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 * [Official Website](https://www.groovy-lang.org): https://www.groovy-lang.org
 * [Repository](https://github.com/apache/groovy): https://github.com/apache/groovy
+
+### [Guidance](https://github.com/guidance-ai/guidance)
+Guidance enables you to control modern language models more effectively and efficiently than traditional prompting or chaining. Guidance programs allow you to interleave generation, prompting, and logical control into a single continuous flow matching how the language model actually processes the text. Simple output structures like Chain of Thought and its many variants (e.g., ART, Auto-CoT, etc.) have been shown to improve LLM performance. The advent of more powerful LLMs like GPT-4 allows for even richer structure, and guidance makes that structure easier and cheaper.
+* Simple, intuitive syntax, based on Handlebars templating.
+* Rich output structure with multiple generations, selections, conditionals, tool use, etc.
+* Playground-like streaming in Jupyter/VSCode Notebooks.
+* Smart seed-based generation caching.
+* Support for role-based chat models (e.g., ChatGPT).
+* Easy integration with Hugging Face models, including guidance acceleration for speedups over standard prompting, token healing to optimize prompt boundaries, and regex pattern guides to enforce formats.
+* [Repository](https://github.com/guidance-ai/guidance): https://github.com/guidance-ai/guidance
 
 ### [Gwion](https://gwion.github.io/Gwion)
 gwion is a strongly timed programming language for making music.
