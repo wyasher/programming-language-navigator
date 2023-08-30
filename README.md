@@ -1443,11 +1443,6 @@ Rust has great documentation, a friendly compiler with useful error messages, an
 * [Official Website](https://www.rust-lang.org): https://www.rust-lang.org
 * [Repository](https://github.com/rust-lang/rust): https://github.com/rust-lang/rust
 
-[RustPython](https://rustpython.github.io)
-RustPython is a Python interpreter written in Rust. RustPython can be embedded into Rust programs to use Python as a scripting language for your application, or it can be compiled to WebAssembly in order to run Python in the browser. RustPython is free and open-source under the MIT license.
-* [Official Website](https://rustpython.github.io): https://rustpython.github.io
-* [Repository](https://github.com/RustPython/RustPython): https://github.com/RustPython/RustPython
-
 ### [R#](http://r_lang.dev.smrucc.org)
 R# is a language and environment for GCModeller scripting and data science chart plot graphics. It is an Open source project which is similar to the R language and environment which was developed at R&D laboratory from BioNovogene corporation by Xie.Guigang. The R# language its language syntax is derived from the R language, and R# can be considered as a part of implementation of R on Microsoft .NET Framework environment. Although there are too many important differences between R# and R, but much code written for R could runs unaltered under R#.
 
