@@ -19,6 +19,11 @@ The Acton Run Time System (RTS) offers a distributed mode of operation allowing 
 * [Official Website](https://www.acton-lang.org): https://www.acton-lang.org
 * [Repository](https://github.com/actonlang/acton): https://github.com/actonlang/acton
 
+### [Adama](https://www.adama-platform.com)
+A programming language for board games powered by the JVM. It is a data-centric programming language which enables building tiny persistent game servers which radically reduce engineering and operational costs for board games.
+* [Official Website](https://www.adama-platform.com): https://www.adama-platform.com
+* [Repository](https://github.com/mathgladiator/adama-lang): https://github.com/mathgladiator/adama-lang
+
 ### [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage)
 Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 
@@ -1215,6 +1220,11 @@ Otus Lisp is a purely* functional dialect of small, embeddable and crossplatform
 * [Official Website](https://yuriy-chumak.github.io/ol): https://yuriy-chumak.github.io/ol
 * [Repository](https://github.com/yuriy-chumak/ol): https://github.com/yuriy-chumak/ol
 
+### [Online-IDE](https://www.online-ide.de)
+Online-IDE is a java-like programming language with IDE for computer-science-education that runs inside any browser.
+* [Official Website](https://www.online-ide.de): https://www.online-ide.de
+* [Repository](https://github.com/martin-pabst/Online-IDE): https://github.com/martin-pabst/Online-IDE
+
 ### [PRQL](https://prql-lang.org)
 Pipelined Relational Query Language, pronounced "Prequel".
 
@@ -1510,6 +1520,11 @@ It is designed for the modular development of composable language extensions, wi
 Slim is a template language whose goal is to reduce the view syntax to the essential parts without becoming cryptic. It started as an exercise to see how much could be removed from a standard html template (<, >, closing tags, etc...). As more people took an interest in Slim, the functionality grew and so did the flexibility of the syntax.
 * [Official Website](https://slim-template.github.io): https://slim-template.github.io
 * [Repository](https://github.com/slim-template/slim): https://github.com/slim-template/slim
+
+### [Smithy](https://smithy.io)
+Smithy is a language for defining services and SDKs.
+* [Official Website](https://smithy.io): https://smithy.io
+* [Repository](https://github.com/smithy-lang/smithy): https://github.com/smithy-lang/smithy
 
 ### [Solidity](https://soliditylang.org)
 A statically-typed curly-braces programming language designed for developing smart contracts that run on [Ethereum](https://ethereum.org/en/).
