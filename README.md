@@ -205,7 +205,6 @@ A small/lightweight statically typed scripting language written in Zig.
 ### [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
 * [Official Website](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html): https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
-* [Repository](https://gcc.gnu.org/git/gcc.git): https://gcc.gnu.org/git/gcc.git
 
 ### [C](https://github.com/TodePond/C)
 C is a perfect programming language.
@@ -291,6 +290,11 @@ Chapel is a programming language designed for productive parallel computing at s
 ---
 * [Official Website](https://chapel-lang.org): https://chapel-lang.org
 * [Repository](https://github.com/chapel-lang/chapel): https://github.com/chapel-lang/chapel
+
+### [Cherri](https://cherrilang.org)
+Cherri (pronounced cherry) is a iOS Siri Shortcuts programming language, that compiles directly to a valid runnable Shortcut.
+* [Official Website](https://cherrilang.org): https://cherrilang.org
+* [Repository](https://github.com/electrikmilk/cherri): https://github.com/electrikmilk/cherri
 
 ### [Chisel](https://www.chisel-lang.org)
 The Constructing Hardware in a Scala Embedded Language (Chisel) is an open-source hardware description language (HDL) used to describe digital electronics and circuits at the register-transfer level that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs.
@@ -424,7 +428,6 @@ CVXPY is a Python-embedded modeling language for convex optimization problems. I
 ### [C++](https://cplusplus.com)
 C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; modern C++ currently has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.
 * [Official Website](https://cplusplus.com): https://cplusplus.com
-* [Repository](https://gcc.gnu.org/git/gcc.git): https://gcc.gnu.org/git/gcc.git
 
 ### [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 C# is a modern, innovative, open-source, cross-platform object-oriented programming language and one of the top 5 programming languages on GitHub.
@@ -497,6 +500,10 @@ Dictu is a high-level dynamically typed, multi-paradigm, interpreted programming
 Dictu means simplistic in Latin. This is the aim of the language: to be as simplistic, organized, and logical as humanly possible.
 * [Official Website](https://dictu-lang.com): https://dictu-lang.com
 * [Repository](https://github.com/dictu-lang/Dictu): https://github.com/dictu-lang/Dictu
+
+### [Delphi](https://www.embarcadero.com/products/delphi)
+Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software,[3] currently developed and maintained by Embarcadero Technologies.
+* [Official Website](https://www.embarcadero.com/products/delphi): https://www.embarcadero.com/products/delphi
 
 ### [Dinfio](https://dinfio.org)
 Dinfio is a high-level, general-purpose, interpreted, minimalist, simple, and open source programming language. Dinfio supports multiple paradigms, including imperative, procedural, object-oriented, and event-driven programming.
@@ -1659,6 +1666,11 @@ Simple, fast, safe, compiled. For developing maintainable software.
 V is very similar to Go. If you know Go, you already know ≈80% of V.
 * [Official Website](https://vlang.io): https://vlang.io
 * [Repository](https://github.com/vlang/v): https://github.com/vlang/v
+
+### [Vala](https://vala.dev)
+Vala is a programming language that aims to bring modern programming language features to GNOME developers without imposing any additional runtime requirements and without using a different ABI compared to applications and libraries written in C.
+* [Official Website](https://vala.dev): https://vala.dev
+* [Repository](https://gitlab.gnome.org/GNOME/vala): hhttps://gitlab.gnome.org/GNOME/vala
 
 ### [Vale](https://vale.dev)
 Vale is a programming language that's aims to be not only fast and memory-safe, but also easy and flexible.
