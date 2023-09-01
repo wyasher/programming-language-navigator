@@ -252,6 +252,11 @@ The key features of Carp are the following:
 ---
 * [Repository](https://github.com/carp-lang/Carp): https://github.com/carp-lang/Carp
 
+### [Catala](https://catala-lang.org)
+Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
+* [Official Website](https://catala-lang.org): https://catala-lang.org
+* [Repository](https://github.com/CatalaLang/catala): https://github.com/CatalaLang/catala
+
 ### [Catspeak](https://www.katsaii.com/catspeak-lang)
 A cross-platform, expression oriented programming language for implementing modding support into your GameMaker Studio 2.3 games.
 * [Official Website](https://www.katsaii.com/catspeak-lang): https://www.katsaii.com/catspeak-lang
@@ -945,6 +950,11 @@ Julia is a high-level, high-performance dynamic language for technical computing
 * [Official Website](https://julialang.org): https://julialang.org
 * [Repository](https://github.com/JuliaLang/julia): https://github.com/JuliaLang/julia
 
+### [Juvix](https://juvix.org)
+Juvix is an open-source, constantly evolving functional programming language designed for writing privacy-preserving decentralized applications. Using Juvix, developers can write high-level programs which can be compiled to WASM directly, or through VampIR to circuits for private execution with Taiga on Anoma or Ethereum.
+* [Official Website](https://juvix.org): https://juvix.org
+* [Repository](https://github.com/anoma/juvix): https://github.com/anoma/juvix
+
 ### [KCL](https://kcl-lang.io)
 KCL is an open-source, constraint-based record and functional language that enhances the writing of complex configurations, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems.
 * [Official Website](https://kcl-lang.io): https://kcl-lang.io
@@ -1379,6 +1389,11 @@ Red is a next-gen programming language, strongly inspired by REBOL. Main feature
 ---
 * [Official Website](https://www.red-lang.org): https://www.red-lang.org
 * [Repository](https://github.com/red/red): https://github.com/red/red
+
+### [REBOL](http://www.rebol.com)
+Rebol provides an easy-to-write, easy-to-read format and a wide variety of data-types for expressing data and code.
+* [Official Website](http://www.rebol.com): http://www.rebol.com
+* [Repository](https://github.com/rebol/rebol): https://github.com/rebol/rebol
 
 ### [ReScript](https://rescript-lang.org)
 ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size.
