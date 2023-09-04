@@ -604,6 +604,13 @@ Eve is a programming language based on years of research into building a human-f
 * [Official Website](https://witheve.com): https://witheve.com
 * [Repository](https://github.com/witheve/Eve): https://github.com/witheve/Eve
 
+### [Eyg](https://eyg.run)
+Create programs that run everywhere and never crash.
+
+Eyg programs can be run everywhere, on client and server as well as build scripts and embedded. The Eyg language makes no assumptions about the runtime or platform a program will be run on. All requirements a program has to the outside world are explicit and tracked using effect types.
+* [Official Website](https://eyg.run): https://eyg.run
+* [Repository](https://github.com/CrowdHailer/eyg-lang): https://github.com/CrowdHailer/eyg-lang
+
 ### [Factor](https://factorcode.org)
 The Factor programming language is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a full-featured library, supports many different platforms, and has been extensively documented.
 
@@ -818,6 +825,12 @@ Haxe can build cross-platform applications targeting JavaScript, C++, C#, Java, 
 Code written in Haxe can be compiled to any target Haxe supports.
 * [Official Website](https://haxe.org): https://haxe.org
 * [Repository](https://github.com/HaxeFoundation/haxe): https://github.com/HaxeFoundation/haxe
+
+### [Hedy](https://www.hedy.org)
+Hedy is a gradual programming language aimed at teaching programming and teaching Python. It teaches using different levels. The first level just offers printing text and asking for input. This level is meant to introduce learners to the idea of a programming language, and the environment. From there, Hedy builds up to include more complex syntax and additional concepts.
+* [Official Website](https://www.hedy.org): https://www.hedy.org
+* [Repository](https://github.com/hedyorg/hedy): https://github.com/hedyorg/hedy
+
 
 ### [Huff](https://huff.sh)
 Huff is a low-level programming language designed for developing highly optimized smart contracts that run on the Ethereum Virtual Machine (EVM). Huff does not hide the inner workings of the EVM. Instead, Huff exposes its programming stack to the developer for manual manipulation.
@@ -1177,6 +1190,10 @@ Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typ
 * [Official Website](https://nelua.io): https://nelua.io
 * [Repository](https://github.com/edubart/nelua-lang): https://github.com/edubart/nelua-lang
 
+### [Neut](https://vekatze.github.io/neut)
+Neut is a dependently-typed programming language with static memory management.
+* [Official Website](https://vekatze.github.io/neut): https://vekatze.github.io/neut
+* [Repository](https://github.com/vekatze/neut): https://github.com/vekatze/neut
 ### [Nim](https://nim-lang.org)
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
 * [Official Website](https://nim-lang.org): https://nim-lang.org
