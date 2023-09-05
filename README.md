@@ -386,9 +386,17 @@ Crystal is a programming language with the following goals:
 * Have compile-time evaluation and generation of code, to avoid boilerplate code.
 * Compile to efficient native code.
 ---
-
 * [Official Website](https://crystal-lang.org): https://crystal-lang.org
 * [Repository](https://github.com/crystal-lang/crystal): https://github.com/crystal-lang/crystal
+
+### [Crumb](https://github.com/liam-ilan/crumb)
+Crumb is a high level, functional, interpreted, dynamically typed, general-purpose programming language, with a terse syntax, and a verbose standard library.
+* Strictly no side effects* to help you write functional code
+* The ability to localize the effects of imported Crumb files.
+* Dynamic typing and garbage collection.
+* 0 keywords, everything is a function.
+---
+* [Repository](https://github.com/liam-ilan/crumb): https://github.com/liam-ilan/crumb
 
 ### [Csq](https://csqlang.github.io)
 Csq is a high level programming language which is inspired by the speed of C++ and productivity of Python.
@@ -1259,6 +1267,14 @@ Online-IDE is a java-like programming language with IDE for computer-science-edu
 * [Official Website](https://www.online-ide.de): https://www.online-ide.de
 * [Repository](https://github.com/martin-pabst/Online-IDE): https://github.com/martin-pabst/Online-IDE
 
+### [Prog8](https://prog8.readthedocs.io)
+high level programming language and compiler targeting 6502 machines such as the C-64 and CommanderX16.
+
+Structured Programming Language for 8-bit 6502/65c02 microprocessors.
+* [Official Website](https://prog8.readthedocs.io): https://prog8.readthedocs.io
+* [Repository](https://github.com/irmen/prog8): https://github.com/irmen/prog8
+
+
 ### [PRQL](https://prql-lang.org)
 Pipelined Relational Query Language, pronounced "Prequel".
 
@@ -1716,6 +1732,13 @@ Vale is a programming language that's aims to be not only fast and memory-safe, 
 ### [Virgil](https://github.com/titzer/virgil)
 Virgil is a programming language designed for building lightweight high-performance systems. Its design blends functional and object-oriented programming paradigms for expressiveness and performance. Virgil's compiler produces optimized, standalone native executables, WebAssembly modules, or JARs for the JVM. For quick turnaround in testing and debugging, programs can also be run directly on a built-in interpreter. It is well-suited to writing small and fast programs with little or no dependencies, which makes it ideal for the lowest level of software systems. On native targets, it includes features that allow building systems that talk directly to kernels, dynamically generate machine code, implement garbage collection, etc. It is currently being used for virtual machine and programming language research, in particular the development of a next-generation WebAssembly virtual machine, Wizard.
 * [Repository](https://github.com/titzer/virgil): https://github.com/titzer/virgil
+
+### [VisionScript](https://visionscript.dev)
+VisionScript is an abstract programming language for doing common computer vision tasks, fast.
+
+VisionScript is built in Python, offering a simple syntax for running object detection, classification, and segmentation models.
+* [Official Website](https://visionscript.dev): https://visionscript.dev
+* [Repository](https://github.com/capjamesg/visionscript): https://github.com/capjamesg/visionscript
 
 ### [Vox](https://github.com/MrSmith33/vox)
 Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%).
