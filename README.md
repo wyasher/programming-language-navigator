@@ -1035,6 +1035,11 @@ Lean is a functional programming language that makes it easy to write correct an
 * [Official Website](https://leanprover.github.io): https://leanprover.github.io
 * [Repository](https://github.com/leanprover/lean4): https://github.com/leanprover/lean4
 
+### [Leo](https://leo-lang.org)
+🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications.
+* [Official Website](https://leo-lang.org): https://leo-lang.org
+* [Repository](https://github.com/AleoHQ/leo): https://github.com/AleoHQ/leo
+
 ### [Less](https://lesscss.org)
 Less. The dynamic stylesheet language.
 * [Official Website](https://lesscss.org): https://lesscss.org
@@ -1230,6 +1235,10 @@ Objeck is a modern object-oriented programming language with functional features
 * [Official Website](https://objeck.org): https://objeck.org
 * [Repository](https://github.com/objeck/objeck-lang): https://github.com/objeck/objeck-lang
 
+### [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime. Objective-C inherits the syntax, primitive types, and flow control statements of C and adds syntax for defining classes and methods. It also adds language-level support for object graph management and object literals while providing dynamic typing and binding, deferring many responsibilities until runtime.
+* [Official Website](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html): https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+
 ### [OCaml](https://ocaml.org)
 An industrial-strength functional programming language with an emphasis on expressiveness and safety.
 * [Official Website](https://ocaml.org): https://ocaml.org
@@ -1327,6 +1336,10 @@ A popular general-purpose scripting language that is especially suited to web de
 Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 * [Official Website](https://www.php.net): https://www.php.net
 * [Repository](https://github.com/php/php-src): https://github.com/php/php-src
+
+### [Plato](https://github.com/cdiggins/plato)
+Plato is an efficient and fun programming language inspired by JavaScript, C#, and Haskell. Plato is designed to be easy to teach and learn while being efficient and robust enough for commercial coding, particularly in the realm of 3D graphics.
+* [Repository](https://github.com/cdiggins/plato): https://github.com/cdiggins/plato
 
 ### [Pluto](https://pluto-lang.org)
 Pluto is a unique dialect of Lua, which aims to specialize for general-purpose programming.
@@ -1626,10 +1639,13 @@ Sway is a domain-specific language (DSL) for the Fuel Virtual Machine (FuelVM), 
 Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.
 
 The goal of the Swift project is to create the best available language for uses ranging from systems programming, to mobile and desktop apps, scaling up to cloud services. Most importantly, Swift is designed to make writing and maintaining correct programs easier for the developer.
-
 * [Official Website](https://www.swift.org): https://www.swift.org
 * [Repository](https://github.com/apple/swift): https://github.com/apple/swift
 
+### [Tao](https://tao.jsbarretto.com)
+A statically-typed functional language with polymorphism, typeclasses, algebraic effects, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
+* [Official Website](https://tao.jsbarretto.com): https://tao.jsbarretto.com
+* [Repository](https://github.com/zesterer/tao): https://github.com/zesterer/tao
 
 ### [Tcl](https://www.tcl-lang.org)
 Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language, suitable for a very wide range of uses, including web and desktop applications, networking, administration, testing and many more. Open source and business-friendly, Tcl is a mature yet evolving language that is truly cross platform, easily deployed and highly extensible.
