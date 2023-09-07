@@ -119,7 +119,7 @@ A TypeScript-like language for WebAssembly.
 * [Repository](https://github.com/AssemblyScript/assemblyscript): https://github.com/AssemblyScript/assemblyscript
 
 
-[Asteria](https://github.com/lhmouse/asteria)
+### [Asteria](https://github.com/lhmouse/asteria)
 Asteria is untyped. Variables do not have types. Only values (which can be stored in in variables) do. In this sense functions are considered opaque data.
 * [Repository](https://github.com/lhmouse/asteria): https://github.com/lhmouse/asteria
 
@@ -804,6 +804,13 @@ Halide is a programming language designed to make it easier to write high-perfor
 * **GPU Compute APIs**: CUDA, OpenCL, OpenGL Compute Shaders, Apple Metal, Microsoft Direct X 12, Vulkan
 * [Official Website](https://halide-lang.org): https://halide-lang.org
 * [Repository](https://github.com/halide/Halide): https://github.com/halide/Halide
+
+### [Hamler](https://www.hamler-lang.org)
+Hamler is a strongly-typed language with compile-time typechecking and built-in support for concurrency and distribution.
+
+Hamler empowers industries to build the next generation of scalable, reliable, realtime applications, especially for 5G, IoT and edge computing.
+* [Official Website](https://www.hamler-lang.org): https://www.hamler-lang.org
+* [Repository](https://github.com/hamler-lang/hamler): https://github.com/hamler-lang/hamler
 
 ### [Harbour](https://harbour.github.io)
 Harbour is the free software implementation of a multi-platform, multi-threading, object-oriented, scriptable programming language, backward compatible with Clipper/xBase. Harbour consists of a compiler and runtime libraries with multiple UI and database backends, its own make system and a large collection of libraries and interfaces to many popular APIs.
