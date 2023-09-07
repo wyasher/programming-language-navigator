@@ -805,6 +805,11 @@ Halide is a programming language designed to make it easier to write high-perfor
 * [Official Website](https://halide-lang.org): https://halide-lang.org
 * [Repository](https://github.com/halide/Halide): https://github.com/halide/Halide
 
+### [Harbour](https://harbour.github.io)
+Harbour is the free software implementation of a multi-platform, multi-threading, object-oriented, scriptable programming language, backward compatible with Clipper/xBase. Harbour consists of a compiler and runtime libraries with multiple UI and database backends, its own make system and a large collection of libraries and interfaces to many popular APIs.
+* [Official Website](https://harbour.github.io): https://harbour.github.io
+* [Repository](https://github.com/harbour/core): https://github.com/harbour/core
+
 ### [Harmony](https://harmony.cs.cornell.edu)
 A Python-like programming language for testing and experimenting with concurrent programs. Instead of "running" code, Harmony programs are model-checked so that all corner cases are explored.
 * [Official Website](https://harmony.cs.cornell.edu): https://harmony.cs.cornell.edu
@@ -1174,6 +1179,10 @@ MoonScript is a dynamic scripting language that compiles into Lua. It gives you 
 * [Official Website](https://moonscript.org): https://moonscript.org
 * [Repository](https://github.com/leafo/moonscript): https://github.com/leafo/moonscript
 
+### [Move](https://github.com/move-language/move)
+Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. Move is designed to be a platform-agnostic language to enable common libraries, tooling, and developer communities across diverse blockchains with vastly different data and execution models. Move's ambition is to become the "JavaScript of web3" in terms of ubiquity--when developers want to quickly write safe code involving assets, it should be written in Move.
+* [Repository](https://github.com/move-language/move): https://github.com/move-language/move
+
 ### [Mun](https://mun-lang.org)
 Mun is a programming language empowering creation through iteration.
 * **Ahead of time compilation** - Mun is compiled ahead of time (AOT), as opposed to being interpreted or compiled just in time (JIT). By detecting errors in the code during AOT compilation, an entire class of runtime errors is eliminated. This allows developers to stay within the comfort of their IDE instead of having to switch between the IDE and target application to debug runtime errors.
@@ -1329,6 +1338,13 @@ Penrose is a platform that enables people to create beautiful diagrams just by t
 Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 * [Official Website](https://pharo.org): https://pharo.org
 * [Repository](https://github.com/pharo-project/pharo): https://github.com/pharo-project/pharo
+
+### [Phel](https://phel-lang.org)
+Phel is a functional programming language that compiles to PHP.
+
+It is a dialect of Lisp inspired by Clojure and Janet.
+* [Official Website](https://phel-lang.org): https://phel-lang.org
+* [Repository](https://github.com/phel-lang/phel-lang): https://github.com/phel-lang/phel-lang
 
 ### [Php](https://www.php.net)
 A popular general-purpose scripting language that is especially suited to web development. 
