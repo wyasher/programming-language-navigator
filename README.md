@@ -528,6 +528,10 @@ Dinfio is a high-level, general-purpose, interpreted, minimalist, simple, and op
 * [Official Website](https://dinfio.org): https://dinfio.org
 * [Repository](https://github.com/dinfio/dinfio): https://github.com/dinfio/dinfio
 
+### [Dora](https://github.com/dinfuehr/dora)
+dora programming language.
+* [Repository](https://github.com/dinfuehr/dora): https://github.com/dinfuehr/dora
+
 ### [Dylan](https://opendylan.org)
 Dylan is an object-functional language originally created by Apple for the Newton. Dylan is a direct descendant of Scheme and CLOS (without the Lisp syntax) with a programming model designed to support efficient machine code generation, including fine-grained control over dynamic and static behaviors.
 * [Official Website](https://opendylan.org): https://opendylan.org
