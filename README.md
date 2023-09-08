@@ -348,6 +348,11 @@ Coconut aims to enhance the repertoire of Python programmers to include the tool
 * [Official Website](https://coconut-lang.org): https://coconut-lang.org
 * [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
 
+### [Core](https://core-lang.dev)
+a modern, minimal programming language.
+* [Official Website](https://core-lang.dev): https://core-lang.dev
+* [Repository](https://github.com/core-lang/core): https://github.com/core-lang/core
+
 ### [Cloe](https://cloe-lang.org)
 Cloe is the timeless functional programming language which provides implicit parallelism, concurrency, and reactiveness. It aims to be simple and practical.
 * [Official Website](https://cloe-lang.org): https://cloe-lang.org
@@ -1103,6 +1108,11 @@ Lua combines simple procedural syntax with powerful data description constructs 
 * [Official Website](https://www.lua.org): https://www.lua.org
 * [Repository](https://github.com/lua/lua): https://github.com/lua/lua
 
+### [Luau](https://luau-lang.org)
+Luau (lowercase u, /ˈlu.aʊ/) is a fast, small, safe, gradually typed embeddable scripting language derived from Lua.
+* [Official Website](https://luau-lang.org): https://luau-lang.org
+* [Repository](https://github.com/Roblox/luau): https://github.com/Roblox/luau
+
 ### [Lurk](https://lurk-lang.org)
 Lurk is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
 
@@ -1291,6 +1301,11 @@ Otus Lisp is a purely* functional dialect of small, embeddable and crossplatform
 Online-IDE is a java-like programming language with IDE for computer-science-education that runs inside any browser.
 * [Official Website](https://www.online-ide.de): https://www.online-ide.de
 * [Repository](https://github.com/martin-pabst/Online-IDE): https://github.com/martin-pabst/Online-IDE
+
+### [Pivot](https://lang.pivotstudio.cn)
+A Rust-like language with immix gc and other cool stuffs.
+* [Official Website](https://lang.pivotstudio.cn): https://lang.pivotstudio.cn
+* [Repository](https://github.com/Pivot-Studio/pivot-lang): https://github.com/Pivot-Studio/pivot-lang
 
 ### [Prog8](https://prog8.readthedocs.io)
 high level programming language and compiler targeting 6502 machines such as the C-64 and CommanderX16.
