@@ -118,6 +118,11 @@ A TypeScript-like language for WebAssembly.
 * [Official Website](https://www.assemblyscript.org): https://www.assemblyscript.org
 * [Repository](https://github.com/AssemblyScript/assemblyscript): https://github.com/AssemblyScript/assemblyscript
 
+### [Awk](https://www.gnu.org/software/gawk)
+The awk utility interprets a special-purpose programming language that makes it possible to handle simple data-reformatting jobs with just a few lines of code.
+* [Official Website](https://www.gnu.org/software/gawk): https://www.gnu.org/software/gawk
+* [Repository](https://ftp.gnu.org/gnu/gawk): https://ftp.gnu.org/gnu/gawk
+
 
 ### [Asteria](https://github.com/lhmouse/asteria)
 Asteria is untyped. Variables do not have types. Only values (which can be stored in in variables) do. In this sense functions are considered opaque data.
@@ -274,6 +279,7 @@ ChaiScript is one of the only embedded scripting language designed from the grou
 * It uses a header-only approach, which makes it easy to integrate with existing projects.
 * It maintains type safety between your C++ application and the user scripts.
 * It supports a variety of C++ techniques including callbacks, overloaded functions, class methods, and stl containers.
+---
 * [Official Website](https://chaiscript.com): https://chaiscript.com
 * [Repository](https://github.com/ChaiScript/ChaiScript): https://github.com/ChaiScript/ChaiScript
 
@@ -312,7 +318,12 @@ Chisel adds hardware construction primitives to the Scala programming language, 
 ChucK is a programming language for real-time sound synthesis and music creation. It is open-source and freely available on macOS, Windows, and Linux. ChucK presents a unique time-based, concurrent programming model that is precise and expressive (we call this strongly-timed), with dynamic control rates and the ability to add and modify code on-the-fly. In addition, ChucK supports MIDI, OpenSoundControl, HID devices, and multi-channel audio. It's fun and easy to learn, and offers composers, researchers, and performers a powerful programming tool for building and experimenting with complex audio synthesis/analysis programs, and real-time interactive music.
 * [Official Website](https://chuck.stanford.edu): https://chuck.stanford.edu
 * [Repository](https://github.com/ccrma/chuck): https://github.com/ccrma/chuck
-* 
+
+### [Cicada](https://cicada-lang.org)
+Cicada language is a dependently typed programming language and an interactive theorem prover.
+* [Official Website](https://cicada-lang.org): https://cicada-lang.org
+* [Repository](https://github.com/cicada-lang/cicada): https://github.com/cicada-lang/cicada
+
 ### [Clojure](https://www.clojure.org)
 Clojure is a robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.
 
@@ -326,6 +337,11 @@ Clojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy a
 Clio is a functional, distributed programming language that compiles to JavaScript. It runs in the browser and on the server and is made to be a suitable language for scientific programming. Clio takes advantage of multiple CPUs and multiple CPU cores (parallelism) by default, is able to use network resources, is easy to run on clusters and on the cloud.
 * [Official Website](https://clio-lang.org): https://clio-lang.org
 * [Repository](https://github.com/clio-lang/clio): https://github.com/clio-lang/clio
+
+### [Cloe](https://cloe-lang.org)
+Cloe is the timeless functional programming language which provides implicit parallelism, concurrency, and reactiveness. It aims to be simple and practical.
+* [Official Website](https://cloe-lang.org): https://cloe-lang.org
+* [Repository](https://github.com/cloe-lang/cloe): https://github.com/cloe-lang/cloe
 
 ### [Clue](https://crates.io/crates/clue)
 Clue is a programming language that compiles blazingly fast into Lua code with a syntax similar to languages like C or Rust.
@@ -352,11 +368,6 @@ Coconut aims to enhance the repertoire of Python programmers to include the tool
 a modern, minimal programming language.
 * [Official Website](https://core-lang.dev): https://core-lang.dev
 * [Repository](https://github.com/core-lang/core): https://github.com/core-lang/core
-
-### [Cloe](https://cloe-lang.org)
-Cloe is the timeless functional programming language which provides implicit parallelism, concurrency, and reactiveness. It aims to be simple and practical.
-* [Official Website](https://cloe-lang.org): https://cloe-lang.org
-* [Repository](https://github.com/cloe-lang/cloe): https://github.com/cloe-lang/cloe
 
 ### [Compis](https://github.com/rsms/compis)
 Compis is a contemporary systems programming language in the spirit of C.
@@ -1889,6 +1900,11 @@ The Zenroom VM is very small, has no external dependency, is fully deterministic
 Zencode is the name of the DSL executed by Zenroom: it is similar to human language and can process large data structures while operating cryptographic transformations and basic logical operations on them.
 * [Official Website](https://dev.zenroom.org): https://dev.zenroom.org
 * [Repository](https://github.com/dyne/Zenroom): https://github.com/dyne/Zenroom
+
+### [Zurfur](https://gosub.com/Zurfur)
+Zurfur is a programming language taking inspiration from C#, Golang and Javascript
+* [Official Website](https://gosub.com/Zurfur): https://gosub.com/Zurfur
+* [Repository](https://github.com/gosub-com/Zurfur): https://github.com/gosub-com/Zurfur
 
 ### [Zig](https://ziglang.org)
 Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
