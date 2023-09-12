@@ -369,6 +369,12 @@ a modern, minimal programming language.
 * [Official Website](https://core-lang.dev): https://core-lang.dev
 * [Repository](https://github.com/core-lang/core): https://github.com/core-lang/core
 
+### [Common Lisp](https://lisp-lang.org)
+Common Lisp (CL) is a dialect of the Lisp programming language, published in American National Standards Institute (ANSI) standard document ANSI INCITS 226-1994 (S20018) (formerly X3.226-1994 (R1999)). The Common Lisp HyperSpec, a hyperlinked HTML version, has been derived from the ANSI Common Lisp standard.
+* [Official Website](https://lisp-lang.org): https://lisp-lang.org
+* [Repository](http://savannah.gnu.org/git/?group=gcl): http://savannah.gnu.org/git/?group=gcl
+
+
 ### [Compis](https://github.com/rsms/compis)
 Compis is a contemporary systems programming language in the spirit of C.
 
@@ -595,6 +601,11 @@ A delightful language for reliable web applications.
 Elvish is an expressive programming language and a versatile interactive shell, combined into one seamless package. It runs on Linux, BSDs, macOS and Windows.
 * [Official Website](https://elv.sh): https://elv.sh
 * [Repository](https://github.com/elves/elvish): https://github.com/elves/elvish
+
+### [Emacs Lisp](https://www.gnu.org/software/emacs/emacs.html)
+At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+* [Official Website](https://www.gnu.org/software/emacs/emacs.html): https://www.gnu.org/software/emacs/emacs.html
+* [Repository](https://www.gnu.org/software/emacs/download.html): https://www.gnu.org/software/emacs/download.html
 
 ### [Emojicode](https://www.emojicode.org)
 Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
@@ -1596,6 +1607,12 @@ Scala is well suited to building fast, concurrent, and distributed systems with 
 Scala's static types help you to build safe systems by default. Smart built-in checks and actionable error messages, combined with thread-safe data structures and collections, prevent many tricky bugs before the program first runs.
 * [Official Website](https://www.scala-lang.org): https://www.scala-lang.org
 * [Repository](https://github.com/lampepfl/dotty): https://github.com/lampepfl/dotty
+
+### [Scheme](https://www.scheme.org)
+Scheme is a classic programming language in the Lisp family. It emphasizes functional programming and domain-specific languages but adapts to other styles. Known for its clean and minimalist design, Scheme is one of the longest-lived and best-studied dynamic languages, and has many fast and portable implementations.
+* [Official Website](https://www.scheme.org): https://www.scheme.org
+* [Repository](https://www.gnu.org/software/mit-scheme): https://www.gnu.org/software/mit-scheme
+
 
 ### [Shen](https://shenlanguage.org)
 Our mission is to bring the power of Shen technology to every major programming platform used by industry and deliver to programmers the great power of Shen.
