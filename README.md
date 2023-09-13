@@ -128,6 +128,11 @@ The awk utility interprets a special-purpose programming language that makes it 
 Asteria is untyped. Variables do not have types. Only values (which can be stored in in variables) do. In this sense functions are considered opaque data.
 * [Repository](https://github.com/lhmouse/asteria): https://github.com/lhmouse/asteria
 
+### [Azoth](https://azoth-lang.org)
+something about a general-purpose language; flexible, extensible, correct, and robust; for Professional Programmers; Robust programming at scale; enabling powerful libraries.
+* [Official Website](https://azoth-lang.org): https://azoth-lang.org
+* [Repository](https://github.com/azoth-lang/azoth.tools.bootstrap): https://github.com/azoth-lang/azoth.tools.bootstrap
+
 ### [Ballerina](https://ballerina.io)
 Flexible, Powerful, Beautiful Integrations as Code with Ballerina
 * Open source, cloud-native programming language optimized for integration
@@ -171,6 +176,15 @@ Blade comes equipped with an integrated package management system, simplifying t
 * [Official Website](https://bladelang.com): https://bladelang.com
 * [Repository](https://github.com/blade-lang/blade): https://github.com/blade-lang/blade
 
+### [Borgo](https://borgo-lang.github.io)
+Borgo is a new programming language that compiles to Go.
+* [Official Website](https://borgo-lang.github.io): https://borgo-lang.github.io
+* [Repository](https://github.com/borgo-lang/borgo): https://github.com/borgo-lang/borgo
+
+### [bpftrace](https://github.com/iovisor/bpftrace)
+bpftrace is a high-level tracing language for Linux enhanced Berkeley Packet Filter (eBPF) available in recent Linux kernels (4.x). bpftrace uses LLVM as a backend to compile scripts to BPF-bytecode and makes use of BCC for interacting with the Linux BPF system, as well as existing Linux tracing capabilities: kernel dynamic tracing (kprobes), user-level dynamic tracing (uprobes), and tracepoints. The bpftrace language is inspired by awk and C, and predecessor tracers such as DTrace and SystemTap. bpftrace was created by Alastair Robertson.
+* [Repository](https://github.com/iovisor/bpftrace): https://github.com/iovisor/bpftrace
+
 ### [BQN](https://mlochbaum.github.io/BQN)
 BQN: finally, an APL for your flying saucer.
 * A simple, consistent, and stable array programming language
@@ -181,10 +195,6 @@ BQN: finally, an APL for your flying saucer.
 ---
 * [Official Website](https://mlochbaum.github.io/BQN): https://mlochbaum.github.io/BQN
 * [Repository](https://github.com/mlochbaum/BQN): https://github.com/mlochbaum/BQN
-
-### [bpftrace](https://github.com/iovisor/bpftrace)
-bpftrace is a high-level tracing language for Linux enhanced Berkeley Packet Filter (eBPF) available in recent Linux kernels (4.x). bpftrace uses LLVM as a backend to compile scripts to BPF-bytecode and makes use of BCC for interacting with the Linux BPF system, as well as existing Linux tracing capabilities: kernel dynamic tracing (kprobes), user-level dynamic tracing (uprobes), and tracepoints. The bpftrace language is inspired by awk and C, and predecessor tracers such as DTrace and SystemTap. bpftrace was created by Alastair Robertson.
-* [Repository](https://github.com/iovisor/bpftrace): https://github.com/iovisor/bpftrace
 
 ### [Brainease](https://brainease.cli.rs)
 Brainease is a scripting language that has many similar concepts with brainf*ck, sharing some principal concepts, like memory and instructions. It was created to be a simple and faster language to create, but also to be a language that is easy to read and understand.
@@ -1259,10 +1269,16 @@ Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typ
 Neut is a dependently-typed programming language with static memory management.
 * [Official Website](https://vekatze.github.io/neut): https://vekatze.github.io/neut
 * [Repository](https://github.com/vekatze/neut): https://github.com/vekatze/neut
+
 ### [Nim](https://nim-lang.org)
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
 * [Official Website](https://nim-lang.org): https://nim-lang.org
 * [Repository](https://github.com/nim-lang/Nim): https://github.com/nim-lang/Nim
+
+### [Nix](https://nixos.org/manual/nix/stable/language/index.html)
+The Nix language is designed for conveniently creating and composing derivations – precise descriptions of how contents of existing files are used to derive new files.
+* [Official Website](https://nixos.org/manual/nix/stable/language/index.html): https://nixos.org/manual/nix/stable/language/index.html
+* [Repository](https://github.com/NixOS/nix): https://github.com/NixOS/nix
 
 ### [Nois](https://nois.ivnj.org)
 Statically typed programming language for the web.
@@ -1747,6 +1763,11 @@ Twig is a template language for PHP.
 Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment.
 * [Official Website](https://twig.symfony.com)): https://twig.symfony.com)
 * [Repository](https://github.com/twigphp/Twig): https://github.com/twigphp/Twig
+
+### [Toit](https://toitlang.org)
+Toit is optimised for live reloading on your microcontroller. Your code runs incrementally as you write it and you get instant feedback. Push changes over your local WiFi in two seconds and reserve your USB cable for charging your phone. You iterate quickly, learn fast, and build better things.
+* [Official Website](https://toitlang.org): https://toitlang.org
+* [Repository](https://github.com/toitlang/toit): https://github.com/toitlang/toit
 
 ### [Tokay](https://tokay.dev)
 Tokay is a programming language designed for ad-hoc parsing.
