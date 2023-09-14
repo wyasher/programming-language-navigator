@@ -64,6 +64,12 @@ Ante is a low-level functional language for exploring refinement types, lifetime
 * [Official Website](https://antelang.org): https://antelang.org
 * [Repository](https://github.com/jfecher/ante): https://github.com/jfecher/ante
 
+### [Aqua](https://fluence.dev/docs/aqua-book/introduction)
+Aqua is an open-source language for distributed workflow coordination in p2p networks. Aqua programs are executed on many peers, sequentially or in parallel, forming a single-use coordination network. Applications are turned into hostless workflows over distributed function calls, which enables various levels of decentralization: from handling by a limited set of servers to complete peer-to-peer architecture by connecting user devices directly. Aqua is the core of the Fluence protocol and a framework for internet or private cloud applications.
+* [Official Website](https://fluence.dev/docs/aqua-book/introduction): https://fluence.dev/docs/aqua-book/introduction
+* [Repository](https://github.com/fluencelabs/aqua): https://github.com/fluencelabs/aqua
+
+
 ### [Argon](https://www.arlang.io)
 The Argon language is a work-in-progress interpreted multi-paradigm programming language. Its syntax is influenced by many modern languages and aims to be elegant, clean and simple to use.
 * [Official Website](https://www.arlang.io): https://www.arlang.io
@@ -373,6 +379,11 @@ Coconut is a functional programming language that compiles to Python. Since all 
 Coconut aims to enhance the repertoire of Python programmers to include the tools of modern functional programming in as Pythonic a way as possible. Additionally, Coconut code runs the same on any Python version, meaning that even if you just use Coconut to write pure Python, you no longer have to worry about any core Python version differences: Coconut can backport almost all modern Python features as far back as Python 2.6.
 * [Official Website](https://coconut-lang.org): https://coconut-lang.org
 * [Repository](https://github.com/evhub/coconut): https://github.com/evhub/coconut
+
+### [CoffeeScript](https://coffeescript.org)
+CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
+* [Official Website](https://coffeescript.org): https://coffeescript.org
+* [Repository](https://github.com/jashkenas/coffeescript): https://github.com/jashkenas/coffeescript
 
 ### [Core](https://core-lang.dev)
 a modern, minimal programming language.
@@ -1756,6 +1767,10 @@ The Programming Language is a rapid, minimalistic, elegant, high-performance, hi
 * **Cloud-Based**: The Programming Language runs in cloud which allows to reduce time spent on installing and compiling
 * [Official Website](https://thelang.io): https://thelang.io
 * [Repository](https://github.com/thelang-io/the): https://github.com/thelang-io/the
+
+### [TICKscript](https://docs.influxdata.com/kapacitor/v1/reference/spec)
+The TICKscript language is an invocation chaining language used to define data processing pipelines.
+* [Official Website](https://docs.influxdata.com/kapacitor/v1/reference/spec): https://docs.influxdata.com/kapacitor/v1/reference/spec
 
 ### [Twig](https://twig.symfony.com)
 Twig is a template language for PHP.
