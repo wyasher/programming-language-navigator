@@ -710,6 +710,13 @@ Flix compiles to JVM bytecode, runs on the Java Virtual Machine, and supports fu
 * [Official Website](https://flix.dev): https://flix.dev
 * [Repository](https://github.com/flix/flix): https://github.com/flix/flix
 
+### [Fortran](https://fortran-lang.org)
+High-performance parallel programming language.
+
+Fortran is mostly used in domains that adopted computation early–science and engineering. These include numerical weather and ocean prediction, computational fluid dynamics, applied math, statistics, and finance. Fortran is the dominant language of High Performance Computing and is used to benchmark the fastest supercomputers in the world.
+* [Official Website](https://fortran-lang.org): https://fortran-lang.org
+* [Repository](https://github.com/fortran-lang/stdlib): https://github.com/fortran-lang/stdlib
+
 ### [FunctionalScript](https://github.com/functionalscript/functionalscript)
 FunctionalScript is a purely functional programming language and a strict subset of ECMAScript/JavaScript. It's inspired by
 
@@ -1237,6 +1244,15 @@ Motion is a variation of the Lox language found at www.craftinginterpreters.com 
 A safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
 * [Official Website](https://internetcomputer.org/docs/current/motoko/main/about-this-guide): https://internetcomputer.org/docs/current/motoko/main/about-this-guide
 * [Repository](https://github.com/dfinity/motoko): https://github.com/dfinity/motoko
+
+### [Moonbit](https://www.moonbitlang.com)
+Moonbit language designed specifically for WebAssembly. Provide multiple backends including JavaScript and Native.
+
+Support multiple programming paradigm including functional and object oriented.
+
+Simple yet practical type system, data oriented language design. Developer with any background can start immediately.
+* [Official Website](https://www.moonbitlang.com): https://www.moonbitlang.com
+
 
 ### [MoonScript](https://moonscript.org)
 MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
@@ -1861,6 +1877,11 @@ VisionScript is an abstract programming language for doing common computer visio
 VisionScript is built in Python, offering a simple syntax for running object detection, classification, and segmentation models.
 * [Official Website](https://visionscript.dev): https://visionscript.dev
 * [Repository](https://github.com/capjamesg/visionscript): https://github.com/capjamesg/visionscript
+
+### [VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic)
+Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
+* [Official Website](https://learn.microsoft.com/en-us/dotnet/visual-basic): https://learn.microsoft.com/en-us/dotnet/visual-basic
+* [Repository](https://github.com/dotnet/roslyn): https://github.com/dotnet/roslyn
 
 ### [Vox](https://github.com/MrSmith33/vox)
 Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%).
