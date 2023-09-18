@@ -1116,6 +1116,11 @@ Less. The dynamic stylesheet language.
 * [Official Website](https://lesscss.org): https://lesscss.org
 * [Repository](https://github.com/less/less.js): https://github.com/less/less.js
 
+### [LFE](https://lfe.io)
+LFE is not a casual Lisp. It's a Lisp for those who want to build distributed applications -- like the Erlang software that powers 40% of the world's telecommunications.
+* [Official Website](https://lfe.io): https://lfe.io
+* [Repository](https://github.com/lfe/lfe): https://github.com/lfe/lfe
+
 ### [LinguaFranca](https://www.lf-lang.org)
 Lingua Franca (LF) is a polyglot coordination language for concurrent and possibly time-sensitive applications ranging from low-level embedded code to distributed cloud and edge applications. An LF program specifies the interactions between components called reactors. The emphasis of the framework is on ensuring deterministic interaction with explicit management of timing. The logic of each reactor is written in one of a suite of target languages (currently C, C++, Python, and TypeScript) and can integrate legacy code in those languages. A code generator synthesizes one or more programs in the target language, which are then compiled using standard toolchains. If the application has exploitable parallelism, then it executes transparently on multiple cores without compromising determinacy. A distributed application translates into multiple programs and scripts to launch those programs on distributed machines. The communication fabric connecting components is synthesized as part of the programs.
 * [Official Website](https://www.lf-lang.org): https://www.lf-lang.org
@@ -1217,6 +1222,11 @@ Melody is a language that compiles to regular expressions and aims to be more ea
 ### [Milone](https://github.com/vain0x/milone-lang)
 The Milone language is an F#-subset programming language.
 * [Repository](https://github.com/vain0x/milone-lang): https://github.com/vain0x/milone-lang
+
+### [MiniScript](https://miniscript.org)
+MiniScript is modern, elegant, easy to learn, and easy to embed in your own C# or C++ projects.
+* [Official Website](https://miniscript.org): https://miniscript.org
+* [Repository](https://github.com/JoeStrout/miniscript): https://github.com/JoeStrout/miniscript
 
 ### [Mint](https://mint-lang.com)
 The programming language for writing single page applications.
@@ -1650,6 +1660,11 @@ Scala is well suited to building fast, concurrent, and distributed systems with 
 Scala's static types help you to build safe systems by default. Smart built-in checks and actionable error messages, combined with thread-safe data structures and collections, prevent many tricky bugs before the program first runs.
 * [Official Website](https://www.scala-lang.org): https://www.scala-lang.org
 * [Repository](https://github.com/lampepfl/dotty): https://github.com/lampepfl/dotty
+
+### [Scallop](https://scallop-lang.github.io)
+Scallop can be used to develop a wide variety of applications in vision and NLP that involve symbolic reasoning. The reasoning component is specified via logic rules which can then be deeply integrated with machine learning models, such as convolutional neural networks and transformers.
+* [Official Website](https://scallop-lang.github.io): https://scallop-lang.github.io
+* [Repository](https://github.com/scallop-lang/scallop): https://github.com/scallop-lang/scallop
 
 ### [Scheme](https://www.scheme.org)
 Scheme is a classic programming language in the Lisp family. It emphasizes functional programming and domain-specific languages but adapts to other styles. Known for its clean and minimalist design, Scheme is one of the longest-lived and best-studied dynamic languages, and has many fast and portable implementations.
