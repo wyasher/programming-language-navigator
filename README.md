@@ -354,6 +354,11 @@ Clio is a functional, distributed programming language that compiles to JavaScri
 * [Official Website](https://clio-lang.org): https://clio-lang.org
 * [Repository](https://github.com/clio-lang/clio): https://github.com/clio-lang/clio
 
+### [CodePortal](https://codeportal.io)
+CodePortal is an open-source full-stack, AI-first, web-based programming platform with the primary goal of improving the way in which we build software. With CodePortal you can create, edit and publish web-apps, widgets, and APIs in a simple and intuitive editor. All without installing or configuring anything.
+* [Official Website](https://codeportal.io): https://codeportal.io
+* [Repository](https://github.com/codeportal-org/codeportal): https://github.com/codeportal-org/codeportal
+
 ### [Cloe](https://cloe-lang.org)
 Cloe is the timeless functional programming language which provides implicit parallelism, concurrency, and reactiveness. It aims to be simple and practical.
 * [Official Website](https://cloe-lang.org): https://cloe-lang.org
@@ -1393,6 +1398,10 @@ Structured Programming Language for 8-bit 6502/65c02 microprocessors.
 * [Official Website](https://prog8.readthedocs.io): https://prog8.readthedocs.io
 * [Repository](https://github.com/irmen/prog8): https://github.com/irmen/prog8
 
+### [Prolog](https://www.swi-prolog.org)
+SWI-Prolog offers a comprehensive free Prolog environment. Since its start in 1987, SWI-Prolog development has been driven by the needs of real world applications. SWI-Prolog is widely used in research and education as well as commercial applications. Join over a million users who have downloaded SWI-Prolog.
+* [Official Website](https://www.swi-prolog.org): https://www.swi-prolog.org
+* [Repository](https://github.com/SWI-Prolog/swipl-devel): https://github.com/SWI-Prolog/swipl-devel
 
 ### [PRQL](https://prql-lang.org)
 Pipelined Relational Query Language, pronounced "Prequel".
@@ -1474,6 +1483,11 @@ Wren Language and their wonderful book Crafting Interpreters were used as a refe
 Pony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 * [Official Website](https://www.ponylang.io): https://www.ponylang.io
 * [Repository](https://github.com/ponylang/ponyc): https://github.com/ponylang/ponyc
+
+### [POWER-KI](http://www.power-ki.com)
+POWER-KI (PWK) is a programming language that implements the Software Plastic Architecture (SPA) for the realization of Intelligent Applications (AI), that is applications that use all the available information, also deducing them autonomously (AI), to optimize their operation and simplify interactions with users. PWK's application areas range from IoT (Internet of Things), to supervision and control systems, to applications for the management of production and decision-making processes, to the Web and eCommerce.
+* [Official Website](http://www.power-ki.com): http://www.power-ki.com
+* [Repository](https://github.com/POWER-KI/POWER-KI): https://github.com/POWER-KI/POWER-KI
 
 ### [Prajna](https://github.com/prajna-lang/prajna)
 a program language for AI infrastructure.
