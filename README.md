@@ -182,6 +182,11 @@ Blade comes equipped with an integrated package management system, simplifying t
 * [Official Website](https://bladelang.com): https://bladelang.com
 * [Repository](https://github.com/blade-lang/blade): https://github.com/blade-lang/blade
 
+### [Bosatsu](https://johnynek.github.io/bosatsu)
+Bosatsu (菩薩) is the transliteration in Japanese of the sanskrit bodhisattva. A bodhisattva is someone who can reach enlightenment but decides not to, to help others achieve that goal.
+* [Official Website](https://johnynek.github.io/bosatsu): https://johnynek.github.io/bosatsu
+* [Repository](https://github.com/johnynek/bosatsu): https://github.com/johnynek/bosatsu
+
 ### [Borgo](https://borgo-lang.github.io)
 Borgo is a new programming language that compiles to Go.
 * [Official Website](https://borgo-lang.github.io): https://borgo-lang.github.io
@@ -372,6 +377,10 @@ Clue does not compile to a specfic version of Lua: flags can be toggled to alter
 Cobalt is a high-level, compiled language with similar uses to C++. It aims to be more modern than C++, but offer more freedom than Rust.
 * [Official Website](https://matt-cornell.github.io/cobalt-docs): https://matt-cornell.github.io/cobalt-docs
 * [Repository](https://github.com/matt-cornell/cobalt-lang): https://github.com/matt-cornell/cobalt-lang
+
+### [COBOL](https://developer.ibm.com/languages/cobol)
+COBOL is an important language on the modern mainframe that enterprises and developers continue to rely on.
+* [Official Website](https://developer.ibm.com/languages/cobol): https://developer.ibm.com/languages/cobol
 
 ### [Coconut](https://coconut-lang.org)
 Coconut is a functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python.
@@ -1671,6 +1680,9 @@ Scheme is a classic programming language in the Lisp family. It emphasizes funct
 * [Official Website](https://www.scheme.org): https://www.scheme.org
 * [Repository](https://www.gnu.org/software/mit-scheme): https://www.gnu.org/software/mit-scheme
 
+### [Scratch](https://www.media.mit.edu/projects/scratch/overview)
+Scratch is the world's most popular coding community for kids. Millions of kids around the world are using Scratch to program their own interactive stories, games, and animations—and share their creations in an active online community. In the process, they are learning to think creatively, reason systematically, and work collaboratively, while also learning important mathematical and computational ideas. In the past year, more than 20 million people created projects with Scratch.
+* [Official Website](https://www.media.mit.edu/projects/scratch/overview): https://www.media.mit.edu/projects/scratch/overview
 
 ### [Shen](https://shenlanguage.org)
 Our mission is to bring the power of Shen technology to every major programming platform used by industry and deliver to programmers the great power of Shen.
