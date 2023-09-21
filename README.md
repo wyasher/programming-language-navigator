@@ -761,6 +761,10 @@ F* programs compile, by default, to OCaml. Various fragments of F* can also be e
 * [Official Website](https://www.fstar-lang.org): https://www.fstar-lang.org
 * [Repository](https://github.com/FStarLang/FStar): https://github.com/FStarLang/FStar
 
+### [GDL](https://github.com/gnudatalanguage/gdl)
+GDL is a domain-specific programming language and a data analysis environment. As a language, it is dynamically-typed, array-oriented, vectorised and has object-oriented programming capabilities. GDL library routines handle numerical calculations, data visualisation, signal/image processing, interaction with host OS and data input/output. GDL supports several data formats such as netCDF, HDF4, HDF5, GRIB, PNG, TIFF, DICOM, etc. Graphical output is handled by X11, PostScript, SVG or z-buffer terminals, the last one allowing output graphics (plots) to be saved in a variety of raster graphics formats. GDL features integrated debugging facilities. The built-in widget functionality enables development of GUI-based software. GDL has also a Python bridge (Python code can be called from GDL; GDL can be compiled as a Python module). Development and maintenance of GDL is carried out targeting Linux, BSD, OSX and Windows (MinGW, Cygwin).
+* [Repository](https://github.com/gnudatalanguage/gdl): https://github.com/gnudatalanguage/gdl
+
 ### [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
 GDScript is a high-level, object-oriented, imperative, and gradually typed programming language built for Godot. It uses an indentation-based syntax similar to languages like Python. Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 
@@ -1341,6 +1345,11 @@ Novika is a moldable, concise, and expressive programming language in the spirit
 * [Official Website](https://novika-lang.github.io): https://novika-lang.github.io
 * [Repository](https://github.com/novika-lang/novika): https://github.com/novika-lang/novika
 
+### [Numbat](https://numbat.dev)
+Numbat is a statically typed programming language for scientific computations with first class support for physical dimensions and units.
+* [Official Website](https://numbat.dev): https://numbat.dev
+* [Repository](https://github.com/sharkdp/numbat): https://github.com/sharkdp/numbat
+
 ### [Oak](https://github.com/jorbDehmel/oak)
 Oak is a modern, compiled, low-level, statically-typed programming language. It uses Rust-like typing, without Rust's lifetimes system. It is analogous to C++ with stronger macro support, modern typing, compile-time syntax modification and integrated package management. It's like if C let you shape the language to your liking. It is named Oak because nature imagery is desperately needed in the mind of a programmer.
 
@@ -1389,6 +1398,11 @@ The Ohm language is based on parsing expression grammars (PEGs), which are a for
 Otus Lisp is a purely* functional dialect of small, embeddable and crossplatform Lisp.
 * [Official Website](https://yuriy-chumak.github.io/ol): https://yuriy-chumak.github.io/ol
 * [Repository](https://github.com/yuriy-chumak/ol): https://github.com/yuriy-chumak/ol
+
+### [One](https://onelang.org)
+It is an open source, self-hosted, bootstrapping system programming language which makes it easy to build reliable and efficient software.
+* [Official Website](https://onelang.org): https://onelang.org
+* [Repository](https://github.com/One-Language/One): https://github.com/One-Language/One
 
 ### [Online-IDE](https://www.online-ide.de)
 Online-IDE is a java-like programming language with IDE for computer-science-education that runs inside any browser.
