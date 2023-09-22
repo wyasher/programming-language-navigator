@@ -19,6 +19,11 @@ The Acton Run Time System (RTS) offers a distributed mode of operation allowing 
 * [Official Website](https://www.acton-lang.org): https://www.acton-lang.org
 * [Repository](https://github.com/actonlang/acton): https://github.com/actonlang/acton
 
+### [Ada](https://ada-lang.io)
+Ada is a structured, statically typed, imperative, and object-oriented high-level programming language, inspired by Pascal and other languages. It has built-in language support for design by contract (DbC), extremely strong typing, explicit concurrency, tasks, synchronous message passing, protected objects, and non-determinism.
+* [Official Website](https://ada-lang.io): https://ada-lang.io
+
+
 ### [Adama](https://www.adama-platform.com)
 A programming language for board games powered by the JVM. It is a data-centric programming language which enables building tiny persistent game servers which radically reduce engineering and operational costs for board games.
 * [Official Website](https://www.adama-platform.com): https://www.adama-platform.com
@@ -1901,6 +1906,13 @@ It is heavily inspired by Live, Data Flow, Reactive, Functional and Object Orien
 * [Official Website](https://unit.land): https://unit.land
 * [Repository](https://github.com/samuelmtimbo/unit): https://github.com/samuelmtimbo/unit
 
+### [Ursa](https://ursalang.github.io)
+A friendly, stable, general-purpose programming-language.
+
+Ursa helps you write code that will last a long time: a simple, general-purpose programming language that is easy to pick up and will work the same way long into the future.
+* [Official Website](https://ursalang.github.io): https://ursalang.github.io
+* [Repository](https://github.com/ursalang/ursa): https://github.com/ursalang/ursa
+
 ### [V](https://vlang.io)
 Simple, fast, safe, compiled. For developing maintainable software.
 
@@ -1937,6 +1949,15 @@ VisionScript is built in Python, offering a simple syntax for running object det
 Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
 * [Official Website](https://learn.microsoft.com/en-us/dotnet/visual-basic): https://learn.microsoft.com/en-us/dotnet/visual-basic
 * [Repository](https://github.com/dotnet/roslyn): https://github.com/dotnet/roslyn
+
+### [Void](https://voidlang.org)
+Void is a virtual-machine-based programing language designed for developers to be able to create clean, fast and stable multi-platform applications.
+
+It has has a relatively easy syntax, that follows most of the already existing code conventions.
+
+Void features many utilities that enchant the experience of coding, such as object destruction, variable redeclaration, multi-returning, and much more.
+* [Official Website](https://voidlang.org): https://voidlang.org
+* [Repository](https://github.com/voidlang/void): https://github.com/voidlang/void
 
 ### [Vox](https://github.com/MrSmith33/vox)
 Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%).
