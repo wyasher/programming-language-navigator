@@ -585,6 +585,10 @@ Dinfio is a high-level, general-purpose, interpreted, minimalist, simple, and op
 * [Official Website](https://dinfio.org): https://dinfio.org
 * [Repository](https://github.com/dinfio/dinfio): https://github.com/dinfio/dinfio
 
+### [Disco](https://github.com/disco-lang/disco)
+Disco is a programming language intended to teach basic functional programming principles in the context of a discrete mathematics course.
+* [Repository](https://github.com/disco-lang/disco): https://github.com/disco-lang/disco
+
 ### [Dora](https://github.com/dinfuehr/dora)
 dora programming language.
 * [Repository](https://github.com/dinfuehr/dora): https://github.com/dinfuehr/dora
@@ -933,6 +937,10 @@ Hedy is a gradual programming language aimed at teaching programming and teachin
 * [Official Website](https://www.hedy.org): https://www.hedy.org
 * [Repository](https://github.com/hedyorg/hedy): https://github.com/hedyorg/hedy
 
+### [Horse64](https://horse64.org)
+Horse64 is a high-level language that combines readability, clean dynamic typing, and readiness for large projects
+* [Official Website](https://horse64.org): https://horse64.org
+* [Repository](https://codeberg.org/Horse64/core.horse64.org): https://codeberg.org/Horse64/core.horse64.org
 
 ### [Huff](https://huff.sh)
 Huff is a low-level programming language designed for developing highly optimized smart contracts that run on the Ethereum Virtual Machine (EVM). Huff does not hide the inner workings of the EVM. Instead, Huff exposes its programming stack to the developer for manual manipulation.
@@ -991,7 +999,12 @@ Inko features deterministic automatic memory management, move semantics, static 
 🛡️ Inox is a secure programming language for Web Application Development and scripting. It features a powerful shell with colorization & completions.
 * [Repository](https://github.com/inoxlang/inox): https://github.com/inoxlang/inox
 
-[Iridis](https://github.com/Hachem-H/Iridis)
+### [Insitux](https://insitux.github.io)
+An extensible scripting language primarily integrated in the First Person Shooter game Deadline. It is compatible with roblox-ts enabling Roblox game integration, featuring a simple prefix syntax, exception-free parsing and execution, budgeting for expensive computations, and more.
+* [Official Website](https://insitux.github.io): https://insitux.github.io
+* [Repository](https://github.com/phunanon/Insitux): https://github.com/phunanon/Insitux
+
+### [Iridis](https://github.com/Hachem-H/Iridis)
 A Fast, Modern, Low-Level General-Purpose Programming Language
 
 Iridis is an innovative programming language designed to cater to the needs of various domains, such as computational physics, kernel development, and game development, while remaining versatile enough to be applicable in many other areas. This language is built from the ground up to offer blazing fast performance, a modern development experience, and low-level control, empowering programmers to tackle complex problems efficiently and effectively.
