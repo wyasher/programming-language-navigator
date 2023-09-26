@@ -69,11 +69,14 @@ Ante is a low-level functional language for exploring refinement types, lifetime
 * [Official Website](https://antelang.org): https://antelang.org
 * [Repository](https://github.com/jfecher/ante): https://github.com/jfecher/ante
 
+### [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
+Apex is a strongly typed, object-oriented programming language that allows developers to execute flow and transaction control statements on the Salesforce Platform server, in conjunction with calls to the API. This guide introduces you to the Apex development process and provides valuable information on learning, writing, deploying and testing Apex.
+* [Official Website](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm): https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+
 ### [Aqua](https://fluence.dev/docs/aqua-book/introduction)
 Aqua is an open-source language for distributed workflow coordination in p2p networks. Aqua programs are executed on many peers, sequentially or in parallel, forming a single-use coordination network. Applications are turned into hostless workflows over distributed function calls, which enables various levels of decentralization: from handling by a limited set of servers to complete peer-to-peer architecture by connecting user devices directly. Aqua is the core of the Fluence protocol and a framework for internet or private cloud applications.
 * [Official Website](https://fluence.dev/docs/aqua-book/introduction): https://fluence.dev/docs/aqua-book/introduction
 * [Repository](https://github.com/fluencelabs/aqua): https://github.com/fluencelabs/aqua
-
 
 ### [Argon](https://www.arlang.io)
 The Argon language is a work-in-progress interpreted multi-paradigm programming language. Its syntax is influenced by many modern languages and aims to be elegant, clean and simple to use.
@@ -1223,6 +1226,11 @@ Lux is a new programming language in the making.
 It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
 * [Repository](https://github.com/LuxLang/lux): https://github.com/LuxLang/lux
 
+### [m](https://mlang.dev)
+A general purpose static-typed programming language with type inference and can be compiled as a WebAssembly module. Its syntax is like Python for ease of usability.
+* [Official Website](https://mlang.dev): https://mlang.dev
+* [Repository](https://github.com/mlang-dev/m): https://github.com/mlang-dev/m
+
 ### [Marko](https://markojs.com)
 Marko is HTML re-imagined as a language for building dynamic and reactive user interfaces. Just about any valid HTML is valid Marko, but Marko extends the HTML language to allow building modern applications in a declarative way.
 * [Official Website](https://markojs.com): https://markojs.com
@@ -1699,6 +1707,14 @@ R# is a language and environment for GCModeller scripting and data science chart
 Unlike the R Project, R# language is not focus on the statistical computing, R# try to combine the numeric computing with the .NET library programming which is comes from the GCModeller on the contrary. So in this way, R# provides a wide variety of bioinformatics analysis toolkit from GCModeller and graphical techniques, and is highly extensible.
 * [Official Website](http://r_lang.dev.smrucc.org): http://r_lang.dev.smrucc.org
 * [Repository](https://github.com/rsharp-lang/R-sharp): https://github.com/rsharp-lang/R-sharp
+
+### [SAS](https://www.sas.com/en_gb/training/courses/sas-programming.html)
+SAS Programming enables you to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence and a prerequisite to many other SAS courses.
+
+SAS Programming is used globally across a wide range of industries. Here at SAS, we believe everybody should have the chance to learn these skills which is why we are making this in depth course available for free.
+
+SAS is used for statistical analysis and enables users to perform tasks such as importing data from multiple sources as well as analysing and reporting. By learning SAS Programming you will be able to mine, alter, manage, retrieve and combine data from a variety of sources. With free access to our software for learning you can take advantage of an abundance of easy-to-use analytical procedures that perform complex calculations.
+* [Official Website](https://www.sas.com/en_gb/training/courses/sas-programming.html): https://www.sas.com/en_gb/training/courses/sas-programming.html
 
 ### [Sass](https://sass-lang.com)
 Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
