@@ -906,9 +906,9 @@ Harbour is the free software implementation of a multi-platform, multi-threading
 * [Official Website](https://harbour.github.io): https://harbour.github.io
 * [Repository](https://github.com/harbour/core): https://github.com/harbour/core
 
-### [Harmony](https://harmony.cs.cornell.edu)
+### [Harmony](https://harmonylang.dev)
 A Python-like programming language for testing and experimenting with concurrent programs. Instead of "running" code, Harmony programs are model-checked so that all corner cases are explored.
-* [Official Website](https://harmony.cs.cornell.edu): https://harmony.cs.cornell.edu
+* [Official Website](https://harmonylang.dev): https://harmonylang.dev
 * [Repository](https://github.com/harmonylang/harmony): https://github.com/harmonylang/harmony
 
 ### [Hare](https://harelang.org)
@@ -1085,6 +1085,11 @@ Julia is a high-level, high-performance dynamic language for technical computing
 Juvix is an open-source, constantly evolving functional programming language designed for writing privacy-preserving decentralized applications. Using Juvix, developers can write high-level programs which can be compiled to WASM directly, or through VampIR to circuits for private execution with Taiga on Anoma or Ethereum.
 * [Official Website](https://juvix.org): https://juvix.org
 * [Repository](https://github.com/anoma/juvix): https://github.com/anoma/juvix
+
+### [kaoscript](https://www.kaoscript.tech)
+kaoscript is programming language combining features from ES7, CoffeeScript, TypeScript, Rust, Swift, C# and more.
+* [Official Website](https://www.kaoscript.tech): https://www.kaoscript.tech
+* [Repository](https://github.com/kaoscript/kaoscript): https://github.com/kaoscript/kaoscript
 
 ### [KCL](https://kcl-lang.io)
 KCL is an open-source, constraint-based record and functional language that enhances the writing of complex configurations, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems.
@@ -1434,6 +1439,11 @@ It is an open source, self-hosted, bootstrapping system programming language whi
 Online-IDE is a java-like programming language with IDE for computer-science-education that runs inside any browser.
 * [Official Website](https://www.online-ide.de): https://www.online-ide.de
 * [Repository](https://github.com/martin-pabst/Online-IDE): https://github.com/martin-pabst/Online-IDE
+
+### [OpenTofu](https://opentofu.org/docs/language)
+The main purpose of the OpenTofu language is declaring resources, which represent infrastructure objects. All other language features exist only to make the definition of resources more flexible and convenient.
+* [Official Website](https://opentofu.org/docs/language): https://opentofu.org/docs/language
+* [Repository](https://github.com/opentofu/opentofu): https://github.com/opentofu/opentofu
 
 ### [Pivot](https://lang.pivotstudio.cn)
 A Rust-like language with immix gc and other cool stuffs.
@@ -1912,6 +1922,11 @@ TypeScript is JavaScript with syntax for types.
 TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 * [Official Website](https://www.typescriptlang.org): https://www.typescriptlang.org
 * [Repository](https://github.com/microsoft/TypeScript): https://github.com/microsoft/TypeScript
+
+### [Uiua](https://www.uiua.org)
+Uiua (wee-wuh 🔉) is a stack-oriented array programming language with a focus on simplicity, beauty, and tacit code.
+* [Official Website](https://www.uiua.org): https://www.uiua.org
+* [Repository](https://github.com/uiua-lang/uiua): https://github.com/uiua-lang/uiua
 
 ### [Umka](https://github.com/vtereshkov/umka-lang)
 Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle Explicit is better than implicit more consistently than dynamically typed languages generally do.
