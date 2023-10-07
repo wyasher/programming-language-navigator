@@ -970,6 +970,11 @@ Hylo (formely Val) is a programming language that leverages mutable value semant
 * [Official Website](https://www.hylo-lang.org): https://www.hylo-lang.org
 * [Repository](https://github.com/hylo-lang/hylo): https://github.com/hylo-lang/hylo
 
+### [I](https://i-language-rust.readthedocs.io/en/latest)
+The I programming language is a high level programming language written in rust.
+* [Official Website](https://i-language-rust.readthedocs.io/en/latest): https://i-language-rust.readthedocs.io/en/latest
+* [Repository](https://github.com/I-Language-Development/I-Language-Rust): https://github.com/I-Language-Development/I-Language-Rust
+
 ### [Idris](https://www.idris-lang.org)
 Idris is a programming language designed to encourage Type-Driven Development.
 
@@ -1144,6 +1149,11 @@ Lamdu is a programming language designed to be useful and delightful.
 ---
 * [Official Website](https://www.lamdu.org): https://www.lamdu.org
 * [Repository](https://github.com/lamdu/lamdu): https://github.com/lamdu/lamdu
+
+### [LDPL](https://www.ldpl-lang.org)
+LDPL is a powerful and robust general-purpose compiled programming language designed from the ground up to be excessively expressive, readable, fast, and easy to learn. It mimics plain English, in the likeness of the good parts of older programming languages like COBOL. It even supports UTF-8 out of the box.
+* [Official Website](https://www.ldpl-lang.org): https://www.ldpl-lang.org
+* [Repository](https://github.com/Lartu/LDPL): https://github.com/Lartu/LDPL
 
 ### [Lean](https://leanprover.github.io)
 Lean is a functional programming language that makes it easy to write correct and maintainable code. You can also use Lean as an interactive theorem prover. Lean programming primarily involves defining types and functions. This allows your focus to remain on the problem domain and manipulating its data, rather than the details of programming.
@@ -1449,6 +1459,11 @@ The main purpose of the OpenTofu language is declaring resources, which represen
 A Rust-like language with immix gc and other cool stuffs.
 * [Official Website](https://lang.pivotstudio.cn): https://lang.pivotstudio.cn
 * [Repository](https://github.com/Pivot-Studio/pivot-lang): https://github.com/Pivot-Studio/pivot-lang
+
+### [PLang](https://p-programming-language.github.io/plang/index.html)
+The P programming language.
+* [Official Website](https://p-programming-language.github.io/plang/index.html): https://p-programming-language.github.io/plang/index.html
+* [Repository](https://github.com/p-programming-language/plang): https://github.com/p-programming-language/plang
 
 ### [Prog8](https://prog8.readthedocs.io)
 high level programming language and compiler targeting 6502 machines such as the C-64 and CommanderX16.
