@@ -23,11 +23,14 @@ The Acton Run Time System (RTS) offers a distributed mode of operation allowing 
 Ada is a structured, statically typed, imperative, and object-oriented high-level programming language, inspired by Pascal and other languages. It has built-in language support for design by contract (DbC), extremely strong typing, explicit concurrency, tasks, synchronous message passing, protected objects, and non-determinism.
 * [Official Website](https://ada-lang.io): https://ada-lang.io
 
-
 ### [Adama](https://www.adama-platform.com)
 A programming language for board games powered by the JVM. It is a data-centric programming language which enables building tiny persistent game servers which radically reduce engineering and operational costs for board games.
 * [Official Website](https://www.adama-platform.com): https://www.adama-platform.com
 * [Repository](https://github.com/mathgladiator/adama-lang): https://github.com/mathgladiator/adama-lang
+
+### [Adept](https://github.com/AdeptLanguage/Adept)
+A blazing fast language for general purpose programming.
+* [Repository](https://github.com/AdeptLanguage/Adept): https://github.com/AdeptLanguage/Adept
 
 ### [Agda](https://wiki.portal.chalmers.se/agda/Main/HomePage)
 Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
@@ -1204,6 +1207,11 @@ Logica extends syntax of logic programming for intuitive and efficient data mani
 * [Official Website](https://logica.dev): https://logica.dev
 * [Repository](https://github.com/evgskv/logica): https://github.com/evgskv/logica
 
+### [Logo](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
+The Logo Programming Language, a dialect of Lisp, was designed as a tool for learning. Its features - interactivity, modularity, extensibility, flexibility of data types - follow from this goal.
+* [Official Website](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html): https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
+
+
 ### [Lojban](https://mw.lojban.org/papri/Lojban)
 Lojban is a carefully constructed spoken language. It has been built for over 50 years by dozens of workers and hundreds of supporters.
 
@@ -1930,6 +1938,10 @@ TOML aims to be a minimal configuration file format that's easy to read due to o
 a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment to write fast code at higher productivity than CUDA, but also with higher flexibility than other existing DSLs.
 * [Official Website](https://triton-lang.org/main/index.html): https://triton-lang.org/main/index.html
 * [Repository](https://github.com/openai/triton): https://github.com/openai/triton
+
+### [Tu](https://github.com/tu-lang/tu)
+Tu lang is a programming language designed to create a very simple zero dependency (no glibc) dynamic&static language with fully static linking.
+* [Repository](https://github.com/tu-lang/tu): https://github.com/tu-lang/tu
 
 ### [TypeScript](https://www.typescriptlang.org)
 TypeScript is JavaScript with syntax for types.
