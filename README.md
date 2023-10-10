@@ -272,6 +272,10 @@ CakeML is a functional programming language and an ecosystem of proofs and tools
 A sweet, functional programming language that is robust, minimalistic, and expressive.
 * [Repository](https://github.com/candy-lang/candy): https://github.com/candy-lang/candy
 
+### [Capy](https://github.com/capy-language/capy)
+A statically typed, compiled programming language, largely inspired by Jai, Odin, and Zig. It even has arbitrary compile-time evaluation!
+* [Repository](https://github.com/capy-language/capy): https://github.com/capy-language/capy
+
 ### [Carbon](https://github.com/carbon-language/carbon-lang/blob/trunk/README.md)
 Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers.
 * [Repository](https://github.com/carbon-language/carbon-lang): https://github.com/carbon-language/carbon-lang
@@ -859,6 +863,11 @@ Gren is a functional programming language with carefully managed side-effects an
 Programs written in Gren are simple, have few or no runtime exceptions and are fun to work with.
 * [Official Website](https://gren-lang.org): https://gren-lang.org
 * [Repository](https://github.com/gren-lang/compiler): https://github.com/gren-lang/compiler
+
+### [Grimoire](https://enalye.github.io/grimoire)
+Grimoire is a simple and fast concurrent programming language that can easily be embedded into another D programs. You can very easily interface your program with Grimoire's scripts.
+* [Official Website](https://enalye.github.io/grimoire): https://enalye.github.io/grimoire
+* [Repository](https://github.com/Enalye/grimoire): https://github.com/Enalye/grimoire
 
 ### [Groovy](https://www.groovy-lang.org)
 Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
@@ -1778,6 +1787,16 @@ Scheme is a classic programming language in the Lisp family. It emphasizes funct
 ### [Scratch](https://www.media.mit.edu/projects/scratch/overview)
 Scratch is the world's most popular coding community for kids. Millions of kids around the world are using Scratch to program their own interactive stories, games, and animations—and share their creations in an active online community. In the process, they are learning to think creatively, reason systematically, and work collaboratively, while also learning important mathematical and computational ideas. In the past year, more than 20 million people created projects with Scratch.
 * [Official Website](https://www.media.mit.edu/projects/scratch/overview): https://www.media.mit.edu/projects/scratch/overview
+
+### [Shard](https://shardlang.org)
+Shard is an assembly inspired programming language, focusing on:
+* **Unstructured Programming**- Like in assembly the code is executed in sequence and forgetting to return will cause the program to continue executing the next instruction.
+* **Freedom** - Memory, Syscalls, Registers, labels, and jumps are all exposed to the programmer. Allowing for fine grained control over the program.
+* **Operator Oriented Syntax** - Most functions of the language are shortened to a single symbol, keywords and directives are all 3 characters.
+* **Type Simplicity** - There’s three types: struct, data, and pointer. You also aren’t limited by having to cast between types, you can just use the type as if it were another. The types are there for you not the compiler.
+---
+* [Official Website](https://shardlang.org): https://shardlang.org
+* [Repository](https://github.com/shard-org/shard): https://github.com/shard-org/shard
 
 ### [Shen](https://shenlanguage.org)
 Our mission is to bring the power of Shen technology to every major programming platform used by industry and deliver to programmers the great power of Shen.
