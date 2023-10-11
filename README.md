@@ -1580,6 +1580,10 @@ POWER-KI (PWK) is a programming language that implements the Software Plastic Ar
 * [Official Website](http://www.power-ki.com): http://www.power-ki.com
 * [Repository](https://github.com/POWER-KI/POWER-KI): https://github.com/POWER-KI/POWER-KI
 
+### [Power Query M](https://learn.microsoft.com/en-us/powerquery-m)
+Microsoft Power Query provides a powerful data import experience that encompasses many features. Power Query works with Analysis Services, Excel, and Power BI workbooks. A core capability of Power Query is to filter and combine, that is, to mash-up data from one or more of a rich collection of supported data sources. Any such data mashup is expressed using the Power Query M formula language. It's a functional, case sensitive language similar to F#.
+* [Repository](https://learn.microsoft.com/en-us/powerquery-m): https://learn.microsoft.com/en-us/powerquery-m
+
 ### [Prajna](https://github.com/prajna-lang/prajna)
 a program language for AI infrastructure.
 * [Repository](https://github.com/prajna-lang/prajna): https://github.com/prajna-lang/prajna
@@ -1848,6 +1852,10 @@ Smithy is a language for defining services and SDKs.
 * [Official Website](https://smithy.io): https://smithy.io
 * [Repository](https://github.com/smithy-lang/smithy): https://github.com/smithy-lang/smithy
 
+### [Snapi](https://github.com/raw-labs/snapi)
+Snapi is new a data manipulation language designed to filter and combine data from many data sources in real-time. It has a rich built-in library with ready-to-use connectors to the most common data formats, data lakes and databases.
+* [Repository](https://github.com/raw-labs/snapi): https://github.com/raw-labs/snapi
+
 ### [Solidity](https://soliditylang.org)
 A statically-typed curly-braces programming language designed for developing smart contracts that run on [Ethereum](https://ethereum.org/en/).
 * [Official Website](https://soliditylang.org): https://soliditylang.org
@@ -1862,6 +1870,9 @@ Som is functional programming made simple. It offers everything the casual funct
 Spice is a compiled language which sets a focus on performance and practicality. It is considered as a systems language, which means it is especially useful to write cli tools or device drivers. Spice supports cross-compilation to all target platforms.
 * [Official Website](https://www.spicelang.com): https://www.spicelang.com
 * [Repository](https://github.com/spicelang/spice): https://github.com/spicelang/spice
+
+### [SQL](https://en.wikipedia.org/wiki/SQL)
+SQL (short for Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational databases.
 
 ### [Stylus](https://stylus-lang.com)
 Expressive, dynamic, and robust CSS.
