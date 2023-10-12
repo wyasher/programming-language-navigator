@@ -8,6 +8,11 @@ Three Body Language written in Rust.
 * [Official Website](https://rustq.github.io/3body-lang): https://rustq.github.io/3body-lang
 * [Repository](https://github.com/rustq/3body-lang): https://github.com/rustq/3body-lang
 
+### [ACT](https://avlsi.csl.yale.edu/act)
+This is the implementation of the ACT hardware description language, and some of the core tools. (ACT = asynchronous circuit/compiler tools).
+* [Official Website](https://avlsi.csl.yale.edu/act): https://avlsi.csl.yale.edu/act
+* [Repository](https://github.com/rustq/3body-lang): https://github.com/rustq/3body-lang
+
 ### [Acton](https://www.acton-lang.org)
 Acton is a general purpose programming language, designed to be useful for a wide range of applications, from desktop applications to embedded and distributed systems. In a first approximation Acton can be described as a seamless addition of a powerful new construct to an existing language: Acton adds actors to Python.
 
@@ -1318,6 +1323,10 @@ Mojo combines the usability of Python with the performance of C, unlocking unpar
 * [Official Website](https://www.modular.com/mojo): https://www.modular.com/mojo
 * [Repository](https://github.com/modularml/mojo): https://github.com/modularml/mojo
 
+### [morloc](https://github.com/morloc-project/morloc)
+morloc is a functional programming language where functions are imported from foreign languages and unified under a common type system. The compiler generates the code needed to compose functions across languages and also to direct automation of mundane tasks such as data validation, type/format conversions, data caching, distributed computing, and file reading/writing. The endgame is to develop morloc into a query language that returns optimized programs from an infinite library of functions and compositions of functions.
+* [Repository](https://github.com/morloc-project/morloc): https://github.com/morloc-project/morloc
+
 ### [Motion](https://github.com/MotionLang/motion)
 Motion is a dynamically typed general purpose programming language designed to help developers write fast, clean, and efficient code for a modern world.
 
@@ -2140,6 +2149,21 @@ A manual memory managed, compiled to C99.
 programming language with off-side rule syntax.
 * [Official Website](https://yakshalang.github.io): https://yakshalang.github.io
 * [Repository](https://github.com/YakshaLang/Yaksha): https://github.com/YakshaLang/Yaksha
+
+### [Za](https://zalang.org)
+Za is a scripting language intended to perform system administration tasks.
+It can act as a control mechanism for Bash or other similarly-behaved shells.
+
+Za comes with a small function library built-in for avoiding overly arcane
+means of performing simple shell tasks.
+
+Za has a only a small set of dependencies which are most likely already installed
+on your target platforms.
+
+Za is designed to inter-operate with the shell efficiently. Use cases are lightweight
+scripting, integration, system preparation and similar system administrator tasks.
+* [Official Website](https://github.com/dhorsley/za): https://github.com/dhorsley/za
+* [Repository](https://zalang.org): https://zalang.org
 
 ### [Zenroom](https://dev.zenroom.org)
 Smart-contracts in human-like language.
