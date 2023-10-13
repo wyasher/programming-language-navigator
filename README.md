@@ -515,6 +515,13 @@ CVXPY is a Python-embedded modeling language for convex optimization problems. I
 * [Official Website](https://www.cvxpy.org): https://www.cvxpy.org
 * [Repository](https://github.com/cvxpy/cvxpy): https://github.com/cvxpy/cvxpy
 
+### [Cypher](https://opencypher.org)
+openCypher is an open source implementation of Cypher® - the most widely adopted, fully-specified, and open query language for property graph databases. Cypher was developed by Neo4j®.
+
+Cypher provides an intuitive way to work with property graphs today and is the best on-ramp to the graph query language (GQL) standard being developed by ISO.
+* [Official Website](https://opencypher.org): https://opencypher.org
+* [Repository](https://github.com/opencypher/openCypher): https://github.com/opencypher/openCypher
+
 ### [C++](https://cplusplus.com)
 C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; modern C++ currently has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.
 * [Official Website](https://cplusplus.com): https://cplusplus.com
@@ -851,6 +858,11 @@ Grain is a new language that puts academic language features to work.
 Grain is a new programming language that compiles to WebAssembly via Binaryen.
 * [Official Website](https://grain-lang.org): https://grain-lang.org
 * [Repository](https://github.com/grain-lang/grain): https://github.com/grain-lang/grain
+
+### [GraphQXL](https://gabotechs.github.io/graphqxl)
+GraphQXL is a new language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas. This repository contains the source code for the GraphQXL compiler.
+* [Official Website](https://gabotechs.github.io/graphqxl): https://gabotechs.github.io/graphqxl
+* [Repository](https://github.com/gabotechs/graphqxl): https://github.com/gabotechs/graphqxl
 
 ### [Gravity](https://marcobambini.github.io/gravity)
 Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
@@ -1755,6 +1767,11 @@ Rust’s rich type system and ownership model guarantee memory-safety and thread
 Rust has great documentation, a friendly compiler with useful error messages, and top-notch tooling — an integrated package manager and build tool, smart multi-editor support with auto-completion and type inspections, an auto-formatter, and more.
 * [Official Website](https://www.rust-lang.org): https://www.rust-lang.org
 * [Repository](https://github.com/rust-lang/rust): https://github.com/rust-lang/rust
+
+### [RustPython](https://rustpython.github.io)
+RustPython is a Python interpreter written in Rust. RustPython can be embedded into Rust programs to use Python as a scripting language for your application, or it can be compiled to WebAssembly in order to run Python in the browser. RustPython is free and open-source under the MIT license.
+* [Official Website](https://rustpython.github.io): https://rustpython.github.io
+* [Repository](https://github.com/RustPython/RustPython): https://github.com/RustPython/RustPython
 
 ### [R#](http://r_lang.dev.smrucc.org)
 R# is a language and environment for GCModeller scripting and data science chart plot graphics. It is an Open source project which is similar to the R language and environment which was developed at R&D laboratory from BioNovogene corporation by Xie.Guigang. The R# language its language syntax is derived from the R language, and R# can be considered as a part of implementation of R on Microsoft .NET Framework environment. Although there are too many important differences between R# and R, but much code written for R could runs unaltered under R#.
