@@ -475,11 +475,6 @@ Crumb is a high level, functional, interpreted, dynamically typed, general-purpo
 ---
 * [Repository](https://github.com/liam-ilan/crumb): https://github.com/liam-ilan/crumb
 
-### [Csq](https://csqlang.github.io)
-Csq is a high level programming language which is inspired by the speed of C++ and productivity of Python.
-* [Official Website](https://csqlang.github.io): https://csqlang.github.io
-* [Repository](https://github.com/CsqLang/Csq4): https://github.com/CsqLang/Csq4
-
 ### [CSML](https://www.csml.dev)
 CSML helps chatbot development teams build truly intelligent, maintainable and scalable chatbots, integrated with your favorite apps, on any channel, with full control over your source code.
 * [Official Website](https://www.csml.dev): https://www.csml.dev
@@ -488,6 +483,16 @@ CSML helps chatbot development teams build truly intelligent, maintainable and s
 ### [CSpydr](https://github.com/Spydr06/CSpydr)
 CSpydr is a low-level, static typed, free and open-source, compiled programming language inspired by Rust and C. This repository contains cspc (the CSpydr Programming Language Compiler), as well as CSpydr's Standard Library, a code-linting utility, some code examples and unit tests.
 * [Repository](https://github.com/CSML-by-Clevy/csml-engine): https://github.com/CSML-by-Clevy/csml-engine
+
+### [Csq](https://csqlang.github.io)
+Csq is a high level programming language which is inspired by the speed of C++ and productivity of Python.
+* [Official Website](https://csqlang.github.io): https://csqlang.github.io
+* [Repository](https://github.com/CsqLang/Csq4): https://github.com/CsqLang/Csq4
+
+### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
+* [Official Website](https://developer.mozilla.org/en-US/docs/Web/CSS): https://developer.mozilla.org/en-US/docs/Web/CSS
+
 
 ### [CUE](https://cuelang.org)
 Configure, Unify, Execute
@@ -974,6 +979,10 @@ Horse64 is a high-level language that combines readability, clean dynamic typing
 * [Official Website](https://horse64.org): https://horse64.org
 * [Repository](https://codeberg.org/Horse64/core.horse64.org): https://codeberg.org/Horse64/core.horse64.org
 
+### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
+* [Official Website](https://developer.mozilla.org/en-US/docs/Web/HTML): https://developer.mozilla.org/en-US/docs/Web/HTML
+
 ### [Huff](https://huff.sh)
 Huff is a low-level programming language designed for developing highly optimized smart contracts that run on the Ethereum Virtual Machine (EVM). Huff does not hide the inner workings of the EVM. Instead, Huff exposes its programming stack to the developer for manual manipulation.
 
@@ -1339,6 +1348,10 @@ Mojo combines the usability of Python with the performance of C, unlocking unpar
 morloc is a functional programming language where functions are imported from foreign languages and unified under a common type system. The compiler generates the code needed to compose functions across languages and also to direct automation of mundane tasks such as data validation, type/format conversions, data caching, distributed computing, and file reading/writing. The endgame is to develop morloc into a query language that returns optimized programs from an infinite library of functions and compositions of functions.
 * [Repository](https://github.com/morloc-project/morloc): https://github.com/morloc-project/morloc
 
+### [Moshell](https://github.com/moshell-lang/moshell)
+Moshell is a modern shell scripting language with a static type system. This repository hosts the source code from the parser to the interpreter and its standard library.
+* [Repository](https://github.com/moshell-lang/moshell): https://github.com/moshell-lang/moshell
+
 ### [Motion](https://github.com/MotionLang/motion)
 Motion is a dynamically typed general purpose programming language designed to help developers write fast, clean, and efficient code for a modern world.
 
@@ -1623,6 +1636,16 @@ Pyret is a programming language designed to serve as an outstanding choice for p
 Python is a programming language that lets you work quickly and integrate systems more effectively.
 * [Official Website](https://www.python.org): https://www.python.org
 * [Repository](https://github.com/python/cpython): https://github.com/python/cpython
+
+### [Qore](http://qore.org)
+Qore is an interpreted scripting language designed for enterprise use with:
+* multithreading and thread-safe programming
+* optional strong typing and exception handling
+* code embedding and sandboxing controls
+* automatic memory management and c++-style destructors
+---
+* [Official Website](http://qore.org): http://qore.org
+* [Repository](https://github.com/qorelanguage/qore): https://github.com/qorelanguage/qore
 
 ### [R](https://www.r-project.org)
 R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
