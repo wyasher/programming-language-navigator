@@ -1144,6 +1144,10 @@ KDL is a document language with xml-like semantics that looks like you're invoki
 * [Official Website](https://kdl.dev): https://kdl.dev
 * [Repository](https://github.com/kdl-org/kdl): https://github.com/kdl-org/kdl
 
+### [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
+Kestrel is a threat hunting language aiming to make cyber threat hunting fast by providing a layer of abstraction to build reusable, composable, and shareable hunt-flow.
+* [Repository](https://github.com/opencybersecurityalliance/kestrel-lang): https://github.com/opencybersecurityalliance/kestrel-lang
+
 ### [Ki](https://ki-lang.dev)
 ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
 * [Official Website](https://ki-lang.dev): https://ki-lang.dev
@@ -1310,6 +1314,11 @@ Millions of engineers and scientists worldwide use MATLAB® to analyze and desig
 
 MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets, and scale up to clusters and clouds. MATLAB code can be integrated with other languages, enabling you to deploy algorithms and applications within web, enterprise, and production systems.
 * [Official Website](https://www.mathworks.com/help/matlab): https://www.mathworks.com/help/matlab
+
+### [Mech](https://mech-lang.org)
+Mech is a language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your project.
+* [Official Website](https://mech-lang.org): https://mech-lang.org
+* [Repository](https://github.com/mech-lang/mech): https://github.com/mech-lang/mech
 
 ### [Melang](https://melang.org)
 Melang is a script Language of preemptive scheduling coroutine in single thread or multi-thread. It is only support on UNIX/Linux.
@@ -1762,6 +1771,10 @@ Like Lua, Roc's automatic memory management doesn't require a virtual machine, a
 Rockstar is a dynamically typed computer programming language, designed for creating programs that are also song lyrics. Rockstar is heavily influenced by the lyrical conventions of 1980s hard rock and power ballads.
 * [Official Website](https://codewithrockstar.com): https://codewithrockstar.com
 * [Repository]https://github.com/RockstarLang/rockstar): https://github.com/RockstarLang/rockstar
+
+### [Rogue](https://github.com/brombres/Rogue)
+Rogue programming language. Ergonomic, object-oriented, high-level, multi-platform, compiles to C.
+* [Repository](https://github.com/brombres/Rogue): https://github.com/brombres/Rogue
 
 ### [RowScript](https://rowscript-lang.org)
 RowScript is a robustly-typed functional language that compiles to efficient and reliable JavaScript.
