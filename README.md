@@ -503,6 +503,11 @@ It is a superset of JSON, allowing users familiar with JSON to get started quick
 * [Official Website](https://cuelang.org): https://cuelang.org
 * [Repository](https://github.com/cue-lang/cue): https://github.com/cue-lang/cue
 
+### [Curry](https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org)
+Curry is a declarative multi-paradigm programming language which combines in a seamless way features from functional programming (nested expressions, higher-order functions, strong typing, lazy evaluation) and logic programming (non-determinism, built-in search, free variables, partial data structures). Compared to the single programming paradigms, Curry provides additional features, like optimal evaluation for logic-oriented computations and flexible, non-deterministic pattern matching with user-defined functions.
+* [Official Website](https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org): https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org
+* [Repository](https://github.com/curry-language): https://github.com/curry-language
+
 ### [Curv](https://github.com/curv3d/curv)
 Curv is a programming language for creating art using mathematics. It's a 2D and 3D geometric modelling tool that supports full colour, animation and 3D printing.
 Features:
@@ -1090,6 +1095,10 @@ Java is a programming language and computing platform first released by Sun Micr
 JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
+
+### [Jinko](https://github.com/jinko-core/jinko)
+jinko is a small and safe interpreted language written in Rust, with integrated unit tests, mocking and FFI.
+* [Repository](https://github.com/jinko-core/jinko): https://github.com/jinko-core/jinko
 
 ### [Jsonnet](https://jsonnet.org)
 A configuration language for app and tool developers
@@ -2149,6 +2158,11 @@ Wasp (Web Application Specification) is a Rails-like framework for React, Node.j
 ---
 * [Official Website](https://wasp-lang.dev): https://wasp-lang.dev
 * [Repository](https://github.com/wasp-lang/wasp): https://github.com/wasp-lang/wasp
+
+### [WebX](https://web-x.net)
+A framework for building minimal but powerful web app backends, REST APIs, and hypermedia systems.
+* [Official Website](https://web-x.net): https://web-x.net
+* [Repository](https://github.com/webx-net/webx): https://github.com/webx-net/webx
 
 ### [wenyan](https://wy-lang.org)
 文言, or wenyan, is an esoteric programming language that closely follows the grammar and tone of classical Chinese literature. Moreover, the alphabet of wenyan contains only traditional Chinese characters and 「」 quotes, so it is guaranteed to be readable by ancient Chinese people.
