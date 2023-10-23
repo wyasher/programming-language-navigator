@@ -508,6 +508,11 @@ It is a superset of JSON, allowing users familiar with JSON to get started quick
 * [Official Website](https://cuelang.org): https://cuelang.org
 * [Repository](https://github.com/cue-lang/cue): https://github.com/cue-lang/cue
 
+### [Curry](https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org)
+Curry is a declarative multi-paradigm programming language which combines in a seamless way features from functional programming (nested expressions, higher-order functions, strong typing, lazy evaluation) and logic programming (non-determinism, built-in search, free variables, partial data structures). Compared to the single programming paradigms, Curry provides additional features, like optimal evaluation for logic-oriented computations and flexible, non-deterministic pattern matching with user-defined functions.
+* [Official Website](https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org): https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org
+* [Repository](https://github.com/curry-language): https://github.com/curry-language
+
 ### [Curv](https://github.com/curv3d/curv)
 Curv is a programming language for creating art using mathematics. It's a 2D and 3D geometric modelling tool that supports full colour, animation and 3D printing.
 Features:
@@ -1096,6 +1101,10 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 * [Official Website](https://developer.mozilla.org/en-US/docs/Web/JavaScript): https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * [Repository](https://chromium.googlesource.com/v8/v8.git): https://chromium.googlesource.com/v8/v8.git
 
+### [Jinko](https://github.com/jinko-core/jinko)
+jinko is a small and safe interpreted language written in Rust, with integrated unit tests, mocking and FFI.
+* [Repository](https://github.com/jinko-core/jinko): https://github.com/jinko-core/jinko
+
 ### [Jsonnet](https://jsonnet.org)
 A configuration language for app and tool developers
 * Generate config data
@@ -1148,6 +1157,10 @@ KCL is an open-source, constraint-based record and functional language that enha
 KDL is a document language with xml-like semantics that looks like you're invoking a bunch of CLI commands! It's meant to be used both as a serialization format and a configuration language, much like JSON, YAML, or XML.
 * [Official Website](https://kdl.dev): https://kdl.dev
 * [Repository](https://github.com/kdl-org/kdl): https://github.com/kdl-org/kdl
+
+### [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
+Kestrel is a threat hunting language aiming to make cyber threat hunting fast by providing a layer of abstraction to build reusable, composable, and shareable hunt-flow.
+* [Repository](https://github.com/opencybersecurityalliance/kestrel-lang): https://github.com/opencybersecurityalliance/kestrel-lang
 
 ### [Ki](https://ki-lang.dev)
 ki is a type safe compiled language designed to be fast and easy to use. It does not have any garbage collection and instead uses ownership combined with minimal ref counting to manage memory. Alternatively you can manage your own memory using 'struct' instead of 'class'. We also allow you to compile from any platform to any platform out-of-the-box. We have generics. We have 'null' but runtime null errors do not exist. We have an awesome way to return/handle errors. Our compile times are much faster than other language (and we havent optimized it yet). We use LLVM as a back-end, so all your release code will be super optimized. We are also working on a fast/simple/versioned package manager.
@@ -1315,6 +1328,11 @@ Millions of engineers and scientists worldwide use MATLAB® to analyze and desig
 
 MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets, and scale up to clusters and clouds. MATLAB code can be integrated with other languages, enabling you to deploy algorithms and applications within web, enterprise, and production systems.
 * [Official Website](https://www.mathworks.com/help/matlab): https://www.mathworks.com/help/matlab
+
+### [Mech](https://mech-lang.org)
+Mech is a language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your project.
+* [Official Website](https://mech-lang.org): https://mech-lang.org
+* [Repository](https://github.com/mech-lang/mech): https://github.com/mech-lang/mech
 
 ### [Melang](https://melang.org)
 Melang is a script Language of preemptive scheduling coroutine in single thread or multi-thread. It is only support on UNIX/Linux.
@@ -1768,6 +1786,10 @@ Rockstar is a dynamically typed computer programming language, designed for crea
 * [Official Website](https://codewithrockstar.com): https://codewithrockstar.com
 * [Repository]https://github.com/RockstarLang/rockstar): https://github.com/RockstarLang/rockstar
 
+### [Rogue](https://github.com/brombres/Rogue)
+Rogue programming language. Ergonomic, object-oriented, high-level, multi-platform, compiles to C.
+* [Repository](https://github.com/brombres/Rogue): https://github.com/brombres/Rogue
+
 ### [RowScript](https://rowscript-lang.org)
 RowScript is a robustly-typed functional language that compiles to efficient and reliable JavaScript.
 
@@ -2153,6 +2175,11 @@ Wasp (Web Application Specification) is a Rails-like framework for React, Node.j
 ---
 * [Official Website](https://wasp-lang.dev): https://wasp-lang.dev
 * [Repository](https://github.com/wasp-lang/wasp): https://github.com/wasp-lang/wasp
+
+### [WebX](https://web-x.net)
+A framework for building minimal but powerful web app backends, REST APIs, and hypermedia systems.
+* [Official Website](https://web-x.net): https://web-x.net
+* [Repository](https://github.com/webx-net/webx): https://github.com/webx-net/webx
 
 ### [wenyan](https://wy-lang.org)
 文言, or wenyan, is an esoteric programming language that closely follows the grammar and tone of classical Chinese literature. Moreover, the alphabet of wenyan contains only traditional Chinese characters and 「」 quotes, so it is guaranteed to be readable by ancient Chinese people.
