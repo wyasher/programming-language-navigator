@@ -379,6 +379,11 @@ Clio is a functional, distributed programming language that compiles to JavaScri
 * [Official Website](https://clio-lang.org): https://clio-lang.org
 * [Repository](https://github.com/clio-lang/clio): https://github.com/clio-lang/clio
 
+### [Coalton](https://coalton-lang.github.io)
+Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
+* [Official Website](https://coalton-lang.github.io): https://coalton-lang.github.io
+* [Repository](https://github.com/coalton-lang/coalton): https://github.com/coalton-lang/coalton
+
 ### [CodePortal](https://codeportal.io)
 CodePortal is an open-source full-stack, AI-first, web-based programming platform with the primary goal of improving the way in which we build software. With CodePortal you can create, edit and publish web-apps, widgets, and APIs in a simple and intuitive editor. All without installing or configuring anything.
 * [Official Website](https://codeportal.io): https://codeportal.io
@@ -1796,6 +1801,13 @@ RustPython is a Python interpreter written in Rust. RustPython can be embedded i
 * [Official Website](https://rustpython.github.io): https://rustpython.github.io
 * [Repository](https://github.com/RustPython/RustPython): https://github.com/RustPython/RustPython
 
+### [Rye](https://ryelang.org)
+Rye is a human centric, high level, dynamic programming language based on ideas from Rebol, flavored by Factor, Linux shells and Golang. It's still an experiment in language design, but it should slowly become more and more useful in real world.
+
+It features a Golang based interpreter and console and could also be seen as (modest) Golang's scripting companion as Go's libraries are quite easy to integrate.
+* [Official Website](https://ryelang.org): https://ryelang.org
+* [Repository](https://github.com/refaktor/rye): https://github.com/refaktor/rye
+
 ### [R#](http://r_lang.dev.smrucc.org)
 R# is a language and environment for GCModeller scripting and data science chart plot graphics. It is an Open source project which is similar to the R language and environment which was developed at R&D laboratory from BioNovogene corporation by Xie.Guigang. The R# language its language syntax is derived from the R language, and R# can be considered as a part of implementation of R on Microsoft .NET Framework environment. Although there are too many important differences between R# and R, but much code written for R could runs unaltered under R#.
 
@@ -2083,6 +2095,11 @@ Vale is a programming language that's aims to be not only fast and memory-safe, 
 ---
 * [Official Website](https://vale.dev): https://vale.dev
 * [Repository](https://github.com/ValeLang/Vale): https://github.com/ValeLang/Vale
+
+### [Vein](https://vein-lang.org)
+Vein is an open source experimental high-level strictly-typed programming language with a standalone OS, arm and quantum computing support.
+* [Official Website](https://vein-lang.org): https://vein-lang.org
+* [Repository](https://github.com/vein-lang/vein): https://github.com/vein-lang/vein
 
 ### [Virgil](https://github.com/titzer/virgil)
 Virgil is a programming language designed for building lightweight high-performance systems. Its design blends functional and object-oriented programming paradigms for expressiveness and performance. Virgil's compiler produces optimized, standalone native executables, WebAssembly modules, or JARs for the JVM. For quick turnaround in testing and debugging, programs can also be run directly on a built-in interpreter. It is well-suited to writing small and fast programs with little or no dependencies, which makes it ideal for the lowest level of software systems. On native targets, it includes features that allow building systems that talk directly to kernels, dynamically generate machine code, implement garbage collection, etc. It is currently being used for virtual machine and programming language research, in particular the development of a next-generation WebAssembly virtual machine, Wizard.
