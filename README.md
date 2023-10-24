@@ -1482,6 +1482,11 @@ Objeck is a modern object-oriented programming language with functional features
 Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime. Objective-C inherits the syntax, primitive types, and flow control statements of C and adds syntax for defining classes and methods. It also adds language-level support for object graph management and object literals while providing dynamic typing and binding, deferring many responsibilities until runtime.
 * [Official Website](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html): https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
+### [Objective-J](https://www.cappuccino.dev/learn/objective-j.html)
+Objective-J is a new programming language based on Objective-C. It is a superset of JavaScript, which means that any valid JavaScript code is also valid Objective-J code. Anyone familiar with JavaScript and object-oriented programming concepts, classical inheritance in particular, should have no difficulty learning Objective-J. Familiarity with Objective-C will be helpful, but it is not required.
+* [Official Website](https://www.cappuccino.dev/learn/objective-j.html): https://www.cappuccino.dev/learn/objective-j.html
+* [Repository](https://github.com/cappuccino/cappuccino): https://github.com/cappuccino/cappuccino
+
 ### [OCaml](https://ocaml.org)
 An industrial-strength functional programming language with an emphasis on expressiveness and safety.
 * [Official Website](https://ocaml.org): https://ocaml.org
