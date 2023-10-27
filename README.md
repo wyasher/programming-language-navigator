@@ -1344,6 +1344,11 @@ Melody is a language that compiles to regular expressions and aims to be more ea
 * [Official Website](https://yoav-lavi.github.io/melody/book): https://yoav-lavi.github.io/melody/book
 * [Repository](https://github.com/yoav-lavi/melody): https://github.com/yoav-lavi/melody
 
+### [Mercury](https://www.timohoogland.com/mercury-livecoding)
+A minimal and human-readable language for the live coding of algorithmic electronic audiovisual performances.
+* [Official Website](https://www.timohoogland.com/mercury-livecoding): https://www.timohoogland.com/mercury-livecoding
+* [Repository](https://github.com/tmhglnd/mercury): https://github.com/tmhglnd/mercury
+
 ### [Milone](https://github.com/vain0x/milone-lang)
 The Milone language is an F#-subset programming language.
 * [Repository](https://github.com/vain0x/milone-lang): https://github.com/vain0x/milone-lang
@@ -1879,6 +1884,11 @@ Scheme is a classic programming language in the Lisp family. It emphasizes funct
 ### [Scratch](https://www.media.mit.edu/projects/scratch/overview)
 Scratch is the world's most popular coding community for kids. Millions of kids around the world are using Scratch to program their own interactive stories, games, and animations—and share their creations in an active online community. In the process, they are learning to think creatively, reason systematically, and work collaboratively, while also learning important mathematical and computational ideas. In the past year, more than 20 million people created projects with Scratch.
 * [Official Website](https://www.media.mit.edu/projects/scratch/overview): https://www.media.mit.edu/projects/scratch/overview
+
+### [Shake](https://shakelang.github.io)
+Shake is a high level, object-oriented, multi-targeting, modern programming language. It can be compiled into different languages (targets), such as C, C++, C#, Java, JavaScript and binary executables as well as interpreted (currently the only implemented target is JavaScript). It also provides a scripting language for faster and more efficient creation of small projects.
+* [Official Website](https://shakelang.github.io): https://shakelang.github.io
+* [Repository](https://github.com/shakelang/shake): https://github.com/shakelang/shake
 
 ### [Shard](https://shardlang.org)
 Shard is an assembly inspired programming language, focusing on:
