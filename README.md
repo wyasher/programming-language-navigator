@@ -115,6 +115,11 @@ ArkTS is the application development language for Harmony Ecology. On the basis 
 * [Official Website](https://developer.harmonyos.com/cn/develop/arkts): https://developer.harmonyos.com/cn/develop/arkts
 * [Repository](https://gitee.com/openharmony/docs): https://gitee.com/openharmony/docs
 
+### [Artichoke](https://www.artichokeruby.org)
+Artichoke is a Ruby implementation written in Rust and Ruby. Artichoke intends to be MRI-compatible and targets recent MRI Ruby. Artichoke provides a Ruby runtime implemented in Rust and Ruby.
+[Official Website](https://www.artichokeruby.org): https://www.artichokeruby.org
+* [Repository](https://github.com/artichoke/artichoke): https://github.com/artichoke/artichoke
+
 ### [Arturo](https://arturo-lang.io)
 Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to: Logo, Rebol, Forth, Ruby, Haskell, D, Smalltalk, Tcl, and Lisp.
 
@@ -1539,6 +1544,11 @@ The main purpose of the OpenTofu language is declaring resources, which represen
 * [Official Website](https://opentofu.org/docs/language): https://opentofu.org/docs/language
 * [Repository](https://github.com/opentofu/opentofu): https://github.com/opentofu/opentofu
 
+### [OpShin](https://opshin.opshin.dev/opshin)
+A simple pythonic programming language for Smart Contracts on Cardano.
+* [Official Website](https://opshin.opshin.dev/opshin): https://opshin.opshin.dev/opshin
+* [Repository](https://github.com/OpShin/opshin): https://github.com/OpShin/opshin
+
 ### [Pivot](https://lang.pivotstudio.cn)
 A Rust-like language with immix gc and other cool stuffs.
 * [Official Website](https://lang.pivotstudio.cn): https://lang.pivotstudio.cn
@@ -1920,6 +1930,10 @@ Shiika is a programming language that makes me most productive.
 Sidef is a modern, high-level, general-purpose programming language, inspired by Ruby, Raku and Julia.
 * [Official Website](https://tio.run/#sidef): https://tio.run/#sidef
 * [Repository](https://github.com/trizen/sidef): https://github.com/trizen/sidef
+
+### [Sigma](https://github.com/Goubermouche/sigma)
+Sigma is a compiled, statically typed, C-like, data oriented language with a focus on performance and low-level optimization using GPU acceleration via kernels.
+* [Repository](https://github.com/Goubermouche/sigma): https://github.com/Goubermouche/sigma
 
 ### [Silice](https://github.com/sylefeb/Silice)
 Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
