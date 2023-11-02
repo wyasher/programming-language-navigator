@@ -1549,6 +1549,11 @@ A simple pythonic programming language for Smart Contracts on Cardano.
 * [Official Website](https://opshin.opshin.dev/opshin): https://opshin.opshin.dev/opshin
 * [Repository](https://github.com/OpShin/opshin): https://github.com/OpShin/opshin
 
+### [PikaPython](http://pikapython.com)
+PikaPython is an ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C.
+* [Official Website](http://pikapython.com): http://pikapython.com
+* [Repository](https://github.com/pikasTech/PikaPython): https://github.com/pikasTech/PikaPython
+
 ### [Pivot](https://lang.pivotstudio.cn)
 A Rust-like language with immix gc and other cool stuffs.
 * [Official Website](https://lang.pivotstudio.cn): https://lang.pivotstudio.cn
@@ -1749,6 +1754,11 @@ Red is a next-gen programming language, strongly inspired by REBOL. Main feature
 * [Official Website](https://www.red-lang.org): https://www.red-lang.org
 * [Repository](https://github.com/red/red): https://github.com/red/red
 
+### [Redscript](https://wiki.redmodding.org/redscript)
+Redscript is an open-source programming language and toolset designed to work natively with Cyberpunk 2077's scripting runtime. Redscript allows modders to write scripts that extend many features such as user-interface, combat balance, and NPC behavior.
+* [Official Website](https://wiki.redmodding.org/redscript): https://wiki.redmodding.org/redscript
+* [Repository](https://github.com/jac3km4/redscript): https://github.com/jac3km4/redscript
+
 ### [REBOL](http://www.rebol.com)
 Rebol provides an easy-to-write, easy-to-read format and a wide variety of data-types for expressing data and code.
 * [Official Website](http://www.rebol.com): http://www.rebol.com
@@ -1947,11 +1957,11 @@ Silice offers a ready-to-go design environment, supporting many FPGA boards, bot
 Silice syntax is simple, explicit and easy to read, and should feel familiar to C programmers and Verilog designers alike.
 * [Repository](https://github.com/sylefeb/Silice): https://github.com/sylefeb/Silice
 
-### [Silver](https://melt.cs.umn.edu)
+### [Silver](https://melt.cs.umn.edu/silver)
 Silver is an extensible attribute grammar system that support many modern extensions to Knuth's original design. These include higher-order attributes, reference attributes, forwarding, aspects, and collections attributes. Its type system support parametric polymorphism. Silver is distributed with Copper, a parser and context-aware scanner generator.
 
 It is designed for the modular development of composable language extensions, with language features and analyses to support this.
-* [Official Website](https://melt.cs.umn.edu): https://melt.cs.umn.edu
+* [Official Website](https://melt.cs.umn.edu/silver): https://melt.cs.umn.edu/silver
 * [Repository](https://github.com/melt-umn/silver): https://github.com/melt-umn/silver
 
 ### [Slim](https://slim-template.github.io)
@@ -2167,6 +2177,11 @@ VisionScript is built in Python, offering a simple syntax for running object det
 Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
 * [Official Website](https://learn.microsoft.com/en-us/dotnet/visual-basic): https://learn.microsoft.com/en-us/dotnet/visual-basic
 * [Repository](https://github.com/dotnet/roslyn): https://github.com/dotnet/roslyn
+
+### [ViviFire](https://www.b6sw.com/ViviFire)
+ViviFire is a brand new open-source programming language with modern features and a familiar syntax. It offers object-oriented programming with genericity and traits, modularity, units of measure, and more.
+* [Official Website](https://www.b6sw.com/ViviFire): https://www.b6sw.com/ViviFire
+* [Repository](https://github.com/BrentDT/ViviFire): https://github.com/BrentDT/ViviFire
 
 ### [Void](https://voidlang.org)
 Void is a virtual-machine-based programing language designed for developers to be able to create clean, fast and stable multi-platform applications.
