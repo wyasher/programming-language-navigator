@@ -56,6 +56,11 @@ Alda is a text-based programming language for music composition. It allows you t
 * [Official Website](https://alda.io): https://alda.io
 * [Repository](https://github.com/alda-lang/alda): https://github.com/alda-lang/alda
 
+### [Alumina](https://docs.alumina-lang.net)
+Alumina is an imperative, general-purpose, statically typed, compiled system programming language. It is heavily inspired by Rust, but it keeps C-style manual memory management and memory unsafety.
+* [Official Website](https://docs.alumina-lang.net): https://docs.alumina-lang.net
+* [Repository](https://github.com/alumina-lang/alumina): https://github.com/alumina-lang/alumina
+
 ### [Amun](https://amun-lang.github.io/docs)
 A Statically typed, compiled general purpose low level programming language built using C++ and LLVM Infrastructure framework, the design was inspired from many programming languages with the goal to be simple and productive.
 * [Official Website](https://amun-lang.github.io/docs): https://amun-lang.github.io/docs
@@ -277,6 +282,30 @@ Cadence is a resource-oriented programming language that introduces new features
 CakeML is a functional programming language and an ecosystem of proofs and tools built around the language. The ecosystem includes a proven-correct compiler that can bootstrap itself.
 * [Official Website](https://cakeml.org): https://cakeml.org
 * [Repository](https://github.com/CakeML/cakeml): https://github.com/CakeML/cakeml
+
+### [Calcpad](https://calcpad.eu)
+Calcpad is free software for mathematical and engineering calculations. It represents a flexible and modern programmable calculator with Html report generator. It is simple and easy to use, but it also includes many advanced features:
+* real and complex numbers;
+* units of measurement (SI, Imperial and USCS);
+* custom variables and units;
+* built-in library with common math functions;
+* custom functions of multiple parameters f(x; y; z; ...);
+* powerful numerical methods for root and extremum finding, numerical integration and differentiation;
+* finite sum, product and iteration procedures;
+* modules, macros and string variables;
+* program flow control with conditions and loops;
+* "titles" and 'text' comments in quotes;
+* support for Html and CSS in comments for rich formatting;
+* function plotting, images, tables, parametric SVG drawings, etc.;
+* automatic generation of Html forms for data input;
+* professional looking Html reports for viewing and printing;
+* export to Word documents (*.docx) and PDF;
+* variable substitution and smart rounding of numbers;
+* output visibility control and content folding;
+* support for plain text (*.txt, *.cpd) and binary (*.cpdz) file formats.
+---
+* [Official Website](https://calcpad.eu): https://calcpad.eu
+* [Repository](https://github.com/Proektsoftbg/Calcpad): https://github.com/Proektsoftbg/Calcpad
 
 ### [Candy](https://github.com/candy-lang/candy)
 A sweet, functional programming language that is robust, minimalistic, and expressive.
@@ -883,6 +912,11 @@ Grain is a new programming language that compiles to WebAssembly via Binaryen.
 GraphQXL is a new language built on top of the GraphQL syntax that extends the original language with some additional features useful for creating scalable and big server side schemas. This repository contains the source code for the GraphQXL compiler.
 * [Official Website](https://gabotechs.github.io/graphqxl): https://gabotechs.github.io/graphqxl
 * [Repository](https://github.com/gabotechs/graphqxl): https://github.com/gabotechs/graphqxl
+
+### [Grapycal](https://eri24816.github.io/Grapycal)
+Grapycal is a graphical and interactive programming language. It allows users to manipulate and assemble programs by dragging and clicking blocks or graphs representing various built-in and custom Python functions.
+* [Official Website](https://eri24816.github.io/Grapycal): https://eri24816.github.io/Grapycal
+* [Repository](https://github.com/eri24816/Grapycal): https://github.com/eri24816/Grapycal
 
 ### [Gravity](https://marcobambini.github.io/gravity)
 Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
