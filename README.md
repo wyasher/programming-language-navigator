@@ -852,6 +852,11 @@ GDScript is entirely independent from Python and is not based on it.
 * [Official Website](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html): https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html
 * [Repository](https://github.com/godotengine/godot): https://github.com/godotengine/godot
 
+### [Gera](https://geralang.netlify.app)
+A procedural, statically typed, garbage collected programming language without type annotations.
+* [Official Website](https://geralang.netlify.app): https://geralang.netlify.app
+* [Repository](https://github.com/TypeSafeSchwalbe/gerac): https://github.com/TypeSafeSchwalbe/gerac
+
 ### [Gitql](https://github.com/filhodanuvem/gitql)
 A git query language.
 * [Repository](https://github.com/filhodanuvem/gitql): https://github.com/filhodanuvem/gitql
@@ -2297,6 +2302,12 @@ Think Smalltalk in a Lua-sized package with a dash of Erlang and wrapped up in a
 An expression oriented, gradually typed and mission-critical programming language.
 * [Official Website](https://wu-lang.gitbook.io/guide): https://wu-lang.gitbook.io/guide
 * [Repository](https://github.com/wu-lang/wu): https://github.com/wu-lang/wu
+
+### [Wybe](https://github.com/pschachte/wybe)
+The Wybe programming language is intended to be easy to learn and easy to use, but powerful and efficient enough for practical use. It is intended to support best programming practice, but not necessarily common practice.
+
+Wybe combines the best features of declarative and imperative languages, in particular borrowing features from functional, logic, imperative, and object-oriented languages, but does not neatly fit into any of these paradigms. Its main organising principle is interface integrity, which indicates that all information that flows between a procedure or function and its caller must be part of the interface (the signature) of that procedure or function. Semantically, values are immutable (Wybe has value semantics), but variables may be reassigned. This means that data structures may be passed around at will without worrying that they may be unexpectedly modified, yet conventional looping constructs can be used freely.
+* [Repository](https://github.com/pschachte/wybe): https://github.com/pschachte/wybe
 
 ### [Yak](https://www.yaklang.com)
 In order to improve the development process of security products and hacking tools, we have created a new language ( Yaklang) and implemented a stack-based virtual machine (YakVM) for this language.
