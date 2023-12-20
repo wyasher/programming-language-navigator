@@ -176,6 +176,18 @@ Flexible, Powerful, Beautiful Integrations as Code with Ballerina
 * [Official Website](https://ballerina.io): https://ballerina.io
 * [Repository](https://github.com/ballerina-platform/ballerina-lang): https://github.com/ballerina-platform/ballerina-lang
 
+### [BAML](https://docs.boundaryml.com)
+BAML (Basically a Made-up Language) is a Domain Specific Language (DSL) for building AI applications and interacting with LLMs and other AI models.
+
+Key Features of BAML:
+
+* Define LLM prompts as functions: Inputs and output types are clearly defined, allowing you to break down complex LLM prompts into smaller, more manageable tasks, and allowing you to query your data in more powerful ways.
+* Generate Python and TypeScript code: Run a BAML function in Python or typescript using our built-in code generator.
+* Invocation tracing and data querying/viewing: Enables monitoring and analysis of function calls.
+---
+* [Official Website](https://docs.boundaryml.com): https://docs.boundaryml.com
+* [Repository](https://github.com/GlooHQ/baml): https://github.com/GlooHQ/baml
+
 ### [Barn](https://barn-lang.github.io/barn-docs)
 Barn is a simple programming language written in GoLang and compiled to C. Syntax is very simple, and Barn can call C/C++ functions natively so creating new bindings should be easy. Barn was written with the goal of being as fast and easy to use as possible. Barn is just a little project with which I can chill and just code.
 * [Official Website](https://barn-lang.github.io/barn-docs): https://barn-lang.github.io/barn-docs
@@ -1110,6 +1122,11 @@ A Fast, Modern, Low-Level General-Purpose Programming Language
 Iridis is an innovative programming language designed to cater to the needs of various domains, such as computational physics, kernel development, and game development, while remaining versatile enough to be applicable in many other areas. This language is built from the ground up to offer blazing fast performance, a modern development experience, and low-level control, empowering programmers to tackle complex problems efficiently and effectively.
 * [Repository](https://github.com/Hachem-H/Iridis): https://github.com/Hachem-H/Iridis
 
+### [Jactl](https://jactl.io)
+Jactl is a powerful scripting language for Java-based applications whose syntax borrows from Java and Groovy, with a dash of Perl thrown in for good measure. See Jactl Language Features for a quick overview of some of the language features or Jactl Language Guide for a full description of the language.
+* [Official Website](https://jactl.io): https://jactl.io
+* [Repository](https://github.com/jaccomoc/jactl): https://github.com/jaccomoc/jactl
+
 ### [Jakt](https://github.com/SerenityOS/jakt)
 Jakt is a memory-safe systems programming language.
 
@@ -1508,6 +1525,11 @@ Statically typed programming language for the web.
 Novika is a moldable, concise, and expressive programming language in the spirit of Forth, Self, Red/Rebol, and Lisp.
 * [Official Website](https://novika-lang.github.io): https://novika-lang.github.io
 * [Repository](https://github.com/novika-lang/novika): https://github.com/novika-lang/novika
+
+### [NPL](https://paracraft.cn/Home)
+NPL or Neural Parallel Language is an open source, high-performance, scripting language. Its syntax is 100%-compatible with lua. NPL runtime provides essential functionality for building 3D/2D/Server applications that runs on windows/linux/android/iOS.
+* [Official Website](https://paracraft.cn/Home): https://paracraft.cn/Home
+* [Repository](https://github.com/LiXizhi/NPLRuntime): https://github.com/LiXizhi/NPLRuntime
 
 ### [Numbat](https://numbat.dev)
 Numbat is a statically typed programming language for scientific computations with first class support for physical dimensions and units.
