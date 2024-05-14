@@ -1368,6 +1368,11 @@ A general purpose static-typed programming language with type inference and can 
 * [Official Website](https://mlang.dev): https://mlang.dev
 * [Repository](https://github.com/mlang-dev/m): https://github.com/mlang-dev/m
 
+### [Madlib](https://madlib.space)
+Madlib is a pragmatic functional programming language which compiles to both native binary executables and JavaScript. It is similar in syntax to JavaScript (with a little bit of Haskell). Madlib embraces function composition, automatic currying, and monadic control structures.
+* [Official Website](https://madlib.space): https://madlib.space
+* [Repository](https://github.com/madlib-lang/madlib): https://github.com/madlib-lang/madlib
+
 ### [Marko](https://markojs.com)
 Marko is HTML re-imagined as a language for building dynamic and reactive user interfaces. Just about any valid HTML is valid Marko, but Marko extends the HTML language to allow building modern applications in a declarative way.
 * [Official Website](https://markojs.com): https://markojs.com
@@ -1599,6 +1604,11 @@ It is an open source, self-hosted, bootstrapping system programming language whi
 Online-IDE is a java-like programming language with IDE for computer-science-education that runs inside any browser.
 * [Official Website](https://www.online-ide.de): https://www.online-ide.de
 * [Repository](https://github.com/martin-pabst/Online-IDE): https://github.com/martin-pabst/Online-IDE
+
+### [Onyx](https://onyxlang.io)
+A simple, yet powerful language for WebAssembly.
+* [Official Website](https://github.com/onyx-lang/onyx): https://github.com/onyx-lang/onyx
+* [Repository](https://onyxlang.io): https://onyxlang.io
 
 ### [OpenTofu](https://opentofu.org/docs/language)
 The main purpose of the OpenTofu language is declaring resources, which represent infrastructure objects. All other language features exist only to make the definition of resources more flexible and convenient.
