@@ -51,6 +51,11 @@ Agda is open-source and enjoys contributions from many authors. The center of th
 * [Official Website](https://syuilo.github.io/aiscript): https://syuilo.github.io/aiscript
 * [Repository](https://github.com/syuilo/aiscript): https://github.com/syuilo/aiscript
 
+### [Alan](https://alan-lang.org)
+👩‍🚀 Alan is a programming language that makes the power of the GPU more accessible, with a syntax similar to a dynamic language (it's typed, but 100% inferred), and restrictions on recursion and iteration to make automatic generation of multi-threaded CPU and GPGPU versions of your code for you.
+* [Official Website](https://alan-lang.org): https://alan-lang.org
+* [Repository](https://github.com/alantech/alan): https://github.com/alantech/alan
+
 ### [Alda](https://alda.io)
 Alda is a text-based programming language for music composition. It allows you to write and play back music using only a text editor and the command line.
 * [Official Website](https://alda.io): https://alda.io
@@ -85,6 +90,11 @@ Ante is a low-level functional language for exploring refinement types, lifetime
 ### [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
 Apex is a strongly typed, object-oriented programming language that allows developers to execute flow and transaction control statements on the Salesforce Platform server, in conjunction with calls to the API. This guide introduces you to the Apex development process and provides valuable information on learning, writing, deploying and testing Apex.
 * [Official Website](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm): https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+
+### [AQ](https://www.axa6.com)
+AQ is an interpreted programming language. It is fast, small, simple and safe. At the same time, programs written in AQ can also be compiled. Maybe a great piece of work.
+* [Official Website](https://www.axa6.com): https://www.axa6.com
+* [Repository](https://github.com/aq-org/AQ): https://github.com/aq-org/AQ
 
 ### [Aqua](https://fluence.dev/docs/aqua-book/introduction)
 Aqua is an open-source language for distributed workflow coordination in p2p networks. Aqua programs are executed on many peers, sequentially or in parallel, forming a single-use coordination network. Applications are turned into hostless workflows over distributed function calls, which enables various levels of decentralization: from handling by a limited set of servers to complete peer-to-peer architecture by connecting user devices directly. Aqua is the core of the Fluence protocol and a framework for internet or private cloud applications.
@@ -318,6 +328,13 @@ Calcpad is free software for mathematical and engineering calculations. It repre
 ---
 * [Official Website](https://calcpad.eu): https://calcpad.eu
 * [Repository](https://github.com/Proektsoftbg/Calcpad): https://github.com/Proektsoftbg/Calcpad
+
+### [Cmajor](https://cmajor.dev)
+Cmajor is a programming language for writing fast, portable audio software.
+
+You've heard of C, C++, C#, objective-C... well, Cmajor is a C-family language designed specifically for writing DSP signal processing code.
+* [Official Website](https://cmajor.dev): https://cmajor.dev
+* [Repository](https://github.com/cmajor-lang/cmajor): https://github.com/cmajor-lang/cmajor
 
 ### [Candy](https://github.com/candy-lang/candy)
 A sweet, functional programming language that is robust, minimalistic, and expressive.
@@ -738,6 +755,16 @@ At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming 
 Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
 * [Official Website](https://www.emojicode.org): https://www.emojicode.org
 * [Repository](https://github.com/emojicode/emojicode): https://github.com/emojicode/emojicode
+
+
+### [EndBASIC](https://www.endbasic.dev)
+EndBASIC is an interpreter for a BASIC-like language and is inspired by Amstrad's Locomotive BASIC 1.1 and Microsoft's QuickBASIC 4.5. Like the former, EndBASIC intends to provide an interactive environment that seamlessly merges coding with immediate visual feedback. Like the latter, EndBASIC offers higher-level programming constructs and strong typing.
+
+EndBASIC offers a simplified and restricted environment to learn the foundations of programming and focuses on features that can quickly reward the programmer. These features include things like a built-in text editor, commands to render graphics, and commands to interact with the hardware of a Raspberry Pi. Implementing this kind of features has priority over others such as performance or a much richer language.
+
+EndBASIC is written in Rust and runs both on the web and locally on a variety of operating systems and platforms, including macOS, Windows, and Linux.
+* [Official Website](https://www.endbasic.dev): https://www.endbasic.dev
+* [Repository](https://github.com/endbasic/endbasic): https://github.com/endbasic/endbasic
 
 ### [Enso](https://enso.org)
 Enso is an award-winning interactive programming language with dual visual and textual representations. It is a tool that spans the entire stack, going from high-level visualization and communication to the nitty-gritty of backend services, all in a single language. Watch the following introduction video to learn what Enso is, and how it helps companies build data workflows in minutes instead of weeks.
@@ -2155,6 +2182,11 @@ a language and compiler for writing highly efficient custom Deep-Learning primit
 ### [Tu](https://github.com/tu-lang/tu)
 Tu lang is a programming language designed to create a very simple zero dependency (no glibc) dynamic&static language with fully static linking.
 * [Repository](https://github.com/tu-lang/tu): https://github.com/tu-lang/tu
+
+### [Turbofuro](https://turbofuro.com)
+A dynamic visual programming language focused on developer experience, high-level abstractions and API consumption making it easy to build incredible apps quickly.
+* [Official Website]https://turbofuro.com): https://turbofuro.com
+* [Repository](https://github.com/turbofuro/turbofuro): https://github.com/turbofuro/turbofuro
 
 ### [TypeScript](https://www.typescriptlang.org)
 TypeScript is JavaScript with syntax for types.
