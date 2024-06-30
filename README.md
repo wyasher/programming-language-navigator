@@ -423,10 +423,15 @@ ChucK is a programming language for real-time sound synthesis and music creation
 * [Official Website](https://chuck.stanford.edu): https://chuck.stanford.edu
 * [Repository](https://github.com/ccrma/chuck): https://github.com/ccrma/chuck
 
-### [Cicada](https://cicada-lang.org)
+### [Cicada](https://citrine-lang.org)
 Cicada language is a dependently typed programming language and an interactive theorem prover.
-* [Official Website](https://cicada-lang.org): https://cicada-lang.org
+* [Official Website](https://citrine-lang.org): https://citrine-lang.org
 * [Repository](https://github.com/cicada-lang/cicada): https://github.com/cicada-lang/cicada
+
+### [Citrine](https://cicada-lang.org)
+With Citrine you can easily create apps and games using your native language. You can export your creations to any PC, mobile phone, game console or website (soon).
+* [Official Website](https://cicada-lang.org): https://cicada-lang.org
+* [Repository](https://github.com/gabordemooij/citrine): https://github.com/gabordemooij/citrine
 
 ### [Clojure](https://www.clojure.org)
 Clojure is a robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.
