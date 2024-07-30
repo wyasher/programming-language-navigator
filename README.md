@@ -598,6 +598,11 @@ CVXPY is a Python-embedded modeling language for convex optimization problems. I
 * [Official Website](https://www.cvxpy.org): https://www.cvxpy.org
 * [Repository](https://github.com/cvxpy/cvxpy): https://github.com/cvxpy/cvxpy
 
+### [Cyber](https://cyberscript.dev)
+Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. Cyber also comes with a CLI so you can do scripting on your computer.
+* [Official Website](https://cyberscript.dev): https://cyberscript.dev
+* [Repository](https://github.com/fubark/cyber): https://github.com/fubark/cyber
+
 ### [Cypher](https://opencypher.org)
 openCypher is an open source implementation of Cypher® - the most widely adopted, fully-specified, and open query language for property graph databases. Cypher was developed by Neo4j®.
 
@@ -722,6 +727,11 @@ An Expressive and Intuitive, C Style Object-Oriented Programming Language.
 A research language with effect handlers and lightweight effect polymorphism.
 * [Official Website](https://effekt-lang.org): https://effekt-lang.org
 * [Repository](https://github.com/effekt-lang/effekt): https://github.com/effekt-lang/effekt
+
+### [Eiger](https://eigerproject.github.io)
+Eiger (name from Mt. Eiger, Switzerland) is a simple interpreted dynamic-typed programming language.
+* [Official Website](https://github.com/eigerproject/eigercs): https://github.com/eigerproject/eigercs
+* [Repository](https://eigerproject.github.io): https://eigerproject.github.io
 
 ### [ELENA](https://elena-lang.github.io)
 ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. It supports both strong and weak types, run-time conversions, boxing and unboxing primitive types, direct usage of external libraries. A rich set of tools is provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers. Multiple-inheritance can be simulated using mixins and type interfaces. The built-in script engine allows incorporating custom-defined scripts into your applications. Both stand-alone applications and Virtual machine clients are supported.
@@ -1542,6 +1552,11 @@ Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typ
 Neut is a dependently-typed programming language with static memory management.
 * [Official Website](https://vekatze.github.io/neut): https://vekatze.github.io/neut
 * [Repository](https://github.com/vekatze/neut): https://github.com/vekatze/neut
+
+### [NeXTCode](https://it-gss.com/the-code-language)
+NeXTCode is a software development technology specifically designed for engineering high-reliability applications. It consists of a programming language, a verification toolset and a design method which, taken together, ensure that ultra-low defect software can be deployed in application domains where high-reliability must be assured and where safety and security are key requirements.
+* [Official Website](https://it-gss.com/the-code-language): https://it-gss.com/the-code-language
+* [Repository](https://github.com/NeXTech-oss/nextcode): https://github.com/NeXTech-oss/nextcode
 
 ### [Nim](https://nim-lang.org)
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
