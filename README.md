@@ -851,6 +851,15 @@ Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, an
 Fetlang is a statically typed, procedural, esoteric programming language and reference implementation. It is designed such that source code looks like poorly written fetish erotica.
 * [Repository](https://github.com/fetlang/fetlang): https://github.com/fetlang/fetlang
 
+### [Flitter](https://flitter.readthedocs.io)
+Flitter is a functional programming language and declarative system for describing 2D and 3D visuals. The language is designed to encourage an iterative, explorative, play-based approach to constructing visuals.
+
+The engine is able to live reload all code and assets (including shaders, images, videos, models, etc.) while retaining the current system state - thus supporting live-coding. It also has support for interacting with running programs via MIDI surfaces.
+
+Flitter is designed for expressivity and ease of engine development over raw performance, but is fast enough to be able to do interesting things.
+* [Official Website](https://flitter.readthedocs.io): https://flitter.readthedocs.io
+* [Repository](https://github.com/jonathanhogg/flitter): https://github.com/jonathanhogg/flitter
+
 ### [Finkel](https://finkel.readthedocs.io/en/latest)
 Finkel is a statically typed, purely functional, and non-strict-by-default LISP flavored programming language.
 
@@ -1093,6 +1102,11 @@ Hedy is a gradual programming language aimed at teaching programming and teachin
 * [Official Website](https://www.hedy.org): https://www.hedy.org
 * [Repository](https://github.com/hedyorg/hedy): https://github.com/hedyorg/hedy
 
+### [Helix](https://www.helix-lang.com)
+Helix is an experimental language designed for seamless interoperability with Python, C, C++, and Rust. The project aims to provide developers with a fast, efficient, and easy-to-use language that can leverage the power of existing code and libraries in these languages. With its clean syntax and robust features, Helix aims to simplify the process of writing and maintaining code while maximizing performance.
+* [Official Website](https://www.helix-lang.com): https://www.helix-lang.com
+* [Repository](https://github.com/kneorain/helix-lang): https://github.com/kneorain/helix-lang
+
 ### [Horse64](https://horse64.org)
 Horse64 is a high-level language that combines readability, clean dynamic typing, and readiness for large projects
 * [Official Website](https://horse64.org): https://horse64.org
@@ -1261,6 +1275,13 @@ Juvix is an open-source, constantly evolving functional programming language des
 kaoscript is programming language combining features from ES7, CoffeeScript, TypeScript, Rust, Swift, C# and more.
 * [Official Website](https://www.kaoscript.tech): https://www.kaoscript.tech
 * [Repository](https://github.com/kaoscript/kaoscript): https://github.com/kaoscript/kaoscript
+
+### [Kast](https://kast-lang.org)
+A first-class programming language.
+
+Functions, types, templates, bindings, AST, IR, the compiler itself — everything is treat as value in Kast, bringing absolute power
+* [Official Website](https://kast-lang.org): https://kast-lang.org
+* [Repository](https://github.com/kast-lang/kast): https://github.com/kast-lang/kast
 
 ### [KCL](https://kcl-lang.io)
 KCL is an open-source, constraint-based record and functional language that enhances the writing of complex configurations, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems.
