@@ -160,6 +160,11 @@ A TypeScript-like language for WebAssembly.
 * [Official Website](https://www.assemblyscript.org): https://www.assemblyscript.org
 * [Repository](https://github.com/AssemblyScript/assemblyscript): https://github.com/AssemblyScript/assemblyscript
 
+### [Aviator](http://fnil.net/aviator)
+Aviator is a lightweight, high performance scripting language hosted on the JVM. It compiles script to java byte code and evaluate it on the fly.
+* [Official Website](http://fnil.net/aviator): http://fnil.net/aviator
+* [Repository](https://github.com/killme2008/aviatorscript): https://github.com/killme2008/aviatorscript
+
 ### [Awk](https://www.gnu.org/software/gawk)
 The awk utility interprets a special-purpose programming language that makes it possible to handle simple data-reformatting jobs with just a few lines of code.
 * [Official Website](https://www.gnu.org/software/gawk): https://www.gnu.org/software/gawk
@@ -254,6 +259,12 @@ BQN: finally, an APL for your flying saucer.
 ---
 * [Official Website](https://mlochbaum.github.io/BQN): https://mlochbaum.github.io/BQN
 * [Repository](https://github.com/mlochbaum/BQN): https://github.com/mlochbaum/BQN
+
+### [bruijn](https://bruijn.marvinborner.de)
+Functional programming language based on pure de Bruijn indexed lambda calculus.
+---
+* [Official Website](https://bruijn.marvinborner.de): https://bruijn.marvinborner.de
+* [Repository](https://github.com/marvinborner/bruijn): https://github.com/marvinborner/bruijn
 
 ### [Brainease](https://brainease.cli.rs)
 Brainease is a scripting language that has many similar concepts with brainf*ck, sharing some principal concepts, like memory and instructions. It was created to be a simple and faster language to create, but also to be a language that is easy to read and understand.
@@ -1547,6 +1558,13 @@ In practise Never offers basic data types, assignment, control flow, arrays, fir
 Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 * [Official Website](https://nelua.io): https://nelua.io
 * [Repository](https://github.com/edubart/nelua-lang): https://github.com/edubart/nelua-lang
+
+### [NeoHaskell](https://neohaskell.org)
+NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
+
+It is designed to be easy to learn and use, while also being powerful enough to release your app with minimum effort and maximum confidence.
+* [Official Website](https://neohaskell.org): https://neohaskell.org
+* [Repository](https://github.com/neohaskell/NeoHaskell): https://github.com/neohaskell/NeoHaskell
 
 ### [Neut](https://vekatze.github.io/neut)
 Neut is a dependently-typed programming language with static memory management.
