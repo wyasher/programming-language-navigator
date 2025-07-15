@@ -621,6 +621,13 @@ Cypher provides an intuitive way to work with property graphs today and is the b
 * [Official Website](https://opencypher.org): https://opencypher.org
 * [Repository](https://github.com/opencypher/openCypher): https://github.com/opencypher/openCypher
 
+### [Cyrus](https://cyrus-lang-v2.netlify.app)
+Cyrus is a general-purpose, statically-typed, manually memory-managed programming language designed for performance-critical applications. It leverages LLVM as its compiler backend, providing efficient code generation and optimization capabilities. The language syntax is heavily influenced by C, offering familiarity to developers experienced with C-like languages.
+
+* [Official Website](https://cyrus-lang-v2.netlify.app): https://cyrus-lang-v2.netlify.app
+* [Repository](https://github.com/cyrus-lang/Cyrus): https://github.com/cyrus-lang/Cyrus
+
+
 ### [C++](https://cplusplus.com)
 C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; modern C++ currently has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.
 * [Official Website](https://cplusplus.com): https://cplusplus.com
@@ -1607,6 +1614,10 @@ The Nix language is designed for conveniently creating and composing derivations
 * [Official Website](https://nixos.org/manual/nix/stable/language/index.html): https://nixos.org/manual/nix/stable/language/index.html
 * [Repository](https://github.com/NixOS/nix): https://github.com/NixOS/nix
 
+### [Nitrate](https://github.com/nitrate-lang/nitrate)
+Next-Generation Multi-Paradigm Programming Language with Hyper-Fast Compilation Speeds
+* [Repository](https://github.com/nitrate-lang/nitrate): https://github.com/nitrate-lang/nitrate
+
 ### [Nois](https://nois.ivnj.org)
 Statically typed programming language for the web.
 * [Official Website](https://nois.ivnj.org): https://nois.ivnj.org
@@ -2318,6 +2329,15 @@ Vale is a programming language that's aims to be not only fast and memory-safe, 
 ---
 * [Official Website](https://vale.dev): https://vale.dev
 * [Repository](https://github.com/ValeLang/Vale): https://github.com/ValeLang/Vale
+
+### [Valk](https://valk-lang.dev)
+Valk is a programming language aimed to be fast & simple at the same time. The simplicity of Go with the performance of Rust. Valk is also the first programming language with a persistent garbage collector. Meaning no more mark/sweep mechanisms that cause performance problems. We aim to be a feature rich language with a large standard library.
+
+Features: Fastest GC, Coroutines, No undefined behaviour, Package management, Generics, Traits, Closures, Fast compile times, Cross compiling, Optional manual memory mangement, Integrate c libraries, and more...
+
+---
+* [Official Website](https://valk-lang.dev): https://valk-lang.dev
+* [Repository](https://github.com/valk-lang/valk): https://github.com/valk-lang/valk
 
 ### [Vein](https://vein-lang.org)
 Vein is an open source experimental high-level strictly-typed programming language with a standalone OS, arm and quantum computing support.
