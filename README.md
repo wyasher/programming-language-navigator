@@ -1240,6 +1240,13 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 jinko is a small and safe interpreted language written in Rust, with integrated unit tests, mocking and FFI.
 * [Repository](https://github.com/jinko-core/jinko): https://github.com/jinko-core/jinko
 
+### [Jolie](https://www.jolie-lang.org/)
+Jolie is a service-oriented programming language, designed to offer native abstractions for the development of microservices.
+
+---
+* [Official Website](https://www.jolie-lang.org/): https://www.jolie-lang.org/
+* [Repository](https://github.com/jolie/jolie): https://github.com/jolie/jolie
+
 ### [Jsonnet](https://jsonnet.org)
 A configuration language for app and tool developers
 * Generate config data
