@@ -2080,6 +2080,11 @@ Scheme is a classic programming language in the Lisp family. It emphasizes funct
 Scratch is the world's most popular coding community for kids. Millions of kids around the world are using Scratch to program their own interactive stories, games, and animations—and share their creations in an active online community. In the process, they are learning to think creatively, reason systematically, and work collaboratively, while also learning important mathematical and computational ideas. In the past year, more than 20 million people created projects with Scratch.
 * [Official Website](https://www.media.mit.edu/projects/scratch/overview): https://www.media.mit.edu/projects/scratch/overview
 
+### [SEMAPRAX](https://wavect.io/semaprax/)
+SEMAPRAX is an experimental agent-native systems programming language and Rust compiler. Its v0.2 pre-alpha research implementation explores persistent declaration identities, a deterministic semantic graph, replayable evidence-gated semantic patches, explicit capabilities and ownership, and Native C11 and WebAssembly Core outputs.
+* [Official Website](https://wavect.io/semaprax/): https://wavect.io/semaprax/
+* [Repository](https://github.com/wavect/semaprax): https://github.com/wavect/semaprax
+
 ### [Shake](https://shakelang.github.io)
 Shake is a high level, object-oriented, multi-targeting, modern programming language. It can be compiled into different languages (targets), such as C, C++, C#, Java, JavaScript and binary executables as well as interpreted (currently the only implemented target is JavaScript). It also provides a scripting language for faster and more efficient creation of small projects.
 * [Official Website](https://shakelang.github.io): https://shakelang.github.io
